@@ -14,7 +14,8 @@ const bankPath = path.join(root, 'dist/bank.json');
 const previous = JSON.parse(await readFile(bankPath, 'utf8').catch(() => 'null'));
 
 const materials = JSON.parse(await readFile(path.join(root, 'content/materials.json'), 'utf8').catch(() => '{}'));
-const topics = curso.topics.map(t => (materials[t.id] ? { ...t, material: materials[t.id] } : t));
+const audio = JSON.parse(await readFile(path.join(root, 'content/audio.json'), 'utf8').catch(() => '{}'));
+const topics = curso.topics.map(t => ({ ...t, ...(materials[t.id] ? { material: materials[t.id] } : {}), ...(audio[t.id]?.length ? { audio: audio[t.id] } : {}) }));
 const questions = [];
 for (const topic of topics) {
   const nn = String(topic.number).padStart(2, '0');

@@ -237,3 +237,27 @@ a.page-ref:hover{color:var(--color-primary)}
   .tq-answer{margin-top:6px}
   a{color:inherit;text-decoration:none}
 }
+
+/* Reproductor opcional de la clase */
+#audio-dock{position:fixed;z-index:19;left:50%;transform:translateX(-50%);width:100%;max-width:var(--page-max);bottom:calc(68px + env(safe-area-inset-bottom));padding:0 12px;pointer-events:none;display:flex;justify-content:flex-end}
+#audio-dock[hidden]{display:none}
+#audio-dock>*{pointer-events:auto}
+.dock-pill{display:inline-flex;align-items:center;gap:8px;min-height:44px;padding:0 16px 0 12px;border:0;border-radius:999px;background:var(--color-primary);color:#fff;font:600 13px/1 var(--font-body);box-shadow:0 6px 18px rgba(16,63,79,.28);cursor:pointer}
+.dock-pill[hidden]{display:none}
+.dock-pill svg{width:20px;height:20px;fill:none;stroke:currentColor;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
+.dock-pill:focus-visible,.dock-close:focus-visible{outline:3px solid var(--color-focus);outline-offset:2px}
+.dock-panel{width:100%;padding:12px 14px;border:1px solid var(--color-border);border-radius:var(--radius-panel);background:var(--color-surface);box-shadow:0 10px 28px rgba(16,63,79,.22)}
+.dock-panel[hidden]{display:none}
+.dock-head{display:flex;justify-content:space-between;align-items:center;gap:8px;margin-bottom:6px;color:var(--color-primary);font-size:14px}
+.dock-close{width:32px;height:32px;border:0;border-radius:50%;background:var(--color-tint);color:var(--color-primary);font-size:20px;line-height:1;cursor:pointer}
+.dock-title{margin:0 0 6px;font-size:12px;color:var(--color-muted)}
+.dock-part select,.dock-controls select{width:100%;min-height:36px;margin-bottom:6px;border:1px solid var(--color-border);border-radius:var(--radius-control);background:var(--color-surface);color:var(--color-text);font:inherit;font-size:12px}
+.dock-panel audio{width:100%;height:40px}
+.dock-controls{display:flex;align-items:center;gap:8px;margin-top:8px}
+.dock-controls .btn{flex:0 0 auto;min-height:36px;padding:0 12px;font-size:12px}
+.dock-controls label{display:flex;align-items:center;gap:6px;margin-left:auto;font-size:12px;color:var(--color-muted)}
+.dock-controls select{width:auto;margin:0}
+.dock-panel .small{margin:8px 0 0;font-size:11px;line-height:1.5;color:var(--color-muted)}
+body.has-dock main{padding-bottom:132px}
+@media(min-width:1024px){#audio-dock{left:auto;right:24px;transform:none;width:380px;max-width:380px;bottom:20px;padding:0}body.has-dock main{padding-bottom:64px}}
+@media print{#audio-dock{display:none!important}}

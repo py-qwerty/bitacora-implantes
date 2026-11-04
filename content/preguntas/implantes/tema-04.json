@@ -1,482 +1,482 @@
 [
  {
-  "text": "¿Qué dos archivos se combinan (matching) en el flujo digital de planificación de implantes?",
+  "text": "¿Qué se entiende por cambio de plataforma (platform switching)?",
   "options": [
-   "Dos panorámicas tomadas en momentos distintos para compararlas.",
-   "El DICOM del CBCT, con el hueso, y el STL del escáner de superficie, con dientes y encía.",
-   "Un STL obtenido del CBCT y un DICOM obtenido del escáner intraoral.",
-   "Una fotografía clínica y un modelo de yeso sin escanear."
+   "Que el pilar tiene el mismo diámetro que el implante y queda a ras.",
+   "Que el pilar tiene un diámetro menor que la plataforma del implante.",
+   "Que se sustituye el implante de titanio por otro de cerámica.",
+   "Que el pilar es más ancho que el implante para sellar mejor."
   ],
   "correct": "b",
-  "explanation": "El flujo digital combina el DICOM del CBCT (hueso) con el STL del escáner de superficie (dientes y encía) mediante el matching.",
+  "explanation": "El pilar es más estrecho que la plataforma del implante; así se aleja la unión del hueso y se deja un escalón para el tejido blando.",
   "difficulty": "baja",
   "source": {
    "kind": "clase",
-   "title": "Clase del 8 de octubre · Planificación del tratamiento"
+   "title": "Clase del 1 de octubre · Materiales de los implantes"
   }
  },
  {
-  "text": "¿Por qué no cabe esperar una precisión del 100% entre el plan en el ordenador y el resultado en la boca?",
+  "text": "Un implante con cambio de plataforma se asocia en clínica a menor pérdida de hueso marginal. ¿Cuál es la explicación que se dio?",
   "options": [
-   "Porque el CBCT siempre distorsiona la imagen y no se puede corregir.",
-   "Porque el software de planificación es poco fiable y no debe usarse.",
-   "Porque la guía quirúrgica se fabrica siempre con un material que se deforma.",
-   "Porque hay dos pasos de transferencia (entrada de datos y salida con guía o navegación) y cada uno añade pequeños errores que se acumulan."
+   "El titanio de los pilares estrechos es más resistente que el del implante.",
+   "Al ser más estrecho, el pilar elimina por completo las bacterias de la boca.",
+   "La unión pilar-implante y los micromovimientos quedan más lejos de la cresta ósea y los tejidos blandos tienen un escalón donde apoyarse.",
+   "El estrechamiento aumenta el módulo elástico del pilar."
   ],
-  "correct": "d",
-  "explanation": "No existe precisión del 100% porque hay varios pasos de transferencia, cada uno con un error pequeño que se acumula.",
+  "correct": "c",
+  "explanation": "La unión y los micromovimientos se alejan de la cresta ósea y el tejido blando se apoya en el escalón, con menor pérdida ósea marginal.",
   "difficulty": "media",
   "source": {
    "kind": "clase",
-   "title": "Clase del 8 de octubre · Planificación del tratamiento"
+   "title": "Clase del 1 de octubre · Materiales de los implantes"
   }
  },
  {
-  "text": "¿Qué es un vóxel?",
+  "text": "¿Por qué se consideran la boca un medio especialmente exigente para un biomaterial?",
   "options": [
-   "La unidad de volumen de una imagen tridimensional, equivalente tridimensional del píxel.",
-   "La unidad de área de una radiografía bidimensional.",
-   "Un formato de archivo para guardar escáneres de superficie.",
-   "La unidad de dosis efectiva de radiación recibida por el paciente."
+   "Porque combina cargas mecánicas, cambios térmicos, humedad y bacterias de forma continua.",
+   "Porque el pH de la saliva es siempre ácido y disuelve cualquier material.",
+   "Porque es un entorno estéril y cualquier material lo contamina.",
+   "Porque la temperatura se mantiene constante y el material se fatiga."
   ],
   "correct": "a",
-  "explanation": "El vóxel es el elemento de volumen de la imagen 3D; el píxel es el elemento de área de la imagen 2D.",
+  "explanation": "La boca combina cargas mecánicas, cambios térmicos, humedad y bacterias, por lo que es el medio más exigente del cuerpo.",
   "difficulty": "baja",
   "source": {
    "kind": "clase",
-   "title": "Clase del 8 de octubre · Planificación del tratamiento"
+   "title": "Clase del 1 de octubre · Materiales de los implantes"
   }
  },
  {
-  "text": "Tras entregar una prótesis sobre implantes, ¿qué utilidad tiene hacer una periapical estandarizada (paralelizada) ese día?",
+  "text": "Respecto a la biocompatibilidad de los materiales de los implantes, ¿qué idea se transmitió en clase?",
   "options": [
-   "Sustituye a la prótesis provisional mientras se fabrica la definitiva.",
-   "Permite planificar la posición de futuros implantes en la otra arcada.",
-   "Sirve como referencia del nivel óseo inicial para compararlo en los controles anuales y saber si el hueso marginal se está perdiendo.",
-   "Evita tener que realizar ningún otro control radiológico futuro."
-  ],
-  "correct": "c",
-  "explanation": "La periapical estandarizada al entregar la prótesis fija el nivel óseo de partida para comparar en las revisiones posteriores.",
-  "difficulty": "media",
-  "source": {
-   "kind": "clase",
-   "title": "Clase del 8 de octubre · Planificación del tratamiento"
-  }
- },
- {
-  "text": "¿Por qué una periapical puede no mostrar una fractura que sí existe en un diente o en un implante?",
-  "options": [
-   "Porque la periapical tiene menos nitidez que la panorámica.",
-   "Porque utiliza una dosis demasiado alta que borra los detalles finos.",
-   "Porque solo permite ver tejidos blandos y no estructuras duras.",
-   "Porque la imagen es bidimensional y superpone planos: la línea de fractura solo se aprecia si el haz incide perpendicular a ella."
+   "Existen materiales completamente inertes, como el titanio.",
+   "Basta con que el material no sea tóxico para considerarlo biocompatible.",
+   "Solo importa el material y no el medio donde se coloca.",
+   "Ningún material es inerte; se busca que su relación con el tejido sea previsible."
   ],
   "correct": "d",
-  "explanation": "Una fractura en una periapical solo se ve si la línea queda perpendicular al haz, por la superposición de planos de una imagen 2D.",
+  "explanation": "Ningún material es inerte: el objetivo es una relación previsible con el tejido, valorando el conjunto material-medio.",
   "difficulty": "media",
   "source": {
    "kind": "clase",
-   "title": "Clase del 8 de octubre · Planificación del tratamiento"
+   "title": "Clase del 1 de octubre · Materiales de los implantes"
   }
  },
  {
-  "text": "Entregas una corona sobre implante que se atornilla sin problema, pero sospechas que la plataforma no ha asentado bien. ¿Qué prueba sencilla permite comprobarlo?",
+  "text": "Un paciente lleva implantes, coronas metálicas de otra aleación y una amalgama. ¿Qué riesgo concreto se destacó al exigir que un material no genere corriente galvánica?",
   "options": [
-   "Ninguna, porque si la corona atornilla es seguro que asienta bien.",
-   "Una periapical de control, que muestra el ajuste entre la corona o el pilar y el implante.",
-   "Un CBCT de ambas arcadas en todos los casos.",
-   "Una panorámica, porque ofrece más detalle que la periapical."
+   "Que el paciente desarrolle caries en los dientes vecinos.",
+   "Que metales distintos en contacto con la saliva formen una pila y generen corriente.",
+   "Que la corriente aumente la densidad ósea alrededor del implante.",
+   "Que el paciente rechace los metales por motivos estéticos."
   ],
   "correct": "b",
-  "explanation": "La periapical de control permite ver el ajuste entre pilar o corona e implante y el nivel óseo marginal con muy poca radiación.",
+  "explanation": "Con metales distintos y saliva se forma una pila, de ahí que se exija que el material no genere corriente galvánica.",
   "difficulty": "media",
   "source": {
    "kind": "clase",
-   "title": "Clase del 8 de octubre · Planificación del tratamiento"
+   "title": "Clase del 1 de octubre · Materiales de los implantes"
   }
  },
  {
-  "text": "En una panorámica, entre la cresta y el conducto dentario inferior se miden 10 mm aparentes, que por la magnificación son 8 mm reales. Si se deja un margen de seguridad de 2 mm con el nervio, ¿qué longitud máxima de implante se puede colocar?",
+  "text": "¿Qué mide el módulo elástico de un material?",
   "options": [
-   "10 mm",
-   "8 mm",
-   "6 mm",
-   "4 mm"
+   "La fuerza máxima que soporta antes de romperse.",
+   "La capacidad de frenar el crecimiento de una grieta.",
+   "Cuánto se deforma el material ante una carga determinada.",
+   "La resistencia a cargas repetidas durante años."
   ],
   "correct": "c",
-  "explanation": "Primero se corrige la magnificación (10 aparentes son 8 reales) y luego se restan 2 mm de margen: queda un implante de 6 mm como máximo.",
+  "explanation": "El módulo elástico describe cuánto se deforma un material con una carga; no es la fuerza de rotura ni la tenacidad.",
+  "difficulty": "baja",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 1 de octubre · Materiales de los implantes"
+  }
+ },
+ {
+  "text": "Un implante de titanio (módulo elástico alto) está osteointegrado en un hueso de módulo elástico mucho más bajo. Al masticar, ¿qué ocurre en la interfaz?",
+  "options": [
+   "Implante y hueso se deforman de forma distinta y se concentra tensión en la unión.",
+   "Nada, porque la osteointegración iguala las propiedades de ambos.",
+   "El hueso se vuelve más rígido para igualarse al metal.",
+   "El implante se deforma más que el hueso y se relaja la tensión."
+  ],
+  "correct": "a",
+  "explanation": "Al ser sus módulos muy distintos, se deforman de manera diferente y se concentra tensión en la interfaz implante-hueso.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 1 de octubre · Materiales de los implantes"
+  }
+ },
+ {
+  "text": "¿Por qué se explicó que la resistencia a la fatiga importa más que la fuerza máxima puntual?",
+  "options": [
+   "Porque la fuerza máxima no se puede medir en un material dental.",
+   "Porque un material con mucha fuerza máxima es siempre más frágil.",
+   "Porque la fatiga solo afecta a las cerámicas.",
+   "Porque el implante debe soportar cargas repetidas de masticación durante décadas, no un esfuerzo enorme de un instante."
+  ],
+  "correct": "d",
+  "explanation": "El implante soporta cargas repetidas durante décadas, por lo que importa la fatiga más que un pico de fuerza.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 1 de octubre · Materiales de los implantes"
+  }
+ },
+ {
+  "text": "¿Qué propiedad describe la capacidad de un material de impedir que una grieta se haga más grande?",
+  "options": [
+   "El módulo elástico.",
+   "La tenacidad (resistencia a la fractura).",
+   "La biocorrosión.",
+   "El límite elástico."
+  ],
+  "correct": "b",
+  "explanation": "La tenacidad es la resistencia del material a que una grieta crezca.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 1 de octubre · Materiales de los implantes"
+  }
+ },
+ {
+  "text": "¿Cómo se define la tribocorrosión?",
+  "options": [
+   "Degradación química por humedad y oxígeno sin movimiento.",
+   "Capa de óxido que protege al metal.",
+   "Desgaste por fricción y roce, que se suma a la degradación química.",
+   "Pérdida de hueso alrededor del implante por infección."
+  ],
+  "correct": "c",
+  "explanation": "La tribocorrosión es el desgaste por fricción que se suma a la corrosión química.",
+  "difficulty": "baja",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 1 de octubre · Materiales de los implantes"
+  }
+ },
+ {
+  "text": "¿Qué es lo que realmente se osteointegra en un implante de titanio?",
+  "options": [
+   "El titanio metálico puro de la masa del implante.",
+   "Una capa de hidroxiapatita que siempre se coloca sobre el implante.",
+   "Los iones de titanio liberados por la corrosión.",
+   "La capa nanométrica de dióxido de titanio (titania) que recubre el metal."
+  ],
+  "correct": "d",
+  "explanation": "Lo que se integra es la capa nanométrica de titania, una cerámica, y no el titanio metálico.",
+  "difficulty": "baja",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 1 de octubre · Materiales de los implantes"
+  }
+ },
+ {
+  "text": "Tras un arañazo en la superficie de un implante de titanio con oxígeno disponible, ¿qué ocurre?",
+  "options": [
+   "La zona queda desprotegida de forma permanente.",
+   "Se vuelve a formar una nueva capa de titania en milisegundos.",
+   "El implante pierde la osteointegración en esa zona.",
+   "Se forma una capa de hidroxiapatita."
+  ],
+  "correct": "b",
+  "explanation": "Con oxígeno disponible, la superficie arañada se reoxida y forma titania nueva en milisegundos.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 1 de octubre · Materiales de los implantes"
+  }
+ },
+ {
+  "text": "¿Qué grado de titanio comercialmente puro se utiliza en implantología?",
+  "options": [
+   "El grado 4, el más resistente de los puros por su mayor contenido de impurezas.",
+   "El grado 1, por ser el más blando.",
+   "El grado 5, por ser titanio puro.",
+   "El grado 2, por ser el más translúcido."
+  ],
+  "correct": "a",
+  "explanation": "Entre los puros se usa el grado 4, el más resistente; el grado 5 agrupa las aleaciones.",
+  "difficulty": "baja",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 1 de octubre · Materiales de los implantes"
+  }
+ },
+ {
+  "text": "¿Qué función cumplen el aluminio y el vanadio en la aleación Ti-6Al-4V?",
+  "options": [
+   "Colorean la superficie del implante.",
+   "Reducen el módulo elástico por debajo del hueso.",
+   "Eliminan las impurezas de oxígeno del grado 4.",
+   "Son estabilizadores de la fase beta, que se mantiene así a temperatura ambiente."
+  ],
+  "correct": "d",
+  "explanation": "El aluminio y el vanadio estabilizan la fase beta a temperatura ambiente en la aleación Ti-6Al-4V.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 1 de octubre · Materiales de los implantes"
+  }
+ },
+ {
+  "text": "¿Qué ventaja permitió el titanio alfa-beta (Ti-6Al-4V) frente al titanio puro de grado 4 en los diseños modernos?",
+  "options": [
+   "Es más barato y se mecaniza sin esfuerzo.",
+   "Su mayor resistencia permite paredes finas y conexiones exigentes como el cono Morse.",
+   "Elimina la capa de titania.",
+   "Es completamente inerte y no libera ningún ion."
+  ],
+  "correct": "b",
+  "explanation": "La mayor resistencia del titanio alfa-beta permite paredes finas y conexiones como el cono Morse.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 1 de octubre · Materiales de los implantes"
+  }
+ },
+ {
+  "text": "¿Qué indican las siglas ELI en un titanio?",
+  "options": [
+   "Elemento de liberación iónica: libera iones controlados.",
+   "Estabilizador de la fase beta: mantiene la fase beta.",
+   "Extra low interstitial: muy pocas impurezas y defectos en la red atómica.",
+   "Extra long implant: implante extralargo."
+  ],
+  "correct": "c",
+  "explanation": "ELI significa extra low interstitial: titanio con impurezas y defectos reducidos al mínimo.",
+  "difficulty": "baja",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 1 de octubre · Materiales de los implantes"
+  }
+ },
+ {
+  "text": "Una paciente refiere alergia a los metales. ¿Qué característica del Roxolid lo hace interesante?",
+  "options": [
+   "Es una aleación de titanio con circonio que no contiene vanadio.",
+   "Es una cerámica totalmente libre de metales.",
+   "Contiene más vanadio que el Ti-6Al-4V.",
+   "Carece de capa de óxido en la superficie."
+  ],
+  "correct": "a",
+  "explanation": "El Roxolid es titanio con circonio sin vanadio, lo que puede interesar en pacientes alérgicos a metales.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 1 de octubre · Materiales de los implantes"
+  }
+ },
+ {
+  "text": "Con el mismo titanio grado 4 de partida, ¿cómo se consigue aproximar su resistencia a unos 800 MPa?",
+  "options": [
+   "Añadiendo un 6% de aluminio.",
+   "Recubriéndolo de hidroxiapatita.",
+   "Dejándolo a 1000 grados durante años.",
+   "Con un tratamiento de trabajo en frío, que aumenta su resistencia."
+  ],
+  "correct": "d",
+  "explanation": "El trabajo en frío endurece el titanio grado 4 y lo lleva a unos 800 MPa.",
   "difficulty": "alta",
   "source": {
    "kind": "clase",
-   "title": "Clase del 8 de octubre · Planificación del tratamiento"
+   "title": "Clase del 1 de octubre · Materiales de los implantes"
   }
  },
  {
-  "text": "¿Qué implica para el clínico que la panorámica magnifique la imagen en torno a un 20-25%?",
+  "text": "Una paciente con biotipo gingival fino y sonrisa gingival recibe un implante metálico en el sector anterior y se queja de una sombra gris. ¿Cuál es la causa principal?",
   "options": [
-   "Que las medidas tomadas directamente en la imagen sobrestiman la realidad y hay que corregirlas antes de elegir la longitud del implante.",
-   "Que las estructuras parecen más pequeñas de lo que son y se debe compensar sumando.",
-   "Que la imagen solo sirve para el maxilar y nunca para la mandíbula.",
-   "Que no hay que tenerla en cuenta si la panorámica es digital."
+   "Una alergia al titanio.",
+   "Una pérdida de la capa de titania.",
+   "El metal se transparenta a través de una encía muy fina.",
+   "Un exceso de placa bacteriana."
   ],
-  "correct": "a",
-  "explanation": "La panorámica magnifica la imagen, de modo que las medidas directas sobrestiman la realidad y hay que corregirlas.",
+  "correct": "c",
+  "explanation": "En un biotipo fino el implante metálico se transparenta y produce sombra gris.",
   "difficulty": "media",
   "source": {
    "kind": "clase",
-   "title": "Clase del 8 de octubre · Planificación del tratamiento"
+   "title": "Clase del 1 de octubre · Materiales de los implantes"
   }
  },
  {
-  "text": "Una panorámica muestra altura aparentemente suficiente en una zona edéntula posterior. ¿Qué falta valorar antes de prometer implantes al paciente?",
+  "text": "Una corona sobre un implante lleva tres semanas floja y el paciente ha seguido masticando; se fractura la conexión interna. ¿Qué indicación debe recoger el consentimiento para prevenirlo?",
   "options": [
-   "Nada más, porque la altura es el único dato que condiciona colocar implantes.",
-   "El color de las encías, que es lo que define la viabilidad del hueso.",
-   "El número de implantes del fabricante, que determina el diagnóstico.",
-   "La anchura del hueso con un CBCT, porque la reabsorción suele afectar primero a la anchura."
-  ],
-  "correct": "d",
-  "explanation": "La panorámica no muestra la anchura del hueso, que suele reabsorberse antes que la altura, así que hace falta CBCT.",
-  "difficulty": "media",
-  "source": {
-   "kind": "clase",
-   "title": "Clase del 8 de octubre · Planificación del tratamiento"
-  }
- },
- {
-  "text": "Falta un molar inferior y el diente antagonista superior está muy extruido. ¿Qué implica para el plan?",
-  "options": [
-   "Que probablemente no hay espacio protésico y el plan debe considerar también la arcada antagonista.",
-   "Que se puede colocar el implante sin más porque el espacio siempre es suficiente.",
-   "Que el antagonista no influye y solo cuenta la altura de hueso inferior.",
-   "Que hay que abandonar cualquier tratamiento con implantes en ese paciente."
-  ],
-  "correct": "a",
-  "explanation": "Un antagonista muy extruido reduce el espacio protésico, por lo que el plan debe incluir la arcada antagonista.",
-  "difficulty": "media",
-  "source": {
-   "kind": "clase",
-   "title": "Clase del 8 de octubre · Planificación del tratamiento"
-  }
- },
- {
-  "text": "Durante la planificación detectas varios problemas evidentes (falta de hueso, antagonista extruido). El paciente solo quiere colocar un implante. ¿Cuál es la conducta adecuada?",
-  "options": [
-   "Callar los problemas y plantear el tratamiento más sencillo para no asustarle.",
-   "Informarle desde el primer día de todo lo que necesita el tratamiento y, si decide hacer solo una parte, dejar por escrito su decisión firmada.",
-   "Realizar el plan completo sin consultarle y cobrar el total.",
-   "Esperar a abrir el hueso en la cirugía para decidir qué hacer."
+   "Que siga masticando con normalidad hasta la próxima revisión.",
+   "Que, si la corona se afloja, no mastique y acuda para que se la aprieten.",
+   "Que pegue la corona con adhesivo doméstico.",
+   "Que retire el implante por su cuenta."
   ],
   "correct": "b",
-  "explanation": "Hay que informar de todo desde el principio y, si el paciente limita el tratamiento, dejarlo firmado en su historia.",
+  "explanation": "El paciente debe dejar de masticar y acudir para que le aprieten la corona, para no romper la conexión.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 1 de octubre · Materiales de los implantes"
+  }
+ },
+ {
+  "text": "¿Por qué se rompe una cerámica de forma aparentemente repentina?",
+  "options": [
+   "Porque una grieta que crece de forma silenciosa llega a un tamaño crítico y se produce una fractura catastrófica.",
+   "Porque la cerámica es siempre débil.",
+   "Porque se deforma plásticamente hasta romperse.",
+   "Porque la corrosión la disuelve."
+  ],
+  "correct": "a",
+  "explanation": "La grieta crece en silencio (propagación subcrítica) hasta un tamaño crítico y entonces se produce la fractura catastrófica.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 1 de octubre · Materiales de los implantes"
+  }
+ },
+ {
+  "text": "¿Qué información aporta el módulo de Weibull de una cerámica?",
+  "options": [
+   "Cuánto se deforma el material con la carga.",
+   "Cuánto tarda en envejecer por contacto con agua.",
+   "Cómo se distribuyen los defectos: un módulo alto indica un comportamiento más predecible.",
+   "El color final de la cerámica."
+  ],
+  "correct": "c",
+  "explanation": "El módulo de Weibull describe la distribución de los defectos; cuanto más alto, más predecible es la rotura.",
   "difficulty": "alta",
   "source": {
    "kind": "clase",
-   "title": "Clase del 8 de octubre · Planificación del tratamiento"
+   "title": "Clase del 1 de octubre · Materiales de los implantes"
   }
  },
  {
-  "text": "¿Qué característica distingue al CBCT de la radiografía bidimensional en la planificación?",
+  "text": "¿Qué estabilizador mantiene la fase tetragonal de la circonia a temperatura ambiente?",
   "options": [
-   "Ofrece una relación uno a uno, sin la distorsión de la panorámica, y es especialmente útil para tejidos duros.",
-   "Presenta la misma magnificación que la panorámica.",
-   "Es mejor que cualquier otra prueba para los tejidos blandos.",
-   "Solo capta un plano, igual que la periapical."
-  ],
-  "correct": "a",
-  "explanation": "El CBCT tiene relación 1:1, sin distorsión, y es especialmente útil para evaluar el hueso.",
-  "difficulty": "baja",
-  "source": {
-   "kind": "clase",
-   "title": "Clase del 8 de octubre · Planificación del tratamiento"
-  }
- },
- {
-  "text": "¿Qué diferencia técnica hay entre un TC convencional y un CBCT?",
-  "options": [
-   "El CBCT hace cortes sucesivos y el TC un solo disparo cónico.",
-   "El CBCT necesita mayor dosis que el TC convencional.",
-   "El TC va tomando cortes y el equipo interpola lo que hay entre ellos; el CBCT hace un disparo en forma de cono y recoge datos de todo el volumen, con menos tiempo y dosis.",
-   "No hay ninguna diferencia técnica: son nombres distintos de la misma prueba."
-  ],
-  "correct": "c",
-  "explanation": "El TC convencional capta por cortes e interpola; el CBCT hace un disparo cónico, con menos tiempo y menos dosis.",
-  "difficulty": "media",
-  "source": {
-   "kind": "clase",
-   "title": "Clase del 8 de octubre · Planificación del tratamiento"
-  }
- },
- {
-  "text": "Vas a planificar implantes cigomáticos pero tu equipo tiene un FOV pequeño, que solo abarca la mandíbula. ¿Qué problema aparece?",
-  "options": [
-   "Ninguno, porque el software completa la zona que falta.",
-   "El FOV no abarca toda la zona a planificar; habría que hacer varios escáneres, lo que impide trabajar sobre un único modelo.",
-   "La imagen sale demasiado grande y se debe reducir.",
-   "Solo se pierde calidad de color, sin consecuencias clínicas."
-  ],
-  "correct": "b",
-  "explanation": "El FOV debe cubrir toda la zona planificada; si no, no se puede trabajar sobre un único modelo.",
-  "difficulty": "media",
-  "source": {
-   "kind": "clase",
-   "title": "Clase del 8 de octubre · Planificación del tratamiento"
-  }
- },
- {
-  "text": "¿Por qué conviene pedir el archivo DICOM y manejar el visor uno mismo en lugar de limitarse a unas imágenes impresas?",
-  "options": [
-   "Porque las imágenes impresas son siempre más caras.",
-   "Porque el visor evita tener que planificar la prótesis.",
-   "Porque así se elimina por completo la radiación al paciente.",
-   "Porque con el visor se eligen los cortes, se hacen cortes transversales y panorámicas en la zona deseada y se miden distancias y ángulos."
+   "El aluminio, en torno a un 6%.",
+   "El vanadio, en torno a un 4%.",
+   "El níquel, en pequeñas trazas.",
+   "La itria, en torno a un 3%."
   ],
   "correct": "d",
-  "explanation": "El archivo DICOM y un visor propio permiten elegir cortes, crear panorámicas reconstruidas y medir con precisión.",
-  "difficulty": "baja",
-  "source": {
-   "kind": "clase",
-   "title": "Clase del 8 de octubre · Planificación del tratamiento"
-  }
- },
- {
-  "text": "¿Cuál de estos elementos NO forma parte de la lista de comprobación de la planificación en el CBCT?",
-  "options": [
-   "El color y la forma de la futura corona elegida en el laboratorio.",
-   "La altura y la anchura del hueso disponible.",
-   "Las estructuras de riesgo y la calidad ósea.",
-   "El eje protésico respecto al eje del implante."
-  ],
-  "correct": "a",
-  "explanation": "La lista incluye altura, anchura, estructuras de riesgo, calidad ósea, patología y eje protésico; no el color de la corona.",
+  "explanation": "La itria (óxido de itrio), en torno al 3%, estabiliza la fase tetragonal a temperatura ambiente.",
   "difficulty": "media",
   "source": {
    "kind": "clase",
-   "title": "Clase del 8 de octubre · Planificación del tratamiento"
+   "title": "Clase del 1 de octubre · Materiales de los implantes"
   }
  },
  {
-  "text": "¿Qué distancia se recomienda dejar entre un implante y el diente vecino, según la clase?",
+  "text": "¿Cómo se explica la autorreparación de las grietas en la circonia estabilizada?",
   "options": [
-   "0,5 mm",
-   "0 mm, es decir, implante y diente en contacto",
-   "1,5 mm",
-   "4 mm"
-  ],
-  "correct": "c",
-  "explanation": "El margen entre implante y diente vecino es de unos 1,5 mm.",
-  "difficulty": "media",
-  "source": {
-   "kind": "clase",
-   "title": "Clase del 8 de octubre · Planificación del tratamiento"
-  }
- },
- {
-  "text": "¿Qué significa el criterio ALARA en radiología?",
-  "options": [
-   "Que se debe aplicar siempre la dosis máxima para no repetir pruebas.",
-   "Que la dosis debe ser tan baja como sea razonablemente posible, siempre que la imagen siga siendo útil para el diagnóstico.",
-   "Que no se debe hacer ninguna prueba de imagen en el paciente.",
-   "Que la dosis se elige por motivos económicos del centro."
+   "El agua rellena la grieta y la sella.",
+   "La tensión en la punta de la grieta transforma la fase tetragonal en monoclínica, que ocupa un 4% más de volumen y aprieta la grieta.",
+   "La monoclínica es más dura y rechaza la grieta.",
+   "La itria se desprende y rellena la grieta."
   ],
   "correct": "b",
-  "explanation": "ALARA: dosis tan baja como sea razonable, compatible con una imagen diagnóstica útil.",
-  "difficulty": "media",
-  "source": {
-   "kind": "clase",
-   "title": "Clase del 8 de octubre · Planificación del tratamiento"
-  }
- },
- {
-  "text": "¿En qué situación NO se debe pedir un TC?",
-  "options": [
-   "Cuando el resultado no va a cambiar la decisión terapéutica.",
-   "Cuando hay una indicación clara y la zona es compleja.",
-   "Cuando se necesita ver la anchura del hueso para planificar.",
-   "Cuando hay que planificar un implante cigomático."
-  ],
-  "correct": "a",
-  "explanation": "El TC no se pide si su resultado no cambia la decisión terapéutica; no existe la indicación sistemática.",
-  "difficulty": "media",
-  "source": {
-   "kind": "clase",
-   "title": "Clase del 8 de octubre · Planificación del tratamiento"
-  }
- },
- {
-  "text": "¿Por qué el matching es más difícil en un paciente totalmente edéntulo?",
-  "options": [
-   "Porque el CBCT no puede captar el hueso de un edéntulo.",
-   "Porque los dientes producen demasiada distorsión y hay que quitarlos.",
-   "Porque el escáner intraoral no funciona en pacientes edéntulos.",
-   "Porque la mucosa se mueve y no es una referencia fiable; hacen falta referencias fijas, como un trazador."
-  ],
-  "correct": "d",
-  "explanation": "En un edéntulo falta una referencia rígida porque la mucosa se mueve; hay que añadir marcadores o un trazador.",
-  "difficulty": "media",
-  "source": {
-   "kind": "clase",
-   "title": "Clase del 8 de octubre · Planificación del tratamiento"
-  }
- },
- {
-  "text": "Un paciente conserva casi todos sus dientes y solo le faltan dos. ¿Por qué el matching resulta sencillo?",
-  "options": [
-   "Porque el STL se extrae del CBCT y no hace falta superponer nada.",
-   "Porque la mucosa es una referencia muy estable.",
-   "Porque los dientes son muy densos y se reconocen con claridad tanto en el CBCT como en el escáner intraoral, y sirven de referencia común.",
-   "Porque no se necesita ningún escáner intraoral con pacientes dentados."
-  ],
-  "correct": "c",
-  "explanation": "Con dientes, el matching es fácil porque son muy densos y aparecen en ambos archivos.",
-  "difficulty": "baja",
-  "source": {
-   "kind": "clase",
-   "title": "Clase del 8 de octubre · Planificación del tratamiento"
-  }
- },
- {
-  "text": "Una empresa externa te envía un plan completo y te pide que firmes que estás de acuerdo, pero no sabes revisarlo. ¿Qué implica firmarlo?",
-  "options": [
-   "Nada, porque la responsabilidad pasa a la empresa que diseñó el plan.",
-   "Que el software se hace responsable de cualquier error.",
-   "Que ya no es necesario revisar el CBCT.",
-   "Firmar a ciegas: se puede delegar el trabajo, pero la responsabilidad última sigue siendo del clínico."
-  ],
-  "correct": "d",
-  "explanation": "Se puede delegar el diseño, pero no la responsabilidad: firmar sin revisar es firmar a ciegas.",
-  "difficulty": "media",
-  "source": {
-   "kind": "clase",
-   "title": "Clase del 8 de octubre · Planificación del tratamiento"
-  }
- },
- {
-  "text": "¿Cuál es la función de cada tipo de férula en el flujo de planificación?",
-  "options": [
-   "La radiológica se usa en cirugía y la quirúrgica en la radiografía.",
-   "La radiológica lleva la prótesis (la posición de los dientes) al CBCT; la quirúrgica lleva el implante planificado a la boca.",
-   "Las dos tienen exactamente la misma función.",
-   "La radiológica sirve solo para sustituir el consentimiento informado."
-  ],
-  "correct": "b",
-  "explanation": "La férula radiológica lleva la prótesis al CBCT y la quirúrgica lleva el implante a la boca.",
-  "difficulty": "media",
-  "source": {
-   "kind": "clase",
-   "title": "Clase del 8 de octubre · Planificación del tratamiento"
-  }
- },
- {
-  "text": "En un paciente edéntulo, ¿por qué un soporte exclusivamente mucoso es el menos recomendable para una férula?",
-  "options": [
-   "Porque la mucosa se mueve y la férula pierde estabilidad y precisión.",
-   "Porque la mucosa es demasiado dura y la férula no encaja.",
-   "Porque la mucosa se esteriliza peor que el hueso.",
-   "Porque solo se puede usar con pacientes dentados."
-  ],
-  "correct": "a",
-  "explanation": "El soporte mucoso es el menos fiable porque la mucosa se mueve, lo que resta estabilidad a la férula.",
-  "difficulty": "media",
-  "source": {
-   "kind": "clase",
-   "title": "Clase del 8 de octubre · Planificación del tratamiento"
-  }
- },
- {
-  "text": "¿Cuál de estas afirmaciones sobre las férulas es correcta?",
-  "options": [
-   "Las dos deben ser estériles y transparentes a los rayos.",
-   "La radiológica debe ser estéril y la quirúrgica solo limpia.",
-   "La férula quirúrgica debe estar estéril, mientras que la radiológica basta con que esté limpia y sea radiopaca.",
-   "Ninguna debe ser rígida, para adaptarse a la boca."
-  ],
-  "correct": "c",
-  "explanation": "La férula quirúrgica debe estar estéril; la radiológica debe ser radiopaca y estar limpia.",
-  "difficulty": "media",
-  "source": {
-   "kind": "clase",
-   "title": "Clase del 8 de octubre · Planificación del tratamiento"
-  }
- },
- {
-  "text": "En cirugía guiada, ¿qué caracteriza al grado «piloto»?",
-  "options": [
-   "La guía se utiliza para colocar el implante completo.",
-   "Solo se utiliza la guía para pasar la fresa piloto y marcar el punto de entrada; el resto de la cirugía se hace libre.",
-   "La guía se utiliza para todo el fresado y se retira para el implante.",
-   "No se utiliza ninguna guía y se opera a mano alzada."
-  ],
-  "correct": "b",
-  "explanation": "En el guiado piloto la guía solo se usa para la fresa piloto; el resto se hace sin guía.",
-  "difficulty": "media",
-  "source": {
-   "kind": "clase",
-   "title": "Clase del 8 de octubre · Planificación del tratamiento"
-  }
- },
- {
-  "text": "Se completa toda la secuencia de fresado a través de la guía y después se retira para colocar el implante a mano. ¿Qué grado de guiado es?",
-  "options": [
-   "Piloto.",
-   "Total.",
-   "Navegado.",
-   "Parcial."
-  ],
-  "correct": "d",
-  "explanation": "El guiado parcial completa el fresado con guía y coloca el implante sin ella.",
-  "difficulty": "media",
-  "source": {
-   "kind": "clase",
-   "title": "Clase del 8 de octubre · Planificación del tratamiento"
-  }
- },
- {
-  "text": "Durante una cirugía guiada no se consigue estabilidad primaria en un implante y hay que moverlo a otra posición. ¿Qué ocurre?",
-  "options": [
-   "La guía solo tiene el agujero planificado, así que hay que retirarla y continuar sin ella; por eso hay que saber operar sin guía.",
-   "La guía se adapta sola a la nueva posición.",
-   "El software corrige la posición automáticamente durante la cirugía.",
-   "No ocurre nada, porque el TAC garantiza la estabilidad primaria."
-  ],
-  "correct": "a",
-  "explanation": "La guía no permite corregir en cirugía: hay que retirarla y operar a mano, por lo que hay que dominar la cirugía convencional.",
-  "difficulty": "media",
-  "source": {
-   "kind": "clase",
-   "title": "Clase del 8 de octubre · Planificación del tratamiento"
-  }
- },
- {
-  "text": "Si un implante debe quedar a 1,5 mm de un diente y la guía tiene un error de entrada de en torno a 1,2 mm, ¿qué ocurre con el margen de seguridad?",
-  "options": [
-   "Que aumenta, porque la guía lo amplía.",
-   "Que no se ve afectado.",
-   "Que se consume casi por completo, de modo que no conviene apurar el diseño.",
-   "Que se vuelve negativo con certeza en todos los casos."
-  ],
-  "correct": "c",
-  "explanation": "Con un error de entrada de unos 1,2 mm, un margen de 1,5 mm casi desaparece; no conviene apurar el diseño.",
+  "explanation": "La transformación tetragonal-monoclínica aumenta un 4% el volumen y cierra la punta de la grieta.",
   "difficulty": "alta",
   "source": {
    "kind": "clase",
-   "title": "Clase del 8 de octubre · Planificación del tratamiento"
+   "title": "Clase del 1 de octubre · Materiales de los implantes"
   }
  },
  {
-  "text": "¿Qué diferencia a la navegación quirúrgica de la cirugía guiada con férula?",
+  "text": "¿Qué es el envejecimiento (degradación a baja temperatura) de la circonia y por qué es su principal talón de Aquiles?",
   "options": [
-   "Exige una guía todavía más rígida que la quirúrgica.",
-   "Se hace sin ninguna planificación previa en el ordenador.",
-   "Solo se utiliza en pacientes dentados con dientes completos.",
-   "No se fabrica guía: un sistema localiza el maxilar y la fresa en tiempo real y permite replanificar en el software si no se consigue estabilidad."
+   "Es el cambio de color de la circonia con los años.",
+   "Es la pérdida de osteointegración con la edad.",
+   "El agua extrae la itria de la superficie, se transforma la fase y la superficie se agrieta y pierde resistencia.",
+   "Es la corrosión por oxidación del metal."
   ],
-  "correct": "d",
-  "explanation": "La navegación no usa guía fabricada: sigue la fresa en tiempo real y permite replanificar en el software.",
+  "correct": "c",
+  "explanation": "El agua roba la itria de la superficie y provoca una transformación de fase que debilita y agrieta la circonia.",
+  "difficulty": "alta",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 1 de octubre · Materiales de los implantes"
+  }
+ },
+ {
+  "text": "¿Qué fase de la circonia se utiliza en las coronas translúcidas y cuál en los implantes?",
+  "options": [
+   "Cúbica en las coronas y tetragonal en los implantes.",
+   "Tetragonal en las coronas y cúbica en los implantes.",
+   "Monoclínica en ambas, por su estabilidad.",
+   "Cúbica en ambas, por ser la más dura."
+  ],
+  "correct": "a",
+  "explanation": "Las coronas usan fase cúbica, translúcida; los implantes, fase tetragonal, más resistente y opaca.",
   "difficulty": "media",
   "source": {
    "kind": "clase",
-   "title": "Clase del 8 de octubre · Planificación del tratamiento"
+   "title": "Clase del 1 de octubre · Materiales de los implantes"
+  }
+ },
+ {
+  "text": "¿Qué aporta la circonia con ceria frente a la circonia con itria?",
+  "options": [
+   "Es más translúcida y se usa para coronas.",
+   "Tiene mayor módulo elástico que el titanio.",
+   "Elimina la necesidad de osteointegración.",
+   "No sufre envejecimiento por agua y tiene capacidad de deformación, lo que permite diseños modernos."
+  ],
+  "correct": "d",
+  "explanation": "La circonia con ceria no envejece con el agua y puede deformarse, lo que permite diseños modernos.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 1 de octubre · Materiales de los implantes"
+  }
+ },
+ {
+  "text": "¿Qué dos problemas tiene recubrir un implante metálico con hidroxiapatita?",
+  "options": [
+   "Corrosión galvánica y alergia al vanadio.",
+   "Contaminación bacteriana por su porosidad y delaminación de la capa.",
+   "Pérdida de color y fractura del hueso.",
+   "Falta de osteointegración y exceso de rigidez."
+  ],
+  "correct": "b",
+  "explanation": "La hidroxiapatita puede contaminarse por su porosidad y delaminarse del implante.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 1 de octubre · Materiales de los implantes"
+  }
+ },
+ {
+  "text": "Un implante se cementa y, meses después, el paciente presenta periimplantitis. ¿Qué riesgo del cementado se explicó en clase?",
+  "options": [
+   "Los restos de cemento bajo la encía pueden causar periimplantitis.",
+   "El cemento aumenta la osteointegración.",
+   "El cemento libera iones de titanio.",
+   "El cemento impide cualquier infección."
+  ],
+  "correct": "a",
+  "explanation": "El cemento subgingival puede generar periimplantitis; además es difícil retirar una corona cementada.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 1 de octubre · Materiales de los implantes"
+  }
+ },
+ {
+  "text": "¿Qué se señaló como lo más determinante para el éxito del implante, por encima de la elección del material?",
+  "options": [
+   "La marca comercial del implante.",
+   "Que el material sea cerámico.",
+   "La posición tridimensional del implante, junto con un tejido blando favorable.",
+   "La higiene del paciente por encima de cualquier otro factor."
+  ],
+  "correct": "c",
+  "explanation": "La posición tridimensional del implante y el tejido blando pesan más que el material elegido.",
+  "difficulty": "alta",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 1 de octubre · Materiales de los implantes"
   }
  }
 ]

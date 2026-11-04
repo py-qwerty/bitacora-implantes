@@ -1,482 +1,482 @@
 [
  {
-  "text": "¿Con qué paso arranca la secuencia de planificación presentada en clase?",
+  "text": "Vas a hacer la incisión de descarga vestibular en la zona de los premolares inferiores y en la imagen el agujero mentoniano queda justo a esa altura. ¿Qué es lo más prudente?",
   "options": [
-   "Con la elección del tamaño de los implantes.",
-   "Con el diseño de la prótesis que necesita el paciente.",
-   "Con la medición del hueso disponible mediante TAC.",
-   "Con la decisión de cuántos implantes se colocan."
+   "Hacerla igualmente, porque el nervio siempre queda profundo y no se toca.",
+   "Cambiar la ubicación de la descarga, porque en esa zona sale el nervio mentoniano.",
+   "Hacerla más profunda para llegar antes al hueso.",
+   "Mantenerla, porque la anestesia troncular protege al nervio de la lesión."
   ],
   "correct": "b",
-  "explanation": "La planificación empieza por la prótesis y de ella se deduce el resto: fuerzas, densidad ósea, posiciones, número y tamaño.",
+  "explanation": "La clase puso este ejemplo: las incisiones de descarga no se hacen donde pasa un nervio, arteria o vena, y en la zona de premolares inferiores el nervio mentoniano sale por el agujero mentoniano.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 13 de octubre · Anatomía aplicada a la implantología"
+  }
+ },
+ {
+  "text": "En la regeneración ósea guiada, ¿qué función cumple la membrana?",
+  "options": [
+   "Aportar las células que forman hueso nuevo.",
+   "Servir de implante temporal hasta que cicatrice la zona.",
+   "Aumentar el flujo sanguíneo del hueso receptor.",
+   "Separar el injerto del tejido blando para que en el defecto se forme hueso y no una mezcla con tejido."
+  ],
+  "correct": "d",
+  "explanation": "En la clase se explicó que se coloca hueso por un lado y una membrana que lo separa del tejido blando; sin ella, el hueso y el tejido se mezclarían y no habría consistencia.",
   "difficulty": "baja",
   "source": {
    "kind": "clase",
-   "title": "Clase del 15 de octubre · Posiciones clave y número de implantes"
+   "title": "Clase del 13 de octubre · Anatomía aplicada a la implantología"
   }
  },
  {
-  "text": "Un cirujano coloca implantes donde hay hueso suficiente y deja que otro profesional resuelva la prótesis más tarde. ¿Cómo se califica ese enfoque?",
+  "text": "¿Cuál es el único hueso móvil del macizo craneofacial?",
   "options": [
-   "Planificación guiada por la prótesis, correcta si hay hueso suficiente.",
-   "Planificación guiada por la periodoncia, preferible en el sector estético.",
-   "Planificación biomecánica, porque el hueso determina las fuerzas.",
-   "Planificación guiada por el hueso, incorrecta: debe guiarse por la prótesis y la biomecánica."
-  ],
-  "correct": "d",
-  "explanation": "Colocar implantes donde hay hueso sin diseñar antes la prótesis es planificar guiado por el hueso, lo que genera problemas de carga.",
-  "difficulty": "media",
-  "source": {
-   "kind": "clase",
-   "title": "Clase del 15 de octubre · Posiciones clave y número de implantes"
-  }
- },
- {
-  "text": "¿Cuándo son más frecuentes los fracasos de un implante y por qué?",
-  "options": [
-   "Tras entrar en carga, porque el hueso recién formado es inmaduro y una sobrecarga lo daña con facilidad.",
-   "Durante la cirugía, porque la fase inflamatoria destruye el hueso.",
-   "Antes de la carga, porque el implante aún no está osteointegrado y se mueve.",
-   "Tras la carga, porque el titanio se fatiga en pocos días."
+   "La mandíbula, que se articula con el hueso temporal.",
+   "El maxilar, porque se articula con el hueso nasal.",
+   "El cigomático, porque se articula con el hueso frontal.",
+   "El esfenoides, por su situación central en el cráneo."
   ],
   "correct": "a",
-  "explanation": "Los fracasos son más frecuentes tras la carga, porque el hueso recién formado es débil y una sobrecarga lo daña.",
-  "difficulty": "media",
-  "source": {
-   "kind": "clase",
-   "title": "Clase del 15 de octubre · Posiciones clave y número de implantes"
-  }
- },
- {
-  "text": "¿Por qué el hueso alrededor de un implante soporta más sobrecarga que el que rodea a un diente natural?",
-  "options": [
-   "Porque el implante es más flexible que el diente y transmite más fuerza al hueso.",
-   "Porque el titanio concentra siempre las cargas en la cresta ósea.",
-   "Porque el implante carece de ligamento periodontal y de propiocepción, y el paciente no percibe cuándo aprieta demasiado.",
-   "Porque los pacientes con implantes tienen más piezas antagonistas."
-  ],
-  "correct": "c",
-  "explanation": "Sin ligamento periodontal el implante no amortigua ni avisa del exceso de fuerza, por lo que el hueso sufre más carga.",
-  "difficulty": "media",
-  "source": {
-   "kind": "clase",
-   "title": "Clase del 15 de octubre · Posiciones clave y número de implantes"
-  }
- },
- {
-  "text": "Se plantea un puente que une un diente natural con un implante. ¿Cuál es el principal inconveniente mecánico?",
-  "options": [
-   "El diente natural se osteointegra al implante y se anquilosa.",
-   "El diente se mueve por su ligamento y el implante no, de modo que el implante recibe cargas extra como si soportara un cantilever.",
-   "El implante se mueve más que el diente y la prótesis se descementa.",
-   "El ligamento transmite al implante las bacterias periodontales."
-  ],
-  "correct": "b",
-  "explanation": "Unir diente natural e implante hace que no trabajen a la vez: el diente se mueve y el implante soporta una carga extra.",
-  "difficulty": "alta",
-  "source": {
-   "kind": "clase",
-   "title": "Clase del 15 de octubre · Posiciones clave y número de implantes"
-  }
- },
- {
-  "text": "Un paciente con buena higiene vuelve cada pocas semanas con el tornillo del mismo implante aflojado. ¿Qué debe sospecharse?",
-  "options": [
-   "Un fallo de osteointegración en la fase inflamatoria.",
-   "Una infección que se resolverá reforzando la higiene.",
-   "Un aflojamiento normal que no requiere análisis.",
-   "Una sobrecarga mecánica sobre ese implante, que hay que localizar y corregir."
-  ],
-  "correct": "d",
-  "explanation": "El aflojamiento repetido del tornillo del mismo implante apunta a sobrecarga, que hay que localizar y corregir.",
+  "explanation": "La clase recordó que la mandíbula es impar, simétrica, forma parte del macizo facial inferior, es el único hueso móvil y se articula con el temporal por la apófisis condilar.",
   "difficulty": "baja",
   "source": {
    "kind": "clase",
-   "title": "Clase del 15 de octubre · Posiciones clave y número de implantes"
+   "title": "Clase del 13 de octubre · Anatomía aplicada a la implantología"
   }
  },
  {
-  "text": "¿Qué efecto tiene un cantilever sobre la fuerza que reciben la prótesis y sus implantes?",
+  "text": "En la arcada superior, ¿en qué huesos pueden colocarse implantes y cuál es el más habitual?",
   "options": [
-   "Actúa como una palanca que multiplica la fuerza, y cuanto más largo es el brazo, mayor es el efecto.",
-   "Reparte la fuerza entre más implantes y la reduce.",
-   "No cambia la fuerza, solo su dirección.",
-   "Solo la aumenta en pacientes bruxistas."
-  ],
-  "correct": "a",
-  "explanation": "El cantilever actúa como palanca y multiplica la carga sobre los implantes en proporción a su longitud.",
-  "difficulty": "media",
-  "source": {
-   "kind": "clase",
-   "title": "Clase del 15 de octubre · Posiciones clave y número de implantes"
-  }
- },
- {
-  "text": "Un paciente con gran reabsorción ósea recibe una prótesis con encía artificial y dientes a la altura del plano oclusal; se habían planificado tres implantes y se colocan dos. ¿Qué error se ha cometido?",
-  "options": [
-   "Ninguno: la encía artificial reduce la carga y permite menos implantes.",
-   "Se ha reducido el cantilever horizontal, lo que obliga a añadir implantes.",
-   "Se ha aumentado el cantilever vertical sin aumentar el número de implantes; deberían ser más (y, si es posible, de mayor diámetro).",
-   "Se debió acortar la prótesis hasta el hueso para no añadir implantes."
-  ],
-  "correct": "c",
-  "explanation": "Al aumentar el cantilever vertical hay que aumentar el número y, si se puede, el diámetro de los implantes, no reducirlos.",
-  "difficulty": "alta",
-  "source": {
-   "kind": "clase",
-   "title": "Clase del 15 de octubre · Posiciones clave y número de implantes"
-  }
- },
- {
-  "text": "Si el implante queda muy corto en proporción a la altura de la prótesis, ¿qué ocurre con la palanca?",
-  "options": [
-   "El fulcro se aleja del implante y la palanca queda compensada a su favor.",
-   "El fulcro se desplaza hacia el implante, la palanca queda descompensada y el implante sale perjudicado.",
-   "No cambia nada porque la fuerza masticatoria es fija.",
-   "El implante deja de recibir carga porque la prótesis la absorbe."
-  ],
-  "correct": "b",
-  "explanation": "Con poco implante y mucha prótesis, el fulcro se acerca al implante y la palanca desfavorece al implante.",
-  "difficulty": "media",
-  "source": {
-   "kind": "clase",
-   "title": "Clase del 15 de octubre · Posiciones clave y número de implantes"
-  }
- },
- {
-  "text": "¿Cuál de estos rasgos corresponde a un paciente con factores de fuerza favorables?",
-  "options": [
-   "Desgastes dentarios generalizados y parafunción leve.",
-   "Fracturas repetidas de coronas previas.",
-   "Solo dientes anteriores inferiores presentes en oposición.",
-   "Oclusión estable con guía correcta, sin patología articular ni interferencias."
+   "Solo en el maxilar; los otros huesos no admiten implantes.",
+   "Maxilar y esfenoides, siendo el esfenoides el más habitual.",
+   "Cigomático y nasal, siendo el cigomático el más habitual.",
+   "Maxilar, cigomático y palatino, siendo el más habitual el hueso maxilar."
   ],
   "correct": "d",
-  "explanation": "El paciente favorable tiene oclusión estable y guía correcta, sin patología articular ni interferencias.",
+  "explanation": "Según la clase, la arcada superior admite implantes en hueso maxilar, cigomático y palatino, y lo más frecuente es el maxilar. El cigomático queda para atrofias severas.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 13 de octubre · Anatomía aplicada a la implantología"
+  }
+ },
+ {
+  "text": "Una paciente tiene el maxilar con atrofia severa: no queda hueso utilizable en la zona posterior ni bajo el seno. ¿Qué opción se plantea para este caso?",
+  "options": [
+   "Implantes cigomáticos, anclados en el hueso cigomático.",
+   "Implantes convencionales cortos en el sector posterior sin más valoración.",
+   "Implantes en la base mandibular, que ofrece más hueso.",
+   "Esperar a que el hueso se regenere solo sin hacer nada."
+  ],
+  "correct": "a",
+  "explanation": "Los implantes cigomáticos se reservan, como explicó la clase, para atrofias severas en las que no queda hueso en las zonas habituales; llegan muy atrás y exigen más cuidado con las estructuras de esa zona.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 13 de octubre · Anatomía aplicada a la implantología"
+  }
+ },
+ {
+  "text": "¿Qué riesgo se asocia a fresar en un incisivo central superior sin controlar bien la angulación y la profundidad, por la concavidad bajo la apertura piriforme?",
+  "options": [
+   "Lesionar el nervio dentario inferior.",
+   "Perforar la tabla vestibular.",
+   "Seccionar la arteria sublingual.",
+   "Fracturar la tuberosidad."
+  ],
+  "correct": "b",
+  "explanation": "La clase explicó que la fosita (concavidad bajo la apertura piriforme) hace que, al fresar el incisivo central superior, aumente el riesgo de perforar la tabla vestibular si no se controla angulación y profundidad.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 13 de octubre · Anatomía aplicada a la implantología"
+  }
+ },
+ {
+  "text": "Vas a extraer un canino superior y el TAC muestra una tabla vestibular muy fina. ¿Qué haces?",
+  "options": [
+   "Luxar con fuerza hacia vestibular, porque el canino es el diente más resistente.",
+   "Evitar siempre extraer caninos con tabla fina.",
+   "Despegar muy bien por vestibular antes de luxar, porque el diente es potente y puede arrastrar la tabla.",
+   "Colocar el implante inmediato sin valorar la tabla vestibular."
+  ],
+  "correct": "c",
+  "explanation": "La clase advirtió de que la pared vestibular del canino es fina; si se ve así en el TAC hay que despegar bien por vestibular, aunque a veces la fractura sea inevitable.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 13 de octubre · Anatomía aplicada a la implantología"
+  }
+ },
+ {
+  "text": "¿Qué dato se dio sobre el agujero infraorbitario?",
+  "options": [
+   "Se sitúa en el paladar posterior y por él sale la arteria palatina mayor.",
+   "Se sitúa junto a la sínfisis mandibular y anestesia el labio inferior.",
+   "Se sitúa en la tuberosidad y debe protegerse al extraer un tercer molar.",
+   "Se sitúa a unos 6-10 mm del reborde orbitario inferior y puede usarse para anestesiar la zona."
+  ],
+  "correct": "d",
+  "explanation": "La clase localizó el infraorbitario unos 6-10 mm bajo el reborde orbitario inferior y comentó que puede anestesiarse desde ahí, incluso para colocar implantes.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 13 de octubre · Anatomía aplicada a la implantología"
+  }
+ },
+ {
+  "text": "¿Qué estructuras salen por el agujero palatino mayor, en el paladar posterior?",
+  "options": [
+   "El nervio y la arteria palatina mayor.",
+   "El nervio mentoniano y su arteria.",
+   "El nervio lingual y la arteria sublingual.",
+   "El nervio y la arteria infraorbitarios."
+  ],
+  "correct": "a",
+  "explanation": "En la clase se citó el paladar posterior con el agujero palatino mayor, por donde pasan el nervio y la arteria palatina mayor, por lo que hay que cuidar descargas y despegado.",
   "difficulty": "baja",
   "source": {
    "kind": "clase",
-   "title": "Clase del 15 de octubre · Posiciones clave y número de implantes"
+   "title": "Clase del 13 de octubre · Anatomía aplicada a la implantología"
   }
  },
  {
-  "text": "Un paciente braquifacial presenta desgaste dentario, parafunción leve y poco espacio protésico. ¿Cómo se clasifica su riesgo de fuerza?",
+  "text": "Al extraer un tercer molar superior, ¿qué precaución ayuda a no llevarse la tuberosidad?",
   "options": [
-   "Moderado.",
-   "Favorable, porque el desgaste es normal con la edad.",
-   "Desfavorable, porque cualquier desgaste implica bruxismo severo.",
-   "No se puede clasificar: estos factores solo importan en arcadas completas."
-  ],
-  "correct": "a",
-  "explanation": "Desgaste, cara cuadrada, parafunción leve y poco espacio protésico forman un perfil de riesgo moderado.",
-  "difficulty": "media",
-  "source": {
-   "kind": "clase",
-   "title": "Clase del 15 de octubre · Posiciones clave y número de implantes"
-  }
- },
- {
-  "text": "A un paciente con prótesis completa removible superior se le coloca una prótesis fija sobre implantes en la arcada inferior y, meses después, la completa superior deja de sujetarse. ¿Qué lo explica?",
-  "options": [
-   "La prótesis inferior reduce la fuerza masticatoria y la superior se afloja por falta de función.",
-   "Los implantes inferiores desplazan la completa superior por la osteointegración.",
-   "La nueva prótesis inferior permite masticar con mucha más fuerza y la dentadura superior, con peor sujeción, no la aguanta.",
-   "El antagonista no influye en la carga de cada arcada."
+   "Luxar directamente hacia vestibular sin despegar nada.",
+   "Aplicar fuerza rápida hacia apical.",
+   "Introducir el botador por distal del diente y despegar bien antes de luxar.",
+   "Extraer el diente de una sola vez con el fórceps sin separar tejidos."
   ],
   "correct": "c",
-  "explanation": "Una prótesis fija inferior aumenta la fuerza masticatoria y la completa superior, peor sujeta, termina cediendo.",
+  "explanation": "La clase aconsejó meterse con el botador por detrás (distal) del 8 y despegar bien antes de extraer, para no arrastrar la tuberosidad, que es la parte posterior del hueso y a veces del suelo del seno.",
   "difficulty": "media",
   "source": {
    "kind": "clase",
-   "title": "Clase del 15 de octubre · Posiciones clave y número de implantes"
+   "title": "Clase del 13 de octubre · Anatomía aplicada a la implantología"
   }
  },
  {
-  "text": "¿Por qué se deja una corona unitaria sobre implante en ligera infraoclusión cuando los dientes vecinos son naturales?",
+  "text": "¿Por qué se debe tener cuidado en la zona del agujero mentoniano aunque este se vea bien en la imagen?",
   "options": [
-   "Porque el implante se osteointegra mejor sin contactos oclusales.",
-   "Porque los dientes naturales se hunden algo al masticar por su ligamento y, con contacto pleno, el implante cargaría de más.",
-   "Porque así el implante no trabaja nunca y se evita toda carga.",
-   "Porque la cerámica se fractura si contacta con dientes naturales."
+   "Porque el nervio siempre sale exactamente por la mitad del agujero.",
+   "Porque el agujero mentoniano varía de lado con la edad del paciente.",
+   "Porque el nervio puede formar un bucle y situarse algo más arriba que el propio agujero.",
+   "Porque no hay ningún nervio en esa zona."
   ],
-  "correct": "b",
-  "explanation": "Los dientes naturales ceden por su ligamento y el implante no; un contacto ligero evita que cargue de más.",
+  "correct": "c",
+  "explanation": "La clase explicó que el nervio puede hacer un bucle, de modo que al levantar el colgajo puede verse algo más arriba del agujero; hay que tener cuidado sobre todo por encima.",
   "difficulty": "media",
   "source": {
    "kind": "clase",
-   "title": "Clase del 15 de octubre · Posiciones clave y número de implantes"
+   "title": "Clase del 13 de octubre · Anatomía aplicada a la implantología"
   }
  },
  {
-  "text": "¿Cuál de estas series recoge las reglas básicas de posición y número para sostener una prótesis fija?",
+  "text": "¿Qué estructuras se localizan en la región de la sínfisis, en su cara lingual?",
   "options": [
-   "Sin cantilevers, no más de tres pónticos adyacentes, implante en el canino e implante en el primer molar.",
-   "Cantilever distal habitual, hasta cinco pónticos y un implante por cada diente ausente.",
-   "Sin cantilevers, hasta cinco pónticos, implante en el lateral y en el segundo molar.",
-   "Siempre implantes adyacentes, con cantilever en el canino y en el molar."
+   "El conducto dentario inferior y el nervio mentoniano.",
+   "La fosa submandibular y el nervio lingual.",
+   "El agujero palatino mayor y su arteria.",
+   "La apófisis geni y la arteria sublingual."
+  ],
+  "correct": "d",
+  "explanation": "Según la clase, en la sínfisis se encuentran la apófisis geni y la arteria sublingual; el nervio lingual y la fosa submandibular quedan más atrás.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 13 de octubre · Anatomía aplicada a la implantología"
+  }
+ },
+ {
+  "text": "En una mandíbula muy atrófica solo queda la base mandibular. ¿Qué dificultad principal presenta para un implante?",
+  "options": [
+   "Es un hueso cortical con muy poca irrigación, por lo que la integración es difícil.",
+   "Es un hueso muy esponjoso que se deshace al fresar.",
+   "Tiene un exceso de irrigación que provoca sangrados.",
+   "El nervio lingual la recubre y no permite acceder."
   ],
   "correct": "a",
-  "explanation": "Las reglas básicas son: sin cantilevers, máximo tres pónticos, implante en el canino y en el primer molar.",
+  "explanation": "La clase indicó que en la base mandibular queda hueso cortical con muy poca irrigación; conseguir una buena integración es muy complicado y no es lo adecuado.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 13 de octubre · Anatomía aplicada a la implantología"
+  }
+ },
+ {
+  "text": "Vas a fresar un implante cerca del bucle mentoniano. ¿Qué ventaja puede tener una anestesia infiltrativa frente a una troncular?",
+  "options": [
+   "Dura mucho más y evita repetir la anestesia.",
+   "Mantiene la sensibilidad del nervio y el paciente puede avisar si el fresado se acerca.",
+   "Permite no aspirar antes de inyectar.",
+   "La troncular está contraindicada en cualquier cirugía de implantes."
+  ],
+  "correct": "b",
+  "explanation": "La clase propuso la infiltrativa cuando se trabaja cerca del nervio porque permite controlar mejor hasta dónde se llega: con una troncular el nervio está dormido y no se nota la aproximación.",
+  "difficulty": "alta",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 13 de octubre · Anatomía aplicada a la implantología"
+  }
+ },
+ {
+  "text": "Tras colocar un implante cerca del nervio, el paciente nota pérdida de sensibilidad. ¿Qué se explicó sobre su evolución?",
+  "options": [
+   "Es siempre definitiva.",
+   "Solo ocurre si se ha usado una fresa de más diámetro.",
+   "Suele ser temporal, por inflamación o por nervio aplastado, y puede recuperarse.",
+   "No es posible cuando se ha hecho un TAC previo."
+  ],
+  "correct": "c",
+  "explanation": "La clase indicó que la lesión nerviosa puede ser temporal o definitiva, normalmente temporal; a veces es por inflamación y, si el nervio solo está aplastado y no triturado, puede recuperar.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 13 de octubre · Anatomía aplicada a la implantología"
+  }
+ },
+ {
+  "text": "¿Hacia dónde se dirigen las complicaciones por perforación en el maxilar y en la mandíbula?",
+  "options": [
+   "En el maxilar, hacia el nervio; en la mandíbula, hacia los senos.",
+   "Ambas hacia las cavidades nasales.",
+   "En ambas solo hacia el tejido blando, sin consecuencias graves.",
+   "En el maxilar, hacia cavidades (senos, fosas nasales); en la mandíbula, hacia el nervio, el suelo de boca y la vía aérea."
+  ],
+  "correct": "d",
+  "explanation": "La clase resumió que en el maxilar se perfora hacia cavidades que pueden infectarse y en la mandíbula hacia el nervio, el suelo de boca y la vía aérea; ninguna es buena.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 13 de octubre · Anatomía aplicada a la implantología"
+  }
+ },
+ {
+  "text": "¿Qué riesgo grave conlleva perforar la cortical lingual al fresar un implante en la mandíbula posterior?",
+  "options": [
+   "Sangrado que infiltra el suelo de boca y puede comprometer la vía aérea.",
+   "Fractura de la tuberosidad.",
+   "Entrada del implante en el seno maxilar.",
+   "Parestesia del nervio infraorbitario."
+  ],
+  "correct": "a",
+  "explanation": "La clase advirtió de que en la mandíbula posterior hay que cuidar la angulación: si se perfora la cortical lingual el sangrado puede infiltrar el suelo de boca y comprometer la vía aérea.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 13 de octubre · Anatomía aplicada a la implantología"
+  }
+ },
+ {
+  "text": "¿Cómo es la reabsorción ósea en el maxilar y en la mandíbula?",
+  "options": [
+   "Ambos de forma centrípeta.",
+   "El maxilar se reabsorbe de forma centrípeta (hacia dentro) y la mandíbula de forma centrífuga (hacia fuera).",
+   "El maxilar de forma centrífuga y la mandíbula centrípeta.",
+   "Ambos de forma centrífuga."
+  ],
+  "correct": "b",
+  "explanation": "La clase explicó que el maxilar se reabsorbe hacia el centro (centrípeta) y la mandíbula en sentido contrario (centrífuga), con ensanchamiento posterior.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 13 de octubre · Anatomía aplicada a la implantología"
+  }
+ },
+ {
+  "text": "¿Qué es la neumatización del seno maxilar?",
+  "options": [
+   "El engrosamiento de la membrana por una infección.",
+   "La formación de septos dentro del seno.",
+   "El descenso del seno hacia el espacio óseo que se pierde tras extraer dientes.",
+   "El aumento de grosor de la cortical alrededor del seno."
+  ],
+  "correct": "c",
+  "explanation": "La clase describió la neumatización como la bajada del seno que ocupa el espacio del diente extraído, asociada a la pérdida de hueso.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 13 de octubre · Anatomía aplicada a la implantología"
+  }
+ },
+ {
+  "text": "Un paciente mayor, desdentado desde hace años, necesita implantes en la mandíbula. ¿Por qué se recomienda un TAC además de la radiografía convencional?",
+  "options": [
+   "Porque la radiografía convencional no se acepta nunca.",
+   "Porque el TAC elimina por completo el riesgo de complicaciones.",
+   "Porque evita tener que planificar la prótesis.",
+   "Porque una cresta que parece ancha en la radiografía puede ser estrecha, y hay que ver la angulación real; además es recomendable a nivel legal."
+  ],
+  "correct": "d",
+  "explanation": "La clase insistió en usar TAC en mandíbulas reabsorbidas porque la cresta parece ancha pero por dentro no lo es, y en que, a nivel legal, ante un juicio se espera que se disponga de TAC.",
+  "difficulty": "alta",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 13 de octubre · Anatomía aplicada a la implantología"
+  }
+ },
+ {
+  "text": "Según la clasificación de la calidad ósea en cuatro tipos, ¿qué describen el D1 y el D4?",
+  "options": [
+   "D1: casi todo cortical muy denso; D4: casi todo trabecular y poco denso.",
+   "D1: casi todo trabecular; D4: casi todo cortical.",
+   "Los dos son predominantemente esponjosos.",
+   "D1: esponjoso denso; D4: cortical fina."
+  ],
+  "correct": "a",
+  "explanation": "La clase explicó que el D1 tiene mucho hueso cortical y muy poco esponjoso, mientras que el D4 es casi todo hueso trabeculado y poroso.",
   "difficulty": "baja",
   "source": {
    "kind": "clase",
-   "title": "Clase del 15 de octubre · Posiciones clave y número de implantes"
+   "title": "Clase del 13 de octubre · Anatomía aplicada a la implantología"
   }
  },
  {
-  "text": "¿Por qué no deben dejarse más de tres pónticos seguidos entre dos implantes?",
+  "text": "En un hueso D4 muy poroso vas a colocar un implante. ¿Qué criterio general se dio para el fresado?",
   "options": [
-   "Porque los pónticos reducen la altura de la encía y favorecen la recesión.",
-   "Porque los pónticos largos no pueden fabricarse en cerámica.",
-   "Porque con cuatro pónticos el canino deja de dar la guía lateral.",
-   "Porque el tramo largo se flexiona como una viga y esa flexión repetida carga los implantes y puede fracturar la prótesis."
-  ],
-  "correct": "d",
-  "explanation": "Un tramo largo se flexiona con cada masticación y esa flexión repetida carga mucho los implantes.",
-  "difficulty": "media",
-  "source": {
-   "kind": "clase",
-   "title": "Clase del 15 de octubre · Posiciones clave y número de implantes"
-  }
- },
- {
-  "text": "Según la regla de las cinco zonas, ¿cuántas zonas se distinguen en una arcada y qué se exige en cada zona que se rehabilita?",
-  "options": [
-   "Tres (anterior, canina y posterior), con al menos dos implantes en cada una.",
-   "Cinco, con un implante por cada diente ausente de la zona.",
-   "Cinco (dos posteriores, dos caninas y una anterior), con al menos un implante en cada una.",
-   "Cuatro (una por cuadrante), con un implante por cuadrante."
-  ],
-  "correct": "c",
-  "explanation": "Son cinco zonas y cada zona rehabilitada necesita al menos un implante.",
-  "difficulty": "media",
-  "source": {
-   "kind": "clase",
-   "title": "Clase del 15 de octubre · Posiciones clave y número de implantes"
-  }
- },
- {
-  "text": "¿Por qué se coloca siempre un implante en la posición del canino?",
-  "options": [
-   "Porque es el diente más pequeño y menos cargado.",
-   "Porque recibe las fuerzas de lateralidad (guía canina) y, como póntico, soportaría cargas críticas sin apoyo propio.",
-   "Porque su raíz corta no admite ser sustituida por pónticos.",
-   "Porque es la posición con el hueso más blando de la arcada."
+   "Pasar todas las fresas hasta el diámetro del implante.",
+   "Infrafresar: no pasar la última fresa para que el implante quede bien agarrado.",
+   "Sobrefresar el lecho para facilitar la inserción.",
+   "Fresar más rápido para no deshacer el hueso."
   ],
   "correct": "b",
-  "explanation": "El canino concentra las fuerzas de lateralidad por la guía canina y por eso siempre lleva implante.",
+  "explanation": "La clase indicó que en un hueso muy blando, a modo general, se queda una fresa por debajo de la del implante para que este agarre; cada casa de implantes tiene su protocolo.",
   "difficulty": "media",
   "source": {
    "kind": "clase",
-   "title": "Clase del 15 de octubre · Posiciones clave y número de implantes"
+   "title": "Clase del 13 de octubre · Anatomía aplicada a la implantología"
   }
  },
  {
-  "text": "Un paciente pierde premolares y molares; se colocan dos implantes en los premolares y se deja un cantilever distal con los molares. ¿Qué reglas se incumplen?",
+  "text": "¿Cuál es el principal inconveniente de un hueso tipo D1 al colocar un implante?",
   "options": [
-   "Solo el límite de tres pónticos.",
-   "Solo la regla del canino.",
-   "Ninguna: un cantilever distal es aceptable si se ajusta la oclusión.",
-   "Se incumplen la regla de no dejar cantilever y la de colocar un implante en el primer molar."
+   "Que el implante no tiene donde agarrarse.",
+   "Que se fractura y deshace con la fresa.",
+   "Tiene menos vascularización y resulta muy costoso de fresar.",
+   "Que impide cualquier anclaje cortical."
+  ],
+  "correct": "c",
+  "explanation": "La clase señaló que en el tipo 1 el problema principal es la menor vascularización, además de lo duro que resulta pasar las fresas.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 13 de octubre · Anatomía aplicada a la implantología"
+  }
+ },
+ {
+  "text": "¿Qué zona tiene mayor tasa de éxito y cuál mayor tasa de fracaso, según lo explicado?",
+  "options": [
+   "Mayor éxito en el maxilar posterior y mayor fracaso en la sínfisis.",
+   "Mayor éxito en la premaxila y mayor fracaso en la sínfisis.",
+   "Todas las zonas tienen la misma tasa de éxito.",
+   "Mayor éxito en la sínfisis mandibular (hueso denso, poca carga) y mayor fracaso en el maxilar posterior (hueso poco denso, mucha carga)."
   ],
   "correct": "d",
-  "explanation": "Un cantilever distal que deja el primer molar sin implante incumple dos de las reglas básicas.",
+  "explanation": "La clase explicó que la sínfisis mandibular, más densa y con menos carga, tiene más éxito, y que el maxilar posterior, menos denso y con más carga, tiene más fracaso.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 13 de octubre · Anatomía aplicada a la implantología"
+  }
+ },
+ {
+  "text": "En un implante inmediato tras una extracción, ¿qué ocurre con el espacio entre el implante y la pared del alvéolo?",
+  "options": [
+   "Si es menor de unos 2 mm, el coágulo permite que se forme hueso solo; si es mayor, hay que regenerar.",
+   "Nunca hace falta rellenarlo, sea del tamaño que sea.",
+   "Siempre se rellena con injerto, aunque sea mínimo.",
+   "Solo se rellena si el coágulo no se forma."
+  ],
+  "correct": "a",
+  "explanation": "La clase explicó que con un gap menor de unos 2 mm el coágulo sirve de andamio y se forma hueso solo, mientras que con más de 2 mm hay que ayudar con regeneración; la medida es aproximada.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 13 de octubre · Anatomía aplicada a la implantología"
+  }
+ },
+ {
+  "text": "¿Qué es la membrana de Schneider?",
+  "options": [
+   "El tabique óseo que divide el seno en compartimentos.",
+   "La mucosa fina que recubre el seno por dentro y que se eleva en la elevación de seno.",
+   "La ventana que se abre para acceder al seno.",
+   "La membrana de colágeno usada en regeneración ósea."
+  ],
+  "correct": "b",
+  "explanation": "La clase definió la membrana de Schneider como el revestimiento interno del seno, muy fino, que es lo que se eleva en una elevación de seno.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 13 de octubre · Anatomía aplicada a la implantología"
+  }
+ },
+ {
+  "text": "En el TAC ves un tabique dentro del seno justo en la zona donde necesitas elevar. ¿Qué implica?",
+  "options": [
+   "Que no es necesario hacer elevación.",
+   "Que la membrana es más gruesa y resistente.",
+   "Puede requerir elevar a cada lado del septo y hay más riesgo de que la membrana se rasgue.",
+   "Que se puede elevar el seno sin más precauciones."
+  ],
+  "correct": "c",
+  "explanation": "La clase explicó que los septos (de Underwood) compartimentan el seno y obligan a veces a hacer más de una elevación; además, facilitan la rotura de la membrana.",
   "difficulty": "alta",
   "source": {
    "kind": "clase",
-   "title": "Clase del 15 de octubre · Posiciones clave y número de implantes"
+   "title": "Clase del 13 de octubre · Anatomía aplicada a la implantología"
   }
  },
  {
-  "text": "¿Por qué se evitan los implantes adyacentes y se prefieren combinaciones implante-diente o implante-póntico?",
+  "text": "En una panorámica ves la membrana del seno engrosada junto a un diente con una infección. ¿Qué haces antes de una elevación de seno?",
   "options": [
-   "Porque entre dos implantes contiguos es muy difícil conservar la papila.",
-   "Porque dos implantes contiguos se osteointegran peor.",
-   "Porque la prótesis sobre dos implantes juntos no admite cerámica.",
-   "Porque los implantes contiguos siempre generan un cantilever."
-  ],
-  "correct": "a",
-  "explanation": "Entre implantes contiguos la papila se pierde con facilidad, por lo que se prefieren implante-diente o implante-póntico.",
-  "difficulty": "media",
-  "source": {
-   "kind": "clase",
-   "title": "Clase del 15 de octubre · Posiciones clave y número de implantes"
-  }
- },
- {
-  "text": "Un paciente ha perdido los cuatro incisivos superiores y tiene hueso suficiente en los centrales. ¿Qué diseño es el habitual?",
-  "options": [
-   "Cuatro implantes, uno por incisivo, para máxima resistencia.",
-   "Dos implantes en los laterales y los centrales como pónticos en cantilever.",
-   "Dos implantes en los incisivos centrales y los laterales como cantilever.",
-   "Un único implante central con tres pónticos en cantilever."
-  ],
-  "correct": "c",
-  "explanation": "Con los cuatro incisivos perdidos se colocan dos implantes en los centrales y los laterales quedan como cantilever.",
-  "difficulty": "alta",
-  "source": {
-   "kind": "clase",
-   "title": "Clase del 15 de octubre · Posiciones clave y número de implantes"
-  }
- },
- {
-  "text": "¿Qué excepción a evitar implantes contiguos se admitió en clase?",
-  "options": [
-   "Los dos primeros molares inferiores.",
-   "Los dos incisivos centrales, donde por la anatomía de la zona es raro perder la papila.",
-   "Los dos caninos superiores.",
-   "Los dos premolares en el sector estético."
-  ],
-  "correct": "b",
-  "explanation": "La excepción son los dos incisivos centrales, donde es raro perder la papila entre ellos.",
-  "difficulty": "media",
-  "source": {
-   "kind": "clase",
-   "title": "Clase del 15 de octubre · Posiciones clave y número de implantes"
-  }
- },
- {
-  "text": "¿Qué ventaja ofrece dividir la prótesis en tramos independientes en lugar de hacer una sola pieza?",
-  "options": [
-   "Se necesitan menos implantes.",
-   "Elimina el riesgo de fracaso de los implantes.",
-   "Permite unir dientes naturales e implantes sin problema.",
-   "Si se fractura la cerámica o fracasa un implante, solo se rehace un tramo y no toda la rehabilitación."
+   "Elevar directamente, porque el engrosamiento es normal.",
+   "Colocar el implante sin tratar el diente.",
+   "Esperar a que se cure sola sin tratar el diente.",
+   "Resolver la causa (el diente) y la sinusitis antes de elevar."
   ],
   "correct": "d",
-  "explanation": "Con tramos independientes una fractura o un fracaso afecta solo a un tramo, no a toda la rehabilitación.",
-  "difficulty": "media",
-  "source": {
-   "kind": "clase",
-   "title": "Clase del 15 de octubre · Posiciones clave y número de implantes"
-  }
- },
- {
-  "text": "Un paciente ha perdido el 44 y el 45 y se colocan dos implantes adyacentes. Se plantea unir las dos coronas. ¿Qué es lo más adecuado?",
-  "options": [
-   "Explicarle las dos opciones y dejar constancia de su decisión; si se unen, ambos implantes comparten la carga.",
-   "Unirlas siempre sin consultar, por ser una decisión puramente técnica.",
-   "Separarlas siempre, porque unir coronas sobre implantes está contraindicado.",
-   "Colocar un tercer implante de forma obligatoria."
-  ],
-  "correct": "a",
-  "explanation": "Se ofrece al paciente unir o separar, se anota su decisión y, si se unen, los dos implantes comparten la carga.",
-  "difficulty": "media",
-  "source": {
-   "kind": "clase",
-   "title": "Clase del 15 de octubre · Posiciones clave y número de implantes"
-  }
- },
- {
-  "text": "¿Por qué una arcada cuadrada ofrece más estabilidad que una triangular con pocos implantes?",
-  "options": [
-   "Porque en la cuadrada el hueso es siempre más denso.",
-   "Porque la arcada triangular carece de zona canina.",
-   "En la triangular el frente tiene pocos implantes y la prótesis tiende a levantarse; en la cuadrada el apoyo se reparte mejor.",
-   "Porque en la triangular los implantes no pueden angularse."
-  ],
-  "correct": "c",
-  "explanation": "En la arcada triangular hay pocos implantes por delante y la prótesis se levanta con facilidad; la cuadrada reparte mejor el apoyo.",
-  "difficulty": "media",
-  "source": {
-   "kind": "clase",
-   "title": "Clase del 15 de octubre · Posiciones clave y número de implantes"
-  }
- },
- {
-  "text": "¿Cómo debe ajustarse la planificación en el maxilar respecto a la mandíbula?",
-  "options": [
-   "Se puede reducir el número de implantes porque el maxilar recibe menos fuerza.",
-   "Al ser el hueso más blando, hay que aumentar el número o el diámetro de los implantes y evitar los cantilevers.",
-   "Se admiten cantilevers más largos que en la mandíbula.",
-   "Se priorizan implantes cortos y estrechos para evitar la elevación de seno."
-  ],
-  "correct": "b",
-  "explanation": "En el maxilar, de hueso más blando, se aumenta el número o el diámetro de los implantes y se evita el cantilever.",
-  "difficulty": "media",
-  "source": {
-   "kind": "clase",
-   "title": "Clase del 15 de octubre · Posiciones clave y número de implantes"
-  }
- },
- {
-  "text": "Un paciente con sobredentadura mandibular sobre dos implantes en los caninos refiere que la prótesis salta al morder con los incisivos. ¿Qué solución apunta la clase?",
-  "options": [
-   "Alargar el cantilever anterior para repartir mejor el apoyo.",
-   "Reducir el diámetro de los implantes.",
-   "Retirar los implantes y pasar a una completa convencional.",
-   "Romper el eje que forman los dos implantes con otro implante por delante (disposición en trípode)."
-  ],
-  "correct": "d",
-  "explanation": "Los implantes alineados permiten la rotación; un tercer implante fuera de la línea la anula.",
+  "explanation": "La clase indicó que una sinusitis odontógena se resuelve tratando la causa (el diente) y que no se debe intentar elevar el seno hasta resolverla, porque la mucosa se perfora.",
   "difficulty": "alta",
   "source": {
    "kind": "clase",
-   "title": "Clase del 15 de octubre · Posiciones clave y número de implantes"
+   "title": "Clase del 13 de octubre · Anatomía aplicada a la implantología"
   }
  },
  {
-  "text": "¿Qué se explicó sobre el diámetro y la longitud de los implantes?",
+  "text": "Un implante colocado con muy poco hueso bajo el seno y mal agarrado ha migrado al seno. ¿Qué se explicó que hay que hacer?",
   "options": [
-   "Influye más el diámetro que la longitud, porque los primeros milímetros de hueso son los que disipan la carga; los largos se usan sobre todo para lograr anclaje bicortical.",
-   "La longitud influye más que el diámetro porque la carga se disipa a lo largo de todo el implante.",
-   "Ambos son irrelevantes si se coloca un número elevado de implantes.",
-   "En hueso tipo 4 conviene un implante corto y estrecho para no dañar el hueso."
+   "Abrir, limpiar y retirarlo, y valorar después el tratamiento posterior.",
+   "Dejarlo, porque el seno lo tolera sin problema.",
+   "Esperar a que salga solo.",
+   "Empujarlo hacia el hueso con otro implante."
   ],
   "correct": "a",
-  "explanation": "El diámetro pesa más que la longitud; la longitud se usa sobre todo para el anclaje bicortical.",
+  "explanation": "La clase mostró un caso así: el implante absorbido por el seno obliga a abrir, limpiar y sacarlo, y se valora el tratamiento después.",
   "difficulty": "media",
   "source": {
    "kind": "clase",
-   "title": "Clase del 15 de octubre · Posiciones clave y número de implantes"
+   "title": "Clase del 13 de octubre · Anatomía aplicada a la implantología"
   }
  },
  {
-  "text": "Con implantes de 4 mm de diámetro, ¿qué espacio mínimo necesitas para colocar uno entre dos dientes naturales respetando 1,5 mm a cada lado?",
+  "text": "¿Qué se recomienda valorar con un TCB antes de actuar en el seno maxilar?",
   "options": [
-   "5 mm.",
-   "6 mm.",
-   "7 mm.",
-   "8 mm."
-  ],
-  "correct": "c",
-  "explanation": "Se suman el diámetro del implante y 1,5 mm a cada lado: 1,5 + 4 + 1,5 = 7 mm.",
-  "difficulty": "baja",
-  "source": {
-   "kind": "clase",
-   "title": "Clase del 15 de octubre · Posiciones clave y número de implantes"
-  }
- },
- {
-  "text": "Un tramo edéntulo mide 18 mm entre dos dientes naturales. Con implantes de 4 mm, 1,5 mm entre diente e implante y 3 mm entre implantes, ¿cuántos implantes caben como máximo?",
-  "options": [
-   "Uno.",
-   "Dos.",
-   "Tres.",
-   "Cuatro."
+   "Solo la altura total del paciente.",
+   "Dónde están la arteria, los septos y la membrana.",
+   "El color de la mucosa oral.",
+   "La posición de los cóndilos mandibulares."
   ],
   "correct": "b",
-  "explanation": "Dos implantes de 4 mm necesitan 14 mm y tres necesitarían 21 mm, así que en 18 mm caben dos.",
-  "difficulty": "alta",
-  "source": {
-   "kind": "clase",
-   "title": "Clase del 15 de octubre · Posiciones clave y número de implantes"
-  }
- },
- {
-  "text": "¿Por qué se desaconseja el implante inmediato en el alvéolo de un molar inferior?",
-  "options": [
-   "Porque suele quedar en el alvéolo mesial o distal, lo que deja un cantilever al rehabilitar, y para estabilizarlo hay que profundizar hacia el nervio dentario inferior.",
-   "Porque la furca inferior es demasiado ancha y el implante queda flojo.",
-   "Porque el implante inmediato solo puede colocarse en premolares.",
-   "Porque el hueso inferior es siempre demasiado blando."
-  ],
-  "correct": "a",
-  "explanation": "En el molar inferior el implante queda en un alvéolo con cantilever y para estabilizarlo hay que acercarse al nervio dentario inferior.",
+  "explanation": "La clase indicó que con un TCB se observan la arteria, los septos y la membrana, que son lo que condiciona la técnica en el seno.",
   "difficulty": "media",
   "source": {
    "kind": "clase",
-   "title": "Clase del 15 de octubre · Posiciones clave y número de implantes"
+   "title": "Clase del 13 de octubre · Anatomía aplicada a la implantología"
   }
  }
 ]

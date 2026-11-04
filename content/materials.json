@@ -7,52 +7,59 @@
   "title": "Tema 1. Historia clínica, diagnóstico y planificación en implantología"
  },
  "2": {
-  "url": "materials/implantes/tema-02-osteointegracion-biologia-curva-de-estabilidad-y-diseno-del-implante.pdf",
+  "url": "materials/implantes/tema-02-osteointegracion-i-biologia-curva-de-estabilidad-y-decisiones-clinicas.pdf",
   "format": "pdf",
-  "pages": 55,
-  "bytes": 880648,
-  "title": "Tema 2. Osteointegración: biología, curva de estabilidad y diseño del implante"
+  "pages": 53,
+  "bytes": 829938,
+  "title": "Tema 2. Osteointegración I: biología, curva de estabilidad y decisiones clínicas"
  },
  "3": {
-  "url": "materials/implantes/tema-03-materiales-de-los-implantes-titanio-y-ceramica.pdf",
+  "url": "materials/implantes/tema-03-osteointegracion-ii-diseno-del-implante-calidad-osea-y-momento-de-carga.pdf",
   "format": "pdf",
-  "pages": 49,
-  "bytes": 820695,
-  "title": "Tema 3. Materiales de los implantes: titanio y cerámica"
+  "pages": 48,
+  "bytes": 793049,
+  "title": "Tema 3. Osteointegración II: diseño del implante, calidad ósea y momento de carga"
  },
  "4": {
-  "url": "materials/implantes/tema-04-planificacion-digital-con-imagen-3d-y-cirugia-guiada.pdf",
+  "url": "materials/implantes/tema-04-materiales-de-los-implantes-titanio-y-ceramica.pdf",
+  "format": "pdf",
+  "pages": 49,
+  "bytes": 820696,
+  "title": "Tema 4. Materiales de los implantes: titanio y cerámica"
+ },
+ "5": {
+  "url": "materials/implantes/tema-05-planificacion-digital-con-imagen-3d-y-cirugia-guiada.pdf",
   "format": "pdf",
   "pages": 46,
   "bytes": 798327,
-  "title": "Tema 4. Planificación digital con imagen 3D y cirugía guiada"
- },
- "5": {
-  "url": "materials/implantes/tema-05-anatomia-aplicada-a-la-implantologia.pdf",
-  "format": "pdf",
-  "pages": 43,
-  "bytes": 743169,
-  "title": "Tema 5. Anatomía aplicada a la implantología"
+  "title": "Tema 5. Planificación digital con imagen 3D y cirugía guiada"
  },
  "6": {
-  "url": "materials/implantes/tema-06-posiciones-clave-y-numero-de-implantes.pdf",
+  "url": "materials/implantes/tema-06-anatomia-aplicada-a-la-implantologia.pdf",
   "format": "pdf",
-  "pages": 49,
-  "bytes": 808662,
-  "title": "Tema 6. Posiciones clave y número de implantes"
+  "pages": 43,
+  "bytes": 743065,
+  "title": "Tema 6. Anatomía aplicada a la implantología"
  },
  "7": {
-  "url": "materials/implantes/tema-07-tecnica-quirurgica-del-implante-incisiones-colgajos-y-secuencia-de-fresado.pdf",
+  "url": "materials/implantes/tema-07-posiciones-clave-y-numero-de-implantes.pdf",
   "format": "pdf",
-  "pages": 47,
-  "bytes": 814331,
-  "title": "Tema 7. Técnica quirúrgica del implante: incisiones, colgajos y secuencia de fresado"
+  "pages": 49,
+  "bytes": 808661,
+  "title": "Tema 7. Posiciones clave y número de implantes"
  },
  "8": {
-  "url": "materials/implantes/tema-08-implantes-inmediatos-en-zona-estetica-indicacion-biologia-y-posicion.pdf",
+  "url": "materials/implantes/tema-08-tecnica-quirurgica-del-implante-incisiones-colgajos-y-secuencia-de-fresado.pdf",
   "format": "pdf",
   "pages": 47,
-  "bytes": 827940,
-  "title": "Tema 8. Implantes inmediatos en zona estética: indicación, biología y posición"
+  "bytes": 814332,
+  "title": "Tema 8. Técnica quirúrgica del implante: incisiones, colgajos y secuencia de fresado"
+ },
+ "9": {
+  "url": "materials/implantes/tema-09-implantes-inmediatos-en-zona-estetica-indicacion-biologia-y-posicion.pdf",
+  "format": "pdf",
+  "pages": 47,
+  "bytes": 828061,
+  "title": "Tema 9. Implantes inmediatos en zona estética: indicación, biología y posición"
  }
 }

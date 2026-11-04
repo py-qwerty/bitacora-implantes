@@ -19,42 +19,48 @@
    "id": 2,
    "course": "implantes",
    "number": 2,
-   "title": "Osteointegración: biología, curva de estabilidad y diseño del implante"
+   "title": "Osteointegración I: biología, curva de estabilidad y decisiones clínicas"
   },
   {
    "id": 3,
    "course": "implantes",
    "number": 3,
-   "title": "Materiales de los implantes: titanio y cerámica"
+   "title": "Osteointegración II: diseño del implante, calidad ósea y momento de carga"
   },
   {
    "id": 4,
    "course": "implantes",
    "number": 4,
-   "title": "Planificación digital con imagen 3D y cirugía guiada"
+   "title": "Materiales de los implantes: titanio y cerámica"
   },
   {
    "id": 5,
    "course": "implantes",
    "number": 5,
-   "title": "Anatomía aplicada a la implantología"
+   "title": "Planificación digital con imagen 3D y cirugía guiada"
   },
   {
    "id": 6,
    "course": "implantes",
    "number": 6,
-   "title": "Posiciones clave y número de implantes"
+   "title": "Anatomía aplicada a la implantología"
   },
   {
    "id": 7,
    "course": "implantes",
    "number": 7,
-   "title": "Técnica quirúrgica del implante: incisiones, colgajos y secuencia de fresado"
+   "title": "Posiciones clave y número de implantes"
   },
   {
    "id": 8,
    "course": "implantes",
    "number": 8,
+   "title": "Técnica quirúrgica del implante: incisiones, colgajos y secuencia de fresado"
+  },
+  {
+   "id": 9,
+   "course": "implantes",
+   "number": 9,
    "title": "Implantes inmediatos en zona estética: indicación, biología y posición"
   }
  ]

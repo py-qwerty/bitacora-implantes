@@ -21,6 +21,10 @@ npm run check    # pruebas de motor, banco e interfaz
 
 `dist/bank.json` contiene asignaturas, temas y preguntas; `dist/temas/` los temas digitales, que se generan con `npm run temas` desde `content/temas/<asignatura>/tema-NN.json`. Cada pregunta indica su fuente: `clase` (explicada en la sesión) o `practice` (ejercicio añadido).
 
+## Audio de la clase
+
+Cada tema trae la grabación de su clase, comprimida (mono, 32 kbps, AAC) en `dist/audio/`, con un reproductor opcional («Escuchar la clase») que sigue sonando al pasar del tema a su vista de estudio, permite saltar 15 s, cambiar la velocidad y recuerda el minuto por tema. Los originales no están en el repositorio: `content/audio-fuentes.json` indica qué grabación corresponde a cada tema y `npm run build` (o `node scripts/build-audio.mjs`) los comprime desde `AUDIO_DIR` (por defecto `~/Documents/mamen`).
+
 ## PDF de cada tema
 
 Cada tema digital se descarga en PDF con el mismo formato que en pantalla (apartados, tablas, preguntas con su argumentación y glosario). Los PDF se generan con Chrome sin interfaz a partir de `#/tema/N/pdf` y se guardan en `dist/materials/`; la pantalla del tema los ofrece con «Abrir tema» y «Descargar PDF». Al cambiar un tema, regenerarlo con:
@@ -31,4 +35,4 @@ npm run build    # banco + temas + PDF (necesita Google Chrome; CHROME=ruta si e
 
 ## Privacidad y procedencia
 
-Son apuntes de estudio personales elaborados a partir de las clases; no son material oficial de la universidad ni del profesorado y pueden contener errores. **No se publican grabaciones ni transcripciones**, solo el resumen y las preguntas redactados. No hay cuentas, credenciales ni seguimiento. Fuentes Manrope y Barlow Condensed servidas localmente (licencias en FONT-LICENSES/).
+Son apuntes de estudio personales elaborados a partir de las clases; no son material oficial de la universidad ni del profesorado y pueden contener errores. **Se publican las grabaciones de las clases** (audio comprimido) como complemento opcional de cada tema, a petición del autor: cualquiera con el enlace puede escucharlas y descargarlas, y en ellas se oye al profesor y a alumnos. **No se publican las transcripciones**, solo los resúmenes y las preguntas redactados. No hay cuentas, credenciales ni seguimiento. Fuentes Manrope y Barlow Condensed servidas localmente (licencias en FONT-LICENSES/).

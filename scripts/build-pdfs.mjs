@@ -1,4 +1,4 @@
-import { readFile, writeFile, mkdir, stat } from 'node:fs/promises';
+import { readFile, writeFile, mkdir, stat, readdir, unlink } from 'node:fs/promises';
 import { createServer } from 'node:http';
 import { spawn } from 'node:child_process';
 import { fileURLToPath } from 'node:url';
@@ -33,7 +33,8 @@ await new Promise(ok => server.listen(0, '127.0.0.1', ok));
 const base = `http://127.0.0.1:${server.address().port}`;
 
 const matPath = path.join(root, 'content/materials.json');
-const materials = JSON.parse(await readFile(matPath, 'utf8').catch(() => '{}'));
+// Con --only se conserva lo ya generado; sin él se parte de cero para no dejar PDF de temas renumerados.
+const materials = only ? JSON.parse(await readFile(matPath, 'utf8').catch(() => '{}')) : {};
 for (const topic of bank.topics) {
   if (!withTema.has(topic.id) || (only && topic.number !== only)) continue;
   const nn = String(topic.number).padStart(2, '0');
@@ -52,4 +53,11 @@ for (const topic of bank.topics) {
   console.log(`Tema ${topic.number}: ${rel} · ${pages} páginas · ${(bytes / 1e6).toFixed(1)} MB`);
 }
 server.close();
+if (!only) {
+  const keep = new Set(Object.values(materials).map(m => path.join(dist, m.url)));
+  for (const course of new Set(bank.topics.map(t => t.course))) {
+    const dir = path.join(dist, 'materials', course);
+    for (const f of await readdir(dir).catch(() => [])) if (!keep.has(path.join(dir, f))) await unlink(path.join(dir, f));
+  }
+}
 await writeFile(matPath, JSON.stringify(materials, null, 1) + '\n');

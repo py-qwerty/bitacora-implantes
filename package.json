@@ -11,6 +11,6 @@
     "bank": "node scripts/build-bank.mjs",
     "temas": "node scripts/build-temas.mjs",
     "pdf": "node scripts/build-pdfs.mjs",
-    "build": "node scripts/build-bank.mjs && node scripts/build-temas.mjs && node scripts/build-pdfs.mjs && node scripts/build-bank.mjs"
+    "build": "node scripts/build-audio.mjs && node scripts/build-bank.mjs && node scripts/build-temas.mjs && node scripts/build-pdfs.mjs && node scripts/build-bank.mjs"
   }
 }

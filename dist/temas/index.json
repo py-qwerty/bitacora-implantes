@@ -1,5 +1,5 @@
 {
-  "version": "2026-11-04.5",
+  "version": "2026-11-04.9",
   "temas": [
     {
       "topic": 1,
@@ -10,7 +10,7 @@
     {
       "topic": 2,
       "sections": 12,
-      "minutes": 60,
+      "minutes": 55,
       "doubts": 0
     },
     {
@@ -27,24 +27,30 @@
     },
     {
       "topic": 5,
-      "sections": 9,
-      "minutes": 35,
-      "doubts": 0
-    },
-    {
-      "topic": 6,
       "sections": 12,
       "minutes": 45,
       "doubts": 0
     },
     {
+      "topic": 6,
+      "sections": 9,
+      "minutes": 35,
+      "doubts": 0
+    },
+    {
       "topic": 7,
+      "sections": 12,
+      "minutes": 45,
+      "doubts": 0
+    },
+    {
+      "topic": 8,
       "sections": 12,
       "minutes": 50,
       "doubts": 0
     },
     {
-      "topic": 8,
+      "topic": 9,
       "sections": 11,
       "minutes": 45,
       "doubts": 0

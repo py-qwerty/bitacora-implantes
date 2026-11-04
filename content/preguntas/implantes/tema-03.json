@@ -1,482 +1,482 @@
 [
  {
-  "text": "¿Qué se entiende por cambio de plataforma (platform switching)?",
+  "text": "¿Cuál de estas características pertenece al módulo crestal del implante?",
   "options": [
-   "Que el pilar tiene el mismo diámetro que el implante y queda a ras.",
-   "Que el pilar tiene un diámetro menor que la plataforma del implante.",
-   "Que se sustituye el implante de titanio por otro de cerámica.",
-   "Que el pilar es más ancho que el implante para sellar mejor."
+   "El diseño redondeado (en domo) del extremo apical.",
+   "El tipo de conexión con el pilar y el contacto con los tejidos blandos.",
+   "La profundidad de las roscas en la zona apical del cuerpo.",
+   "La cámara que recoge el hueso al atornillar el implante."
   ],
   "correct": "b",
-  "explanation": "El pilar es más estrecho que la plataforma del implante; así se aleja la unión del hueso y se deja un escalón para el tejido blando.",
+  "explanation": "El módulo crestal son los dos o tres primeros milímetros coronales: incluye la conexión, el contacto con el pilar y los tejidos blandos y el antirrotacional. El ápice no le pertenece.",
   "difficulty": "baja",
   "source": {
    "kind": "clase",
-   "title": "Clase del 1 de octubre · Materiales de los implantes"
+   "title": "Clase del 24 de septiembre · Osteointegración (parte 2)"
   }
  },
  {
-  "text": "Un implante con cambio de plataforma se asocia en clínica a menor pérdida de hueso marginal. ¿Cuál es la explicación que se dio?",
+  "text": "¿Qué parte del implante es la principal responsable de establecer la estabilidad primaria?",
   "options": [
-   "El titanio de los pilares estrechos es más resistente que el del implante.",
-   "Al ser más estrecho, el pilar elimina por completo las bacterias de la boca.",
-   "La unión pilar-implante y los micromovimientos quedan más lejos de la cresta ósea y los tejidos blandos tienen un escalón donde apoyarse.",
-   "El estrechamiento aumenta el módulo elástico del pilar."
+   "El módulo crestal, por su tipo de conexión.",
+   "El ápice en forma de domo.",
+   "El cuerpo, con sus roscas (macroespiras).",
+   "La rugosidad nanométrica de la superficie."
   ],
   "correct": "c",
-  "explanation": "La unión y los micromovimientos se alejan de la cresta ósea y el tejido blando se apoya en el escalón, con menor pérdida ósea marginal.",
+  "explanation": "La estabilidad primaria es mecánica y depende del cuerpo y de sus macroroscas. El módulo crestal y la superficie nanométrica tienen otras funciones.",
   "difficulty": "media",
   "source": {
    "kind": "clase",
-   "title": "Clase del 1 de octubre · Materiales de los implantes"
+   "title": "Clase del 24 de septiembre · Osteointegración (parte 2)"
   }
  },
  {
-  "text": "¿Por qué se consideran la boca un medio especialmente exigente para un biomaterial?",
+  "text": "Un fabricante lleva el tratamiento de superficie mejorada hasta la propia plataforma de conexión. ¿Qué ventaja y qué precio tiene esa decisión?",
   "options": [
-   "Porque combina cargas mecánicas, cambios térmicos, humedad y bacterias de forma continua.",
-   "Porque el pH de la saliva es siempre ácido y disuelve cualquier material.",
-   "Porque es un entorno estéril y cualquier material lo contamina.",
-   "Porque la temperatura se mantiene constante y el material se fatiga."
+   "Favorece que el hueso se una antes, pero también atrae a las bacterias y dificulta la desinfección.",
+   "Elimina el gap con el pilar, pero encarece mucho el implante.",
+   "Reduce la adhesión de las bacterias, pero retrasa la unión del hueso.",
+   "Aumenta la estabilidad primaria, pero hace más frágil la conexión."
   ],
   "correct": "a",
-  "explanation": "La boca combina cargas mecánicas, cambios térmicos, humedad y bacterias, por lo que es el medio más exigente del cuerpo.",
-  "difficulty": "baja",
+  "explanation": "Una superficie tratada acelera la unión del hueso, pero también facilita la adhesión de bacterias, de modo que si hay periimplantitis es más difícil descontaminarla.",
+  "difficulty": "media",
   "source": {
    "kind": "clase",
-   "title": "Clase del 1 de octubre · Materiales de los implantes"
+   "title": "Clase del 24 de septiembre · Osteointegración (parte 2)"
   }
  },
  {
-  "text": "Respecto a la biocompatibilidad de los materiales de los implantes, ¿qué idea se transmitió en clase?",
+  "text": "¿Por qué se diseñó la conexión externa en los primeros implantes y qué inconveniente presenta?",
   "options": [
-   "Existen materiales completamente inertes, como el titanio.",
-   "Basta con que el material no sea tóxico para considerarlo biocompatible.",
-   "Solo importa el material y no el medio donde se coloca.",
-   "Ningún material es inerte; se busca que su relación con el tejido sea previsible."
+   "Para facilitar la carga inmediata; el inconveniente es que no admite pilares angulados.",
+   "Para sellar perfectamente el gap; el inconveniente es que es difícil de limpiar.",
+   "Para aumentar la superficie del módulo crestal; el inconveniente es que debilita el cuello.",
+   "Porque el titanio de entonces podía romperse si se vaciaba el interior; el inconveniente es que se mueve, filtra bacterias y provoca inflamación."
   ],
   "correct": "d",
-  "explanation": "Ningún material es inerte: el objetivo es una relación previsible con el tejido, valorando el conjunto material-medio.",
+  "explanation": "La conexión externa evitaba vaciar el implante, por el riesgo de fractura del titanio de la época, y asumía que se aflojase antes la corona. Ese aflojamiento permite micromovimiento y filtración.",
   "difficulty": "media",
   "source": {
    "kind": "clase",
-   "title": "Clase del 1 de octubre · Materiales de los implantes"
+   "title": "Clase del 24 de septiembre · Osteointegración (parte 2)"
   }
  },
  {
-  "text": "Un paciente lleva implantes, coronas metálicas de otra aleación y una amalgama. ¿Qué riesgo concreto se destacó al exigir que un material no genere corriente galvánica?",
+  "text": "¿Por qué la conexión cónica es más estable que la interna de paredes paralelas?",
   "options": [
-   "Que el paciente desarrolle caries en los dientes vecinos.",
-   "Que metales distintos en contacto con la saliva formen una pila y generen corriente.",
-   "Que la corriente aumente la densidad ósea alrededor del implante.",
-   "Que el paciente rechace los metales por motivos estéticos."
+   "Porque lleva más roscas internas que aumentan la fricción.",
+   "Porque toda la superficie del cono encaja al asentarse, lo que reduce el gap y el micromovimiento.",
+   "Porque el pilar queda más ancho que la plataforma del implante.",
+   "Porque siempre se bloquea por soldadura en frío y no puede retirarse."
   ],
   "correct": "b",
-  "explanation": "Con metales distintos y saliva se forma una pila, de ahí que se exija que el material no genere corriente galvánica.",
+  "explanation": "En la conexión cónica toda la superficie del cono asienta, con un gap mínimo y poco micromovimiento. Por eso es más estable que la interna de paredes paralelas.",
   "difficulty": "media",
   "source": {
    "kind": "clase",
-   "title": "Clase del 1 de octubre · Materiales de los implantes"
+   "title": "Clase del 24 de septiembre · Osteointegración (parte 2)"
   }
  },
  {
-  "text": "¿Qué mide el módulo elástico de un material?",
+  "text": "En odontología se emplea sobre todo el cono Morse sin bloqueo en lugar del cono Morse puro con bloqueo. ¿Por qué?",
   "options": [
-   "La fuerza máxima que soporta antes de romperse.",
-   "La capacidad de frenar el crecimiento de una grieta.",
-   "Cuánto se deforma el material ante una carga determinada.",
-   "La resistencia a cargas repetidas durante años."
+   "Porque el cono con bloqueo filtra más bacterias que el que no tiene bloqueo.",
+   "Porque el cono con bloqueo no es cónico y encaja peor.",
+   "Porque retirar el cono bloqueado exige un aparato especial, mientras que el otro se coloca y se retira sin él.",
+   "Porque el cono con bloqueo se afloja con la masticación."
   ],
   "correct": "c",
-  "explanation": "El módulo elástico describe cuánto se deforma un material con una carga; no es la fuerza de rotura ni la tenacidad.",
+  "explanation": "El cono Morse con bloqueo no se afloja, pero para retirar el tornillo hace falta un aparato. En clínica es más práctico el cono sin bloqueo, que se coloca y se quita con facilidad.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 24 de septiembre · Osteointegración (parte 2)"
+  }
+ },
+ {
+  "text": "¿Qué afirmación sobre el gap entre pilar e implante es correcta?",
+  "options": [
+   "En un implante de dos piezas siempre existe; solo se puede minimizar, y es mayor en la conexión externa que en la cónica.",
+   "Con una conexión cónica el gap desaparece por completo.",
+   "Solo existe en las conexiones externas.",
+   "El monobloque es el que tiene el mayor gap."
+  ],
+  "correct": "a",
+  "explanation": "Cuando hay dos piezas siempre hay gap: se minimiza, pero no se elimina. Solo el monobloque carece de él.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 24 de septiembre · Osteointegración (parte 2)"
+  }
+ },
+ {
+  "text": "¿En qué consiste el platform switching?",
+  "options": [
+   "En colocar un pilar más ancho que la plataforma del implante.",
+   "En cambiar el pilar provisional por el definitivo tras la cicatrización.",
+   "En unir pilar e implante con el mismo diámetro de plataforma.",
+   "En usar un pilar de diámetro menor que la plataforma del implante."
+  ],
+  "correct": "d",
+  "explanation": "El platform switching es un pilar más estrecho que la plataforma del implante. El gap queda desplazado y lejos del hueso.",
   "difficulty": "baja",
   "source": {
    "kind": "clase",
-   "title": "Clase del 1 de octubre · Materiales de los implantes"
+   "title": "Clase del 24 de septiembre · Osteointegración (parte 2)"
   }
  },
  {
-  "text": "Un implante de titanio (módulo elástico alto) está osteointegrado en un hueso de módulo elástico mucho más bajo. Al masticar, ¿qué ocurre en la interfaz?",
+  "text": "Se coloca un implante con platform switching. ¿Qué mecanismos explican que ayude a conservar el hueso marginal?",
   "options": [
-   "Implante y hueso se deforman de forma distinta y se concentra tensión en la unión.",
-   "Nada, porque la osteointegración iguala las propiedades de ambos.",
-   "El hueso se vuelve más rígido para igualarse al metal.",
-   "El implante se deforma más que el hueso y se relaja la tensión."
-  ],
-  "correct": "a",
-  "explanation": "Al ser sus módulos muy distintos, se deforman de manera diferente y se concentra tensión en la interfaz implante-hueso.",
-  "difficulty": "media",
-  "source": {
-   "kind": "clase",
-   "title": "Clase del 1 de octubre · Materiales de los implantes"
-  }
- },
- {
-  "text": "¿Por qué se explicó que la resistencia a la fatiga importa más que la fuerza máxima puntual?",
-  "options": [
-   "Porque la fuerza máxima no se puede medir en un material dental.",
-   "Porque un material con mucha fuerza máxima es siempre más frágil.",
-   "Porque la fatiga solo afecta a las cerámicas.",
-   "Porque el implante debe soportar cargas repetidas de masticación durante décadas, no un esfuerzo enorme de un instante."
-  ],
-  "correct": "d",
-  "explanation": "El implante soporta cargas repetidas durante décadas, por lo que importa la fatiga más que un pico de fuerza.",
-  "difficulty": "media",
-  "source": {
-   "kind": "clase",
-   "title": "Clase del 1 de octubre · Materiales de los implantes"
-  }
- },
- {
-  "text": "¿Qué propiedad describe la capacidad de un material de impedir que una grieta se haga más grande?",
-  "options": [
-   "El módulo elástico.",
-   "La tenacidad (resistencia a la fractura).",
-   "La biocorrosión.",
-   "El límite elástico."
+   "Aumenta la estabilidad primaria y compacta el hueso crestal.",
+   "Aleja el gap y las bacterias del hueso y deja un apoyo para el tejido blando, que no necesita tomar hueso para su anchura biológica.",
+   "Elimina el gap y hace innecesario cualquier otro cuidado.",
+   "Permite colocar una superficie lisa y evita la rugosidad en el cuello."
   ],
   "correct": "b",
-  "explanation": "La tenacidad es la resistencia del material a que una grieta crezca.",
+  "explanation": "El platform switching aleja las bacterias del hueso y ofrece un asiento al tejido blando, que así no demanda hueso. No elimina el gap ni garantiza ausencia de pérdida.",
   "difficulty": "media",
   "source": {
    "kind": "clase",
-   "title": "Clase del 1 de octubre · Materiales de los implantes"
+   "title": "Clase del 24 de septiembre · Osteointegración (parte 2)"
   }
  },
  {
-  "text": "¿Cómo se define la tribocorrosión?",
+  "text": "En el lenguaje de la clase, ¿qué diferencia hay entre remodelación ósea y pérdida de hueso?",
   "options": [
-   "Degradación química por humedad y oxígeno sin movimiento.",
-   "Capa de óxido que protege al metal.",
-   "Desgaste por fricción y roce, que se suma a la degradación química.",
-   "Pérdida de hueso alrededor del implante por infección."
+   "La remodelación es patológica y la pérdida de hueso es fisiológica.",
+   "Son sinónimos exactos y se usan indistintamente.",
+   "La remodelación es la pérdida que se espera de antemano por el diseño del implante, y puede detenerse una vez producida.",
+   "La remodelación solo ocurre en los implantes bone level."
   ],
   "correct": "c",
-  "explanation": "La tribocorrosión es el desgaste por fricción que se suma a la corrosión química.",
-  "difficulty": "baja",
-  "source": {
-   "kind": "clase",
-   "title": "Clase del 1 de octubre · Materiales de los implantes"
-  }
- },
- {
-  "text": "¿Qué es lo que realmente se osteointegra en un implante de titanio?",
-  "options": [
-   "El titanio metálico puro de la masa del implante.",
-   "Una capa de hidroxiapatita que siempre se coloca sobre el implante.",
-   "Los iones de titanio liberados por la corrosión.",
-   "La capa nanométrica de dióxido de titanio (titania) que recubre el metal."
-  ],
-  "correct": "d",
-  "explanation": "Lo que se integra es la capa nanométrica de titania, una cerámica, y no el titanio metálico.",
-  "difficulty": "baja",
-  "source": {
-   "kind": "clase",
-   "title": "Clase del 1 de octubre · Materiales de los implantes"
-  }
- },
- {
-  "text": "Tras un arañazo en la superficie de un implante de titanio con oxígeno disponible, ¿qué ocurre?",
-  "options": [
-   "La zona queda desprotegida de forma permanente.",
-   "Se vuelve a formar una nueva capa de titania en milisegundos.",
-   "El implante pierde la osteointegración en esa zona.",
-   "Se forma una capa de hidroxiapatita."
-  ],
-  "correct": "b",
-  "explanation": "Con oxígeno disponible, la superficie arañada se reoxida y forma titania nueva en milisegundos.",
+  "explanation": "La remodelación ósea es la pérdida prevista por el diseño; una vez ocurre, puede no haber más pérdida. No es lo mismo que una pérdida de hueso inesperada.",
   "difficulty": "media",
   "source": {
    "kind": "clase",
-   "title": "Clase del 1 de octubre · Materiales de los implantes"
+   "title": "Clase del 24 de septiembre · Osteointegración (parte 2)"
   }
  },
  {
-  "text": "¿Qué grado de titanio comercialmente puro se utiliza en implantología?",
+  "text": "¿Qué combinación de rasgos de diseño se asocia con el objetivo moderno de «cero pérdida ósea»?",
   "options": [
-   "El grado 4, el más resistente de los puros por su mayor contenido de impurezas.",
-   "El grado 1, por ser el más blando.",
-   "El grado 5, por ser titanio puro.",
-   "El grado 2, por ser el más translúcido."
+   "Conexión cónica, módulo crestal más estrecho que el cuerpo, platform switching y superficie tratada hasta arriba.",
+   "Conexión externa, módulo crestal más ancho y cuello de titanio liso pulido.",
+   "Conexión interna de paredes paralelas, plataforma ancha y cuello liso.",
+   "Implante impactado, sin roscas y con conexión externa."
   ],
   "correct": "a",
-  "explanation": "Entre los puros se usa el grado 4, el más resistente; el grado 5 agrupa las aleaciones.",
+  "explanation": "Los implantes modernos buscan no perder hueso con conexión cónica, módulo estrecho, platform switching y superficie tratada. El diseño antiguo asumía perder unos 2 mm.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 24 de septiembre · Osteointegración (parte 2)"
+  }
+ },
+ {
+  "text": "Cuando el paciente muerde con fuerza, ¿dónde se concentra la mayor parte del estrés en el hueso?",
+  "options": [
+   "Alrededor del ápice del implante.",
+   "A lo largo de todo el cuerpo, de forma uniforme.",
+   "En el tercio medio del cuerpo.",
+   "En los primeros milímetros del implante, el módulo crestal."
+  ],
+  "correct": "d",
+  "explanation": "El estrés se acumula siempre en el módulo crestal, en los tres primeros milímetros, y por eso su diseño es decisivo para conservar el hueso marginal.",
   "difficulty": "baja",
   "source": {
    "kind": "clase",
-   "title": "Clase del 1 de octubre · Materiales de los implantes"
+   "title": "Clase del 24 de septiembre · Osteointegración (parte 2)"
   }
  },
  {
-  "text": "¿Qué función cumplen el aluminio y el vanadio en la aleación Ti-6Al-4V?",
+  "text": "¿Qué ventaja mecánica aportan las microespiras del módulo crestal?",
   "options": [
-   "Colorean la superficie del implante.",
-   "Reducen el módulo elástico por debajo del hueso.",
-   "Eliminan las impurezas de oxígeno del grado 4.",
-   "Son estabilizadores de la fase beta, que se mantiene así a temperatura ambiente."
-  ],
-  "correct": "d",
-  "explanation": "El aluminio y el vanadio estabilizan la fase beta a temperatura ambiente en la aleación Ti-6Al-4V.",
-  "difficulty": "media",
-  "source": {
-   "kind": "clase",
-   "title": "Clase del 1 de octubre · Materiales de los implantes"
-  }
- },
- {
-  "text": "¿Qué ventaja permitió el titanio alfa-beta (Ti-6Al-4V) frente al titanio puro de grado 4 en los diseños modernos?",
-  "options": [
-   "Es más barato y se mecaniza sin esfuerzo.",
-   "Su mayor resistencia permite paredes finas y conexiones exigentes como el cono Morse.",
-   "Elimina la capa de titania.",
-   "Es completamente inerte y no libera ningún ion."
+   "Aumentan la estabilidad primaria al penetrar en la cortical.",
+   "Aumentan la superficie y reparten mejor la carga, con menos microfracturas y sin activar a los osteoclastos.",
+   "Alejan el gap del hueso y apoyan el tejido blando.",
+   "Aceleran la osteointegración por su rugosidad nanométrica."
   ],
   "correct": "b",
-  "explanation": "La mayor resistencia del titanio alfa-beta permite paredes finas y conexiones como el cono Morse.",
+  "explanation": "Las microespiras aumentan la superficie en la zona de mayor estrés, así que el hueso sufre menos microfracturas, no se activa el osteoclasto y se conserva la cresta.",
   "difficulty": "media",
   "source": {
    "kind": "clase",
-   "title": "Clase del 1 de octubre · Materiales de los implantes"
+   "title": "Clase del 24 de septiembre · Osteointegración (parte 2)"
   }
  },
  {
-  "text": "¿Qué indican las siglas ELI en un titanio?",
+  "text": "Un compañero afirma que las microespiras del cuello mejoran de forma notable la estabilidad primaria. ¿Qué respuesta es adecuada?",
   "options": [
-   "Elemento de liberación iónica: libera iones controlados.",
-   "Estabilizador de la fase beta: mantiene la fase beta.",
-   "Extra low interstitial: muy pocas impurezas y defectos en la red atómica.",
-   "Extra long implant: implante extralargo."
+   "Es cierto, porque aumentan la fricción con la cortical.",
+   "Es cierto, pero solo en el hueso tipo 4.",
+   "Es falso: la estabilidad primaria la dan las macroespiras del cuerpo; las microespiras reducen el estrés y preservan la cresta.",
+   "Es falso, pero porque ninguna rosca influye en la estabilidad primaria."
   ],
   "correct": "c",
-  "explanation": "ELI significa extra low interstitial: titanio con impurezas y defectos reducidos al mínimo.",
-  "difficulty": "baja",
-  "source": {
-   "kind": "clase",
-   "title": "Clase del 1 de octubre · Materiales de los implantes"
-  }
- },
- {
-  "text": "Una paciente refiere alergia a los metales. ¿Qué característica del Roxolid lo hace interesante?",
-  "options": [
-   "Es una aleación de titanio con circonio que no contiene vanadio.",
-   "Es una cerámica totalmente libre de metales.",
-   "Contiene más vanadio que el Ti-6Al-4V.",
-   "Carece de capa de óxido en la superficie."
-  ],
-  "correct": "a",
-  "explanation": "El Roxolid es titanio con circonio sin vanadio, lo que puede interesar en pacientes alérgicos a metales.",
-  "difficulty": "media",
-  "source": {
-   "kind": "clase",
-   "title": "Clase del 1 de octubre · Materiales de los implantes"
-  }
- },
- {
-  "text": "Con el mismo titanio grado 4 de partida, ¿cómo se consigue aproximar su resistencia a unos 800 MPa?",
-  "options": [
-   "Añadiendo un 6% de aluminio.",
-   "Recubriéndolo de hidroxiapatita.",
-   "Dejándolo a 1000 grados durante años.",
-   "Con un tratamiento de trabajo en frío, que aumenta su resistencia."
-  ],
-  "correct": "d",
-  "explanation": "El trabajo en frío endurece el titanio grado 4 y lo lleva a unos 800 MPa.",
+  "explanation": "Las microespiras no aumentan la estabilidad primaria. Esta depende de las macroespiras del cuerpo. Su papel es repartir el estrés y mantener el hueso marginal.",
   "difficulty": "alta",
   "source": {
    "kind": "clase",
-   "title": "Clase del 1 de octubre · Materiales de los implantes"
+   "title": "Clase del 24 de septiembre · Osteointegración (parte 2)"
   }
  },
  {
-  "text": "Una paciente con biotipo gingival fino y sonrisa gingival recibe un implante metálico en el sector anterior y se queja de una sombra gris. ¿Cuál es la causa principal?",
+  "text": "Se va a colocar un implante inmediato en un alvéolo recién extraído. ¿Qué diseño del cuerpo facilita la estabilidad primaria?",
   "options": [
-   "Una alergia al titanio.",
-   "Una pérdida de la capa de titania.",
-   "El metal se transparenta a través de una encía muy fina.",
-   "Un exceso de placa bacteriana."
-  ],
-  "correct": "c",
-  "explanation": "En un biotipo fino el implante metálico se transparenta y produce sombra gris.",
-  "difficulty": "media",
-  "source": {
-   "kind": "clase",
-   "title": "Clase del 1 de octubre · Materiales de los implantes"
-  }
- },
- {
-  "text": "Una corona sobre un implante lleva tres semanas floja y el paciente ha seguido masticando; se fractura la conexión interna. ¿Qué indicación debe recoger el consentimiento para prevenirlo?",
-  "options": [
-   "Que siga masticando con normalidad hasta la próxima revisión.",
-   "Que, si la corona se afloja, no mastique y acuda para que se la aprieten.",
-   "Que pegue la corona con adhesivo doméstico.",
-   "Que retire el implante por su cuenta."
-  ],
-  "correct": "b",
-  "explanation": "El paciente debe dejar de masticar y acudir para que le aprieten la corona, para no romper la conexión.",
-  "difficulty": "media",
-  "source": {
-   "kind": "clase",
-   "title": "Clase del 1 de octubre · Materiales de los implantes"
-  }
- },
- {
-  "text": "¿Por qué se rompe una cerámica de forma aparentemente repentina?",
-  "options": [
-   "Porque una grieta que crece de forma silenciosa llega a un tamaño crítico y se produce una fractura catastrófica.",
-   "Porque la cerámica es siempre débil.",
-   "Porque se deforma plásticamente hasta romperse.",
-   "Porque la corrosión la disuelve."
+   "Cónico, con roscas marcadas que sobresalen hacia el ápice.",
+   "De paredes paralelas y con roscas poco profundas.",
+   "Cilíndrico y liso, sin roscas, para impactarlo.",
+   "Cónico, pero sin roscas en la zona apical."
   ],
   "correct": "a",
-  "explanation": "La grieta crece en silencio (propagación subcrítica) hasta un tamaño crítico y entonces se produce la fractura catastrófica.",
+  "explanation": "En un alvéolo fresco solo hay hueso en el fondo; un cuerpo cónico con roscas marcadas hacia el ápice consigue una estabilidad mucho mayor que uno de paredes paralelas.",
   "difficulty": "media",
   "source": {
    "kind": "clase",
-   "title": "Clase del 1 de octubre · Materiales de los implantes"
+   "title": "Clase del 24 de septiembre · Osteointegración (parte 2)"
   }
  },
  {
-  "text": "¿Qué información aporta el módulo de Weibull de una cerámica?",
+  "text": "¿Qué ocurre cuando se reduce el paso de rosca (pitch) de un implante?",
   "options": [
-   "Cuánto se deforma el material con la carga.",
-   "Cuánto tarda en envejecer por contacto con agua.",
-   "Cómo se distribuyen los defectos: un módulo alto indica un comportamiento más predecible.",
-   "El color final de la cerámica."
-  ],
-  "correct": "c",
-  "explanation": "El módulo de Weibull describe la distribución de los defectos; cuanto más alto, más predecible es la rotura.",
-  "difficulty": "alta",
-  "source": {
-   "kind": "clase",
-   "title": "Clase del 1 de octubre · Materiales de los implantes"
-  }
- },
- {
-  "text": "¿Qué estabilizador mantiene la fase tetragonal de la circonia a temperatura ambiente?",
-  "options": [
-   "El aluminio, en torno a un 6%.",
-   "El vanadio, en torno a un 4%.",
-   "El níquel, en pequeñas trazas.",
-   "La itria, en torno a un 3%."
+   "Caben menos roscas y el implante avanza más rápido en cada vuelta.",
+   "Disminuye la profundidad de rosca en el ápice.",
+   "El implante pasa a ser cilíndrico en vez de cónico.",
+   "Caben más roscas en la misma longitud y hacen falta más vueltas para que avance."
   ],
   "correct": "d",
-  "explanation": "La itria (óxido de itrio), en torno al 3%, estabiliza la fase tetragonal a temperatura ambiente.",
+  "explanation": "Con menor distancia entre roscas caben más en una longitud determinada, y el implante avanza menos por cada vuelta, así que hay que dar más.",
   "difficulty": "media",
   "source": {
    "kind": "clase",
-   "title": "Clase del 1 de octubre · Materiales de los implantes"
+   "title": "Clase del 24 de septiembre · Osteointegración (parte 2)"
   }
  },
  {
-  "text": "¿Cómo se explica la autorreparación de las grietas en la circonia estabilizada?",
+  "text": "¿Qué se consigue combinando en un mismo implante varios tipos de rosca (cuadrada, en V y una intermedia más pequeña)?",
   "options": [
-   "El agua rellena la grieta y la sella.",
-   "La tensión en la punta de la grieta transforma la fase tetragonal en monoclínica, que ocupa un 4% más de volumen y aprieta la grieta.",
-   "La monoclínica es más dura y rechaza la grieta.",
-   "La itria se desprende y rellena la grieta."
+   "Una única curva de estabilidad primaria más alta.",
+   "Varias curvas de estabilidad primaria que se pierden en tiempos distintos, con la primaria desplazada a la derecha y un valle más corto.",
+   "La desaparición de la estabilidad secundaria.",
+   "Poder prescindir del tratamiento de superficie."
   ],
   "correct": "b",
-  "explanation": "La transformación tetragonal-monoclínica aumenta un 4% el volumen y cierra la punta de la grieta.",
+  "explanation": "Cada rosca aporta su propia curva de primaria, y al perderse en momentos distintos la estabilidad dura más y el valle es menos pronunciado, lo que ayuda a la carga inmediata.",
   "difficulty": "alta",
   "source": {
    "kind": "clase",
-   "title": "Clase del 1 de octubre · Materiales de los implantes"
+   "title": "Clase del 24 de septiembre · Osteointegración (parte 2)"
   }
  },
  {
-  "text": "¿Qué es el envejecimiento (degradación a baja temperatura) de la circonia y por qué es su principal talón de Aquiles?",
+  "text": "Sector posterior del maxilar con hueso tipo 3-4, unos 10 mm de altura y espacio suficiente. ¿Qué implante es más razonable?",
   "options": [
-   "Es el cambio de color de la circonia con los años.",
-   "Es la pérdida de osteointegración con la edad.",
-   "El agua extrae la itria de la superficie, se transforma la fase y la superficie se agrieta y pierde resistencia.",
-   "Es la corrosión por oxidación del metal."
+   "Uno estrecho de 3,5 mm, para conservar el máximo de hueso alrededor.",
+   "El más largo posible, porque la carga se reparte por toda su longitud.",
+   "Uno de mayor diámetro (por ejemplo, 5 mm), porque aumenta la superficie y reparte la carga en un hueso débil.",
+   "Cualquiera, porque el diámetro no influye en la carga que recibe el hueso."
   ],
   "correct": "c",
-  "explanation": "El agua roba la itria de la superficie y provoca una transformación de fase que debilita y agrieta la circonia.",
-  "difficulty": "alta",
-  "source": {
-   "kind": "clase",
-   "title": "Clase del 1 de octubre · Materiales de los implantes"
-  }
- },
- {
-  "text": "¿Qué fase de la circonia se utiliza en las coronas translúcidas y cuál en los implantes?",
-  "options": [
-   "Cúbica en las coronas y tetragonal en los implantes.",
-   "Tetragonal en las coronas y cúbica en los implantes.",
-   "Monoclínica en ambas, por su estabilidad.",
-   "Cúbica en ambas, por ser la más dura."
-  ],
-  "correct": "a",
-  "explanation": "Las coronas usan fase cúbica, translúcida; los implantes, fase tetragonal, más resistente y opaca.",
+  "explanation": "En un hueso débil conviene repartir la carga: un implante más ancho aumenta la superficie y lo hace posible, siempre que el espacio lo permita.",
   "difficulty": "media",
   "source": {
    "kind": "clase",
-   "title": "Clase del 1 de octubre · Materiales de los implantes"
+   "title": "Clase del 24 de septiembre · Osteointegración (parte 2)"
   }
  },
  {
-  "text": "¿Qué aporta la circonia con ceria frente a la circonia con itria?",
+  "text": "Según la clase, ¿cómo se definen los implantes cortos y los extracortos?",
   "options": [
-   "Es más translúcida y se usa para coronas.",
-   "Tiene mayor módulo elástico que el titanio.",
-   "Elimina la necesidad de osteointegración.",
-   "No sufre envejecimiento por agua y tiene capacidad de deformación, lo que permite diseños modernos."
+   "Corto: menos de 10 mm de longitud. Extracorto: menos de 6 mm.",
+   "Corto: menos de 8 mm. Extracorto: menos de 4 mm.",
+   "Corto: menos de 12 mm. Extracorto: menos de 8 mm.",
+   "Corto: menos de 6 mm. Extracorto: menos de 4 mm."
+  ],
+  "correct": "a",
+  "explanation": "La clase definió el implante corto como el de menos de 10 mm y el extracorto como el de menos de 6 mm, y avisó de que podía caer en examen.",
+  "difficulty": "baja",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 24 de septiembre · Osteointegración (parte 2)"
+  }
+ },
+ {
+  "text": "Se propone sujetar un puente de tres coronas con un único implante corto. ¿Qué advertencia es coherente con la clase?",
+  "options": [
+   "Es lo ideal, porque el estrés se concentra en el ápice y los cortos lo evitan.",
+   "Es correcto siempre que el implante tenga una superficie rugosa.",
+   "Solo sería problema en mandíbula, no en el maxilar.",
+   "Es mecánicamente insuficiente: conviene diámetros anchos y más implantes para repartir la carga, y los cortos se reservan, por ejemplo, para apoyo distal posterior."
   ],
   "correct": "d",
-  "explanation": "La circonia con ceria no envejece con el agua y puede deformarse, lo que permite diseños modernos.",
-  "difficulty": "media",
-  "source": {
-   "kind": "clase",
-   "title": "Clase del 1 de octubre · Materiales de los implantes"
-  }
- },
- {
-  "text": "¿Qué dos problemas tiene recubrir un implante metálico con hidroxiapatita?",
-  "options": [
-   "Corrosión galvánica y alergia al vanadio.",
-   "Contaminación bacteriana por su porosidad y delaminación de la capa.",
-   "Pérdida de color y fractura del hueso.",
-   "Falta de osteointegración y exceso de rigidez."
-  ],
-  "correct": "b",
-  "explanation": "La hidroxiapatita puede contaminarse por su porosidad y delaminarse del implante.",
-  "difficulty": "media",
-  "source": {
-   "kind": "clase",
-   "title": "Clase del 1 de octubre · Materiales de los implantes"
-  }
- },
- {
-  "text": "Un implante se cementa y, meses después, el paciente presenta periimplantitis. ¿Qué riesgo del cementado se explicó en clase?",
-  "options": [
-   "Los restos de cemento bajo la encía pueden causar periimplantitis.",
-   "El cemento aumenta la osteointegración.",
-   "El cemento libera iones de titanio.",
-   "El cemento impide cualquier infección."
-  ],
-  "correct": "a",
-  "explanation": "El cemento subgingival puede generar periimplantitis; además es difícil retirar una corona cementada.",
-  "difficulty": "media",
-  "source": {
-   "kind": "clase",
-   "title": "Clase del 1 de octubre · Materiales de los implantes"
-  }
- },
- {
-  "text": "¿Qué se señaló como lo más determinante para el éxito del implante, por encima de la elección del material?",
-  "options": [
-   "La marca comercial del implante.",
-   "Que el material sea cerámico.",
-   "La posición tridimensional del implante, junto con un tejido blando favorable.",
-   "La higiene del paciente por encima de cualquier otro factor."
-  ],
-  "correct": "c",
-  "explanation": "La posición tridimensional del implante y el tejido blando pesan más que el material elegido.",
+  "explanation": "Un implante corto es viable por la concentración del estrés en la cresta, pero no soporta solo varias coronas. Repartir entre más implantes y diámetros mayores reduce la carga.",
   "difficulty": "alta",
   "source": {
    "kind": "clase",
-   "title": "Clase del 1 de octubre · Materiales de los implantes"
+   "title": "Clase del 24 de septiembre · Osteointegración (parte 2)"
+  }
+ },
+ {
+  "text": "¿Cuál era la diferencia fundamental entre las dos escuelas bone level y tissue level?",
+  "options": [
+   "En el bone level la unión queda en la encía y en el tissue level en el hueso.",
+   "En el bone level la unión queda a nivel del hueso; en el tissue level queda a nivel del margen de la encía.",
+   "El bone level usaba conexión interna y el tissue level conexión externa.",
+   "El bone level se reservaba para hueso tipo 1 y el tissue level para el tipo 4."
+  ],
+  "correct": "b",
+  "explanation": "Bone level sitúa el gap a nivel del hueso y tissue level lo deja a nivel de la encía, lejos del hueso. Hoy domina el bone level con platform switching.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 24 de septiembre · Osteointegración (parte 2)"
+  }
+ },
+ {
+  "text": "Un diseño de implante con estructura tridimensional (esferas o trabéculas) multiplicaba la superficie. ¿Por qué fracasó en la vida real?",
+  "options": [
+   "Porque impedía que el hueso creciera por dentro del implante.",
+   "Porque no lograba ninguna estabilidad primaria.",
+   "Ante una contaminación bacteriana o una pérdida ósea, era imposible descontaminar ese entramado y obligaba a retirar el implante.",
+   "Porque se fracturaba al insertarlo por tener paredes demasiado finas."
+  ],
+  "correct": "c",
+  "explanation": "El diseño ganaba superficie, pero si había infección o pérdida ósea era imposible limpiar el entramado y había que retirar el implante con una gran pérdida de hueso.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 24 de septiembre · Osteointegración (parte 2)"
+  }
+ },
+ {
+  "text": "Un representante comercial presenta un diseño muy novedoso con una teoría convincente. ¿Qué actitud defendió la clase?",
+  "options": [
+   "Preguntar cuántos años y casos en boca lo respaldan, informar al paciente si va a ser una prueba y tener un plan alternativo.",
+   "Adoptarlo si la teoría es sólida, porque lo nuevo suele ser mejor.",
+   "Usarlo en los primeros cien pacientes para acumular experiencia propia.",
+   "Rechazar cualquier diseño nuevo, sin valorar su evidencia."
+  ],
+  "correct": "a",
+  "explanation": "Ante una novedad hay que pedir años y casos en boca, informar al paciente si se usa como prueba y disponer de un plan B.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 24 de septiembre · Osteointegración (parte 2)"
+  }
+ },
+ {
+  "text": "Una zona del lecho mide unas 600 unidades Hounsfield en el TAC. ¿Qué tipo de hueso es?",
+  "options": [
+   "Hueso tipo 1.",
+   "Hueso tipo 2.",
+   "Hueso tipo 4.",
+   "Hueso tipo 3."
+  ],
+  "correct": "d",
+  "explanation": "Entre 351 y 850 HU el hueso es de tipo 3. El tipo 2 va de 851 a 1250, el tipo 1 supera las 1250 y el tipo 4 se sitúa entre 150 y 350.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 24 de septiembre · Osteointegración (parte 2)"
+  }
+ },
+ {
+  "text": "Aunque ofrece mucha estabilidad primaria, el hueso tipo 1 se considera el más difícil. ¿Por qué?",
+  "options": [
+   "Porque no permite conseguir estabilidad primaria alguna.",
+   "Está poco vascularizado, es duro de fresar con riesgo de sobrecalentamiento y es fácil comprimirlo en exceso.",
+   "Porque se condensa con osteotomos con mucha dificultad.",
+   "Porque se reabsorbe más rápido que el resto de tipos."
+  ],
+  "correct": "b",
+  "explanation": "El tipo 1 sangra poco, puede sobrecalentarse al fresar y se comprime fácilmente por encima del torque adecuado. Eso compromete la cicatrización.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 24 de septiembre · Osteointegración (parte 2)"
+  }
+ },
+ {
+  "text": "Maxilar posterior con hueso tipo 4 y una cortical muy fina en el suelo del seno. ¿Qué estrategia ayuda a conseguir estabilidad primaria?",
+  "options": [
+   "Fresar de más para ensanchar el lecho y que el implante entre con facilidad.",
+   "Elegir un implante de paredes paralelas sin roscas.",
+   "Condensar el hueso con osteotomos y buscar el anclaje bicortical.",
+   "Aplicar el mayor torque posible aunque comprima el lecho."
+  ],
+  "correct": "c",
+  "explanation": "En hueso blando la clave es no fresar de más, sino condensar y anclar el implante en las corticales disponibles, como el suelo del seno.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 24 de septiembre · Osteointegración (parte 2)"
+  }
+ },
+ {
+  "text": "En una zona con un primer milímetro de cortical densa y hueso blando debajo, ¿cómo conviene fresar?",
+  "options": [
+   "Adaptando el protocolo: tratar la cortical para evitar el sobretorque (por ejemplo, con un avellanador) y condensar el hueso blando del resto.",
+   "Con un protocolo uniforme, el correspondiente al tipo medio de toda la zona.",
+   "Con el protocolo de tipo 4 en toda la longitud.",
+   "Con el protocolo de tipo 1 en toda la longitud, para asegurar la fresa."
+  ],
+  "correct": "a",
+  "explanation": "Un mismo lecho mezcla tipos de hueso, por lo que se adapta el fresado: sin sobretorque en la cortical y condensando el hueso blando.",
+  "difficulty": "alta",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 24 de septiembre · Osteointegración (parte 2)"
+  }
+ },
+ {
+  "text": "Un implante firme el día de la cirugía se mueve a las tres semanas, al atornillar el pilar de cicatrización. Mismo paciente, técnica e implante. ¿Cuál es la mejor explicación?",
+  "options": [
+   "La osteointegración ha fracasado definitivamente por culpa del material.",
+   "El hueso era demasiado denso y se ha reabsorbido por exceso de estabilidad.",
+   "Es normal que se mueva, porque a las tres semanas la estabilidad secundaria es máxima.",
+   "Está en el valle: la primaria ha caído por la reabsorción del hueso comprimido y el hueso nuevo todavía no resiste."
+  ],
+  "correct": "d",
+  "explanation": "A las tres semanas la estabilidad primaria ha caído y la secundaria todavía no la ha compensado: es el valle, el momento de mayor riesgo.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 24 de septiembre · Osteointegración (parte 2)"
+  }
+ },
+ {
+  "text": "¿Qué parte de la curva de estabilidad trabaja el macrodiseño del implante y cuál la superficie?",
+  "options": [
+   "El macrodiseño trabaja la secundaria y la superficie la primaria.",
+   "El macrodiseño trabaja la curva de la estabilidad primaria; la superficie, la biología (la secundaria).",
+   "Ambos actúan solo sobre la primaria.",
+   "Ninguno interviene en la curva; solo cuenta el protocolo de carga."
+  ],
+  "correct": "b",
+  "explanation": "El macrodiseño sostiene la estabilidad primaria durante más tiempo y la superficie acelera la secundaria. Entre ambos se reduce el valle.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 24 de septiembre · Osteointegración (parte 2)"
+  }
+ },
+ {
+  "text": "A los dos meses, que es el plazo estándar, un paciente refiere dolor al tocar el implante. ¿Qué actitud defendió la clase?",
+  "options": [
+   "Considerarlo osteointegrado y cargarlo porque ya pasó el plazo.",
+   "Retirarlo de inmediato por considerarlo un fracaso.",
+   "Considerar que aún no cumple el requisito de ser asintomático, darle más tiempo y reevaluarlo.",
+   "Cargarlo con una prótesis provisional ligera para estimularlo."
+  ],
+  "correct": "c",
+  "explanation": "El protocolo estándar vale para la mayoría, pero algunos pacientes necesitan más tiempo. Un implante doloroso no está listo y conviene esperar y reevaluar.",
+  "difficulty": "alta",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 24 de septiembre · Osteointegración (parte 2)"
   }
  }
 ]

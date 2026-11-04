@@ -1,0 +1,83 @@
+{
+ "1": [
+  {
+   "url": "audio/implantes/tema-01.m4a",
+   "source": "IMPLANTES TEMA 4 HC.m4a",
+   "title": "Clase del 10 de septiembre",
+   "seconds": 5336,
+   "bytes": 22058899
+  }
+ ],
+ "2": [
+  {
+   "url": "audio/implantes/tema-02.m4a",
+   "source": "IMPLANTES OSTEOINTEGRACIÓN.m4a",
+   "title": "Clase del 17 de septiembre",
+   "seconds": 6042,
+   "bytes": 24987178
+  }
+ ],
+ "3": [
+  {
+   "url": "audio/implantes/tema-03.m4a",
+   "source": "IMPLANTES TERMINA TEMA OSTEOINTEGRACION.m4a",
+   "title": "Clase del 24 de septiembre",
+   "seconds": 6288,
+   "bytes": 26019610
+  }
+ ],
+ "4": [
+  {
+   "url": "audio/implantes/tema-04.m4a",
+   "source": "IMPLANTES TEMA materiales ioi.m4a",
+   "title": "Clase del 1 de octubre",
+   "seconds": 5965,
+   "bytes": 24675384
+  }
+ ],
+ "5": [
+  {
+   "url": "audio/implantes/tema-05.m4a",
+   "source": "IMPLANTES PLANIFICACION.m4a",
+   "title": "Clase del 8 de octubre",
+   "seconds": 5621,
+   "bytes": 23255554
+  }
+ ],
+ "6": [
+  {
+   "url": "audio/implantes/tema-06.m4a",
+   "source": "PERIO ANATOPIA APLICADA A IMPLANTOLOGIA A1.m4a",
+   "title": "Clase del 13 de octubre",
+   "seconds": 4673,
+   "bytes": 19330064
+  }
+ ],
+ "7": [
+  {
+   "url": "audio/implantes/tema-07.m4a",
+   "source": "Implantes posiciones clasey n° implantes.m4a",
+   "title": "Clase del 15 de octubre",
+   "seconds": 4687,
+   "bytes": 19384930
+  }
+ ],
+ "8": [
+  {
+   "url": "audio/implantes/tema-08.m4a",
+   "source": "JUEVES 22 IMPLANTES (AUD-20261104-WA0016).m4a",
+   "title": "Clase del 22 de octubre",
+   "seconds": 5996,
+   "bytes": 24717289
+  }
+ ],
+ "9": [
+  {
+   "url": "audio/implantes/tema-09.m4a",
+   "source": "IMPLANTES; A1 implantes inmediatos zona estetica.m4a",
+   "title": "Clase del 29 de octubre",
+   "seconds": 6222,
+   "bytes": 25732821
+  }
+ ]
+}

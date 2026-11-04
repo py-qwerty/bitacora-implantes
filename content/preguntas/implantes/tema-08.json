@@ -1,482 +1,482 @@
 [
- {
-  "text": "Al valorar un alveolo para un implante inmediato en zona estética, aparece una única «luz roja» en el checklist. ¿Qué actitud defendió la clase?",
-  "options": [
-   "Continuar con el inmediato si el resto de parámetros son favorables.",
-   "Renunciar al inmediato y elegir otra alternativa (temprano, diferido o preservación de la cresta).",
-   "Dejar el alvéolo sin tratar hasta que el paciente decida.",
-   "Derivar siempre al paciente a otro profesional."
-  ],
-  "correct": "b",
-  "explanation": "Una sola luz roja basta para descartar el inmediato; se elige otra alternativa como el implante temprano, el diferido o la preservación de la cresta.",
-  "difficulty": "baja",
-  "source": {
-   "kind": "clase",
-   "title": "Clase del 29 de octubre · Implantes inmediatos en zona estética"
+  {
+    "text": "¿Qué principio guía la colocación del implante según la clase?",
+    "options": [
+      "El implante se coloca siempre donde haya más hueso, y después se diseña la prótesis.",
+      "El implante se coloca guiado por la prótesis, no por el hueso disponible.",
+      "El implante se coloca según la posición que marque la fresa piloto, sin plan previo.",
+      "El implante se coloca siempre centrado en la cresta, sin tener en cuenta los dientes."
+    ],
+    "correct": "b",
+    "explanation": "Se parte de la prótesis ideal, se fusiona con el TAC y se diseña el implante desde ahí; si no cabe, se regenera.",
+    "difficulty": "baja",
+    "source": {
+      "kind": "clase",
+      "title": "Clase del 22 de octubre · Técnica quirúrgica de colocación del implante"
+    }
+  },
+  {
+    "text": "¿Por qué el colgajo para implantes se diseña con la base más ancha que el borde libre?",
+    "options": [
+      "Porque facilita suturar sin tensión en todos los casos.",
+      "Porque aumenta el tamaño de la cresta expuesta.",
+      "Porque evita que sea necesario usar bisturí.",
+      "Porque así se mantiene la vascularización que llega desde la base del colgajo."
+    ],
+    "correct": "d",
+    "explanation": "La base ancha conserva la irrigación del colgajo; una base estrecha deja el borde libre sin sangre suficiente.",
+    "difficulty": "media",
+    "source": {
+      "kind": "clase",
+      "title": "Clase del 22 de octubre · Técnica quirúrgica de colocación del implante"
+    }
+  },
+  {
+    "text": "Para una incisión de descarga vertical, ¿qué localización suele tolerar mejor el paciente en el postoperatorio?",
+    "options": [
+      "La posterior, porque el labio se mueve menos en esa zona.",
+      "La anterior, porque el labio la protege y se mueve poco.",
+      "La que cruza la papila, porque cicatriza mejor.",
+      "Cualquiera: la localización no influye en el postoperatorio."
+    ],
+    "correct": "a",
+    "explanation": "Las descargas posteriores molestan menos porque el labio apenas se mueve en esa zona, aunque son más difíciles de suturar.",
+    "difficulty": "media",
+    "source": {
+      "kind": "clase",
+      "title": "Clase del 22 de octubre · Técnica quirúrgica de colocación del implante"
+    }
+  },
+  {
+    "text": "Un paciente necesita un implante en el sector estético anterior y se quiere evitar la retracción de la papila. ¿Qué incisión se elige?",
+    "options": [
+      "Mediocrestal con descarga vertical amplia.",
+      "Incisión paracrestal hacia lingual.",
+      "Preservación de papila: la incisión no incluye la papila y no se levanta el colgajo sobre ella.",
+      "Descarga anterior muy amplia sin respetar la papila."
+    ],
+    "correct": "c",
+    "explanation": "La preservación de papila excluye la papila de la incisión, para evitar su retracción en zona estética.",
+    "difficulty": "media",
+    "source": {
+      "kind": "clase",
+      "title": "Clase del 22 de octubre · Técnica quirúrgica de colocación del implante"
+    }
+  },
+  {
+    "text": "En una mandíbula muy atrófica el nervio mentoniano puede estar en lo alto de la cresta. ¿Cómo se modifica la incisión?",
+    "options": [
+      "Mediocrestal, como siempre, porque el nervio está bien protegido.",
+      "Incisión paracrestal desplazada hacia lingual, porque el nervio nunca está en la vertiente lingual.",
+      "Paracrestal hacia vestibular, que es donde el nervio es más seguro.",
+      "Descarga vertical anterior sobre el agujero."
+    ],
+    "correct": "b",
+    "explanation": "El nervio mentoniano está en vestibular, así que en atrofia se incide hacia lingual.",
+    "difficulty": "alta",
+    "source": {
+      "kind": "clase",
+      "title": "Clase del 22 de octubre · Técnica quirúrgica de colocación del implante"
+    }
+  },
+  {
+    "text": "En una atrofia maxilar posterior severa, para colocar implantes cigomáticos o pterigoideos, ¿hacia dónde se desplaza la incisión?",
+    "options": [
+      "Hacia palatino, para obtener más encía queratinizada.",
+      "Exactamente en la línea media, sin desplazarla.",
+      "Hacia vestibular, porque el agujero palatino posterior puede quedar cerca de la cresta pero nunca en vestibular.",
+      "Hacia lingual, que es lo habitual en el maxilar."
+    ],
+    "correct": "c",
+    "explanation": "El agujero palatino posterior no llega a vestibular, así que la incisión se desplaza hacia fuera.",
+    "difficulty": "alta",
+    "source": {
+      "kind": "clase",
+      "title": "Clase del 22 de octubre · Técnica quirúrgica de colocación del implante"
+    }
+  },
+  {
+    "text": "¿Qué describe el «loop» del nervio mentoniano?",
+    "options": [
+      "El nervio avanza un poco más allá del agujero, gira y vuelve hacia atrás, de modo que sale mirando hacia atrás.",
+      "El nervio sale recto, perpendicular a la cortical.",
+      "El nervio se bifurca en dos ramas dentro del agujero.",
+      "El nervio se curva hacia la cresta alveolar."
+    ],
+    "correct": "a",
+    "explanation": "El nervio pasa del agujero, gira y retrocede, de modo que sale hacia atrás.",
+    "difficulty": "media",
+    "source": {
+      "kind": "clase",
+      "title": "Clase del 22 de octubre · Técnica quirúrgica de colocación del implante"
+    }
+  },
+  {
+    "text": "Al levantar un colgajo en una mandíbula con agujero mentoniano, ¿en qué sentido se despega y por qué?",
+    "options": [
+      "Hacia delante, para que el nervio quede apoyado en el borde afilado.",
+      "Hacia delante, porque así se ve mejor el agujero.",
+      "Hacia donde sea más cómodo, porque el borde del agujero no importa.",
+      "Hacia atrás, para que el nervio quede apoyado en el borde romo y no en el afilado."
+    ],
+    "correct": "d",
+    "explanation": "El colgajo mandibular se levanta hacia atrás para proteger el nervio apoyándolo en el borde romo.",
+    "difficulty": "media",
+    "source": {
+      "kind": "clase",
+      "title": "Clase del 22 de octubre · Técnica quirúrgica de colocación del implante"
+    }
+  },
+  {
+    "text": "¿Qué aporta fundamentalmente el contra-ángulo 20:1 del motor de implantes frente al contra-ángulo de aire de la clínica?",
+    "options": [
+      "Aumenta la velocidad veinte veces para fresar mejor.",
+      "Reduce la velocidad veinte veces y permite controlar el torque.",
+      "Elimina la necesidad de irrigar con suero.",
+      "Permite trabajar sin pedal."
+    ],
+    "correct": "b",
+    "explanation": "El 20:1 reduce la velocidad 20 veces y deja fijar el torque, a diferencia de la turbina o el contra-ángulo de aire.",
+    "difficulty": "media",
+    "source": {
+      "kind": "clase",
+      "title": "Clase del 22 de octubre · Técnica quirúrgica de colocación del implante"
+    }
+  },
+  {
+    "text": "Si en el motor se programa un torque límite y la fresa o el implante lo alcanza, ¿qué ocurre?",
+    "options": [
+      "El motor se detiene, avisando de que se ha alcanzado ese torque.",
+      "El motor aumenta el torque automáticamente.",
+      "El motor sigue girando pero más rápido.",
+      "El motor pasa a marcha atrás sin avisar."
+    ],
+    "correct": "a",
+    "explanation": "El motor se detiene al alcanzar el torque fijado, lo que informa de cómo agarra el implante.",
+    "difficulty": "media",
+    "source": {
+      "kind": "clase",
+      "title": "Clase del 22 de octubre · Técnica quirúrgica de colocación del implante"
+    }
+  },
+  {
+    "text": "¿Qué distingue a un aparato piezoeléctrico (piezotomo) del motor de implantes?",
+    "options": [
+      "Gira a más revoluciones y funciona con los mismos parámetros que el motor.",
+      "Se usa solo para colocar el implante en el hueso.",
+      "Corta tejido duro por vibración de la punta, sin cortar tejidos blandos.",
+      "Reduce la velocidad veinte veces."
+    ],
+    "correct": "c",
+    "explanation": "El piezo vibra y corta hueso sin lesionar la mucosa o la membrana del seno.",
+    "difficulty": "media",
+    "source": {
+      "kind": "clase",
+      "title": "Clase del 22 de octubre · Técnica quirúrgica de colocación del implante"
+    }
+  },
+  {
+    "text": "¿Qué ventaja tiene la fresa de inicio lanceolada frente a la redonda?",
+    "options": [
+      "Se usa solo para medir la profundidad final.",
+      "Reduce la necesidad de irrigación.",
+      "Permite fresar más rápido sin riesgo de calentar el hueso.",
+      "Se clava en la cresta o en la pared del alvéolo y no resbala."
+    ],
+    "correct": "d",
+    "explanation": "La lanceolada se clava como un dardo y permite fresar donde se quiere.",
+    "difficulty": "media",
+    "source": {
+      "kind": "clase",
+      "title": "Clase del 22 de octubre · Técnica quirúrgica de colocación del implante"
+    }
+  },
+  {
+    "text": "Se va a colocar un implante de 4 mm de diámetro junto a un diente, manteniendo 1,5 mm entre implante y diente. ¿A qué distancia del diente se coloca la fresa de inicio?",
+    "options": [
+      "A 1,5 mm del diente.",
+      "A 3,5 mm del diente: 1,5 mm más el radio de 2 mm.",
+      "A 5,5 mm del diente: 1,5 mm más el diámetro completo.",
+      "A 4 mm del diente."
+    ],
+    "correct": "b",
+    "explanation": "Distancia = 1,5 mm más el radio del implante: 1,5 + 2 = 3,5 mm.",
+    "difficulty": "alta",
+    "source": {
+      "kind": "clase",
+      "title": "Clase del 22 de octubre · Técnica quirúrgica de colocación del implante"
+    }
+  },
+  {
+    "text": "Con un implante de 6 mm de diámetro y 1,5 mm de distancia mínima al diente, ¿a qué distancia del diente se marca la fresa de inicio?",
+    "options": [
+      "A 4,5 mm del diente: 1,5 mm más el radio de 3 mm.",
+      "A 1,5 mm del diente.",
+      "A 6 mm del diente.",
+      "A 7,5 mm del diente."
+    ],
+    "correct": "a",
+    "explanation": "Radio de 3 mm más 1,5 mm de margen: 4,5 mm.",
+    "difficulty": "alta",
+    "source": {
+      "kind": "clase",
+      "title": "Clase del 22 de octubre · Técnica quirúrgica de colocación del implante"
+    }
+  },
+  {
+    "text": "¿Qué determina la fresa piloto en la osteotomía?",
+    "options": [
+      "Solo el punto de entrada en la cresta.",
+      "El diámetro final del implante.",
+      "La profundidad de trabajo y gran parte (alrededor del 80 %) de la orientación del eje.",
+      "Únicamente la velocidad de inserción."
+    ],
+    "correct": "c",
+    "explanation": "La piloto marca la longitud de trabajo y la mayor parte del eje.",
+    "difficulty": "alta",
+    "source": {
+      "kind": "clase",
+      "title": "Clase del 22 de octubre · Técnica quirúrgica de colocación del implante"
+    }
+  },
+  {
+    "text": "Una fresa está marcada a 10 mm y la estructura crítica (nervio) está a 10,5 mm. ¿Qué hay que tener en cuenta?",
+    "options": [
+      "Que la punta de la fresa no entra en la marca y suma unos 0,5 mm, por lo que realmente llega a 10,5 mm.",
+      "Que la fresa llegará exactamente a 10 mm.",
+      "Que la punta se resta de la medida, quedando en 9,5 mm.",
+      "Que no hay riesgo, porque la punta no corta."
+    ],
+    "correct": "a",
+    "explanation": "La punta no está incluida en la marca: con 10 mm marcados se llega realmente a 10,5 mm.",
+    "difficulty": "alta",
+    "source": {
+      "kind": "clase",
+      "title": "Clase del 22 de octubre · Técnica quirúrgica de colocación del implante"
+    }
+  },
+  {
+    "text": "¿Para qué sirve el agujero que tiene el paralelizador?",
+    "options": [
+      "Para introducir suero en el hueso.",
+      "Para sujetarlo con el tornillo de cierre.",
+      "Para pasar una seda dental que queda fuera de la boca, de modo que el paciente no pueda tragarlo.",
+      "Para ajustar su longitud."
+    ],
+    "correct": "c",
+    "explanation": "El orificio permite atar una seda dental y retirar el paralelizador si se cae.",
+    "difficulty": "media",
+    "source": {
+      "kind": "clase",
+      "title": "Clase del 22 de octubre · Técnica quirúrgica de colocación del implante"
+    }
+  },
+  {
+    "text": "Un paciente tiene un diente vecino que, al abrir la boca, se ve inclinado. ¿Cómo se orienta el fresado?",
+    "options": [
+      "Paralelo al eje de los dientes adyacentes, comprobando desde varios ángulos.",
+      "En vertical absoluta, para que quede recto respecto al suelo.",
+      "Siguiendo solo la imagen de la cresta, ignorando el diente.",
+      "Mirando desde un solo ángulo, para ganar rapidez."
+    ],
+    "correct": "a",
+    "explanation": "El eje de los dientes vecinos guía el fresado; fresar vertical sin más puede dañar una raíz.",
+    "difficulty": "alta",
+    "source": {
+      "kind": "clase",
+      "title": "Clase del 22 de octubre · Técnica quirúrgica de colocación del implante"
+    }
+  },
+  {
+    "text": "¿Qué se señaló como umbral de lesión térmica del hueso durante el fresado?",
+    "options": [
+      "Alrededor de 37 °C durante un segundo.",
+      "Alrededor de 60 °C durante un segundo.",
+      "Alrededor de 47 °C mantenidos durante un minuto.",
+      "Cualquier temperatura por encima de 40 °C durante unos segundos."
+    ],
+    "correct": "c",
+    "explanation": "Alcanzar unos 47 °C durante un minuto puede necrosar el hueso.",
+    "difficulty": "media",
+    "source": {
+      "kind": "clase",
+      "title": "Clase del 22 de octubre · Técnica quirúrgica de colocación del implante"
+    }
+  },
+  {
+    "text": "¿Por qué se fresa de forma intermitente («bone dancing») y no de forma continua hasta el fondo?",
+    "options": [
+      "Porque la fresa se desgasta menos con movimientos cortos.",
+      "Porque así se alinea mejor el eje del implante.",
+      "Porque el motor no admite funcionar de forma continua.",
+      "Porque la irrigación externa no llega al fondo del hueso, y al sacar la fresa se enfría y se limpia."
+    ],
+    "correct": "d",
+    "explanation": "El suero no llega a la profundidad, por eso se saca la fresa cada pocos segundos para refrigerarla.",
+    "difficulty": "media",
+    "source": {
+      "kind": "clase",
+      "title": "Clase del 22 de octubre · Técnica quirúrgica de colocación del implante"
+    }
+  },
+  {
+    "text": "A medida que aumenta el diámetro de las fresas en la secuencia, ¿qué ocurre con la velocidad?",
+    "options": [
+      "Se aumenta, para fresar más rápido y calentar menos.",
+      "Se reduce, porque la fresa más gruesa tiene más fricción y calienta más.",
+      "Se mantiene siempre igual.",
+      "Se pasa a cero para evitar el calor."
+    ],
+    "correct": "b",
+    "explanation": "A más diámetro, más fricción y calor, por lo que se baja la velocidad.",
+    "difficulty": "media",
+    "source": {
+      "kind": "clase",
+      "title": "Clase del 22 de octubre · Técnica quirúrgica de colocación del implante"
+    }
+  },
+  {
+    "text": "¿Por qué se considera problemática la fresa de irrigación interna cuando se reutiliza entre pacientes?",
+    "options": [
+      "Porque su canal es muy difícil de limpiar y esterilizar con garantías si queda sangre seca.",
+      "Porque no refrigera la punta de la fresa.",
+      "Porque corta peor que una fresa convencional.",
+      "Porque solo vale para hueso D4."
+    ],
+    "correct": "a",
+    "explanation": "El canal interno es casi imposible de limpiar y esterilizar con seguridad.",
+    "difficulty": "media",
+    "source": {
+      "kind": "clase",
+      "title": "Clase del 22 de octubre · Técnica quirúrgica de colocación del implante"
+    }
+  },
+  {
+    "text": "En hueso D1 muy denso, ¿qué secuencia se usa?",
+    "options": [
+      "Solo la fresa de inicio y la piloto, y condensar.",
+      "Se salta el avellanador para no debilitar la cortical.",
+      "Toda la secuencia, con avellanador y, si hace falta, macho de terraja.",
+      "Se fresa solo con la fresa piloto."
+    ],
+    "correct": "c",
+    "explanation": "En D1 se hace la secuencia completa, incluidos avellanador y macho de terraja.",
+    "difficulty": "alta",
+    "source": {
+      "kind": "clase",
+      "title": "Clase del 22 de octubre · Técnica quirúrgica de colocación del implante"
+    }
+  },
+  {
+    "text": "En hueso D4 muy blando, ¿qué estrategia se recomienda para ganar estabilidad primaria?",
+    "options": [
+      "Pasar todas las fresas hasta el diámetro del implante.",
+      "Pasar el macho de terraja, como en D1.",
+      "Fresar a alta velocidad sin irrigar.",
+      "Fresar poco y condensar el hueso con osteótomos en lugar de eliminarlo."
+    ],
+    "correct": "d",
+    "explanation": "En D4 se condensa con osteótomos para mejorar el hueso, en lugar de eliminarlo.",
+    "difficulty": "alta",
+    "source": {
+      "kind": "clase",
+      "title": "Clase del 22 de octubre · Técnica quirúrgica de colocación del implante"
+    }
+  },
+  {
+    "text": "¿Cuál es el rango de torque de inserción buscado, y qué riesgo hay si se supera con creces?",
+    "options": [
+      "Entre 5 y 10 N·cm; por encima no hay riesgo.",
+      "Entre 30 y 50 N·cm; por encima de 50 hay riesgo de necrosis por falta de vascularización.",
+      "Entre 80 y 100 N·cm; más torque siempre es mejor.",
+      "Cualquiera, porque el torque no afecta al hueso."
+    ],
+    "correct": "b",
+    "explanation": "El torque debe estar entre 30 y 50 N·cm; más de 50 puede necrosar el hueso.",
+    "difficulty": "alta",
+    "source": {
+      "kind": "clase",
+      "title": "Clase del 22 de octubre · Técnica quirúrgica de colocación del implante"
+    }
+  },
+  {
+    "text": "El implante de un caso en hueso denso se detiene cuando quedan unas pocas espiras por bajar. ¿Qué se recomienda?",
+    "options": [
+      "Sacarlo y pasar el avellanador o repasar la última fresa, sin forzar el implante.",
+      "Forzarlo con la carraca hasta que baje.",
+      "Dejarlo en esa posición y cerrar.",
+      "Cambiar a un implante mucho más ancho."
+    ],
+    "correct": "a",
+    "explanation": "Se saca el implante y se ensancha la cortical con avellanador o repasando la fresa.",
+    "difficulty": "alta",
+    "source": {
+      "kind": "clase",
+      "title": "Clase del 22 de octubre · Técnica quirúrgica de colocación del implante"
+    }
+  },
+  {
+    "text": "¿Por qué hay que reforzar la irrigación cuando se usa un drill extender (prolongador de fresa)?",
+    "options": [
+      "Porque el prolongador no se calienta.",
+      "Porque reduce el torque disponible.",
+      "Porque el suero se dirige a la pieza y llega peor a la punta de la fresa.",
+      "Porque no admite irrigación de ningún tipo."
+    ],
+    "correct": "c",
+    "explanation": "La irrigación llega peor a la punta, así que hay que insistir en ella o dirigirla.",
+    "difficulty": "media",
+    "source": {
+      "kind": "clase",
+      "title": "Clase del 22 de octubre · Técnica quirúrgica de colocación del implante"
+    }
+  },
+  {
+    "text": "Durante una cirugía en el maxilar se le cae el destornillador al paciente y este lo traga. ¿Qué se indica?",
+    "options": [
+      "No decir nada, porque casi siempre se elimina solo.",
+      "Hacerle vomitar en la consulta.",
+      "Esperar a que lo elimine y no hacer controles.",
+      "Informar al paciente, enviarlo al hospital y confirmar la localización con radiografía."
+    ],
+    "correct": "d",
+    "explanation": "Hay que informar y derivar para localizarlo con radiografía y controlar su avance.",
+    "difficulty": "alta",
+    "source": {
+      "kind": "clase",
+      "title": "Clase del 22 de octubre · Técnica quirúrgica de colocación del implante"
+    }
+  },
+  {
+    "text": "Si un instrumento cae a la vía aérea, ¿a dónde es más probable que vaya y cómo se resuelve?",
+    "options": [
+      "Al bronquio izquierdo, y se espera a que se expulse.",
+      "Al bronquio principal derecho, y se retira mediante broncoscopia.",
+      "Al estómago, y se retira con endoscopia.",
+      "A la tráquea alta, y se deja."
+    ],
+    "correct": "b",
+    "explanation": "El bronquio derecho es el más probable, y la solución es la broncoscopia.",
+    "difficulty": "alta",
+    "source": {
+      "kind": "clase",
+      "title": "Clase del 22 de octubre · Técnica quirúrgica de colocación del implante"
+    }
+  },
+  {
+    "text": "Tras la inserción de un implante se alcanza un torque de unos 15 N·cm y un ISQ bajo. ¿Qué decisión es más adecuada?",
+    "options": [
+      "No hacer carga inmediata y considerar un protocolo sumergido de dos fases.",
+      "Colocar la prótesis definitiva el mismo día.",
+      "Forzar el implante hasta lograr más torque.",
+      "Hacer carga inmediata para mejorar la estabilidad."
+    ],
+    "correct": "a",
+    "explanation": "Con poca estabilidad primaria se evita la carga inmediata y se opta por un protocolo de dos fases.",
+    "difficulty": "media",
+    "source": {
+      "kind": "clase",
+      "title": "Clase del 22 de octubre · Técnica quirúrgica de colocación del implante"
+    }
   }
- },
- {
-  "text": "Según la clase, ¿en qué consiste la inmediatez entendida como un «pack»?",
-  "options": [
-   "En una técnica quirúrgica única que se ejecuta sin planificación previa.",
-   "En un implante prefabricado que incluye pilar y corona.",
-   "En el paquete comercial con implante, fresas y guía quirúrgica.",
-   "En la valoración del alvéolo, la colocación del implante y la colocación de la prótesis, dentro de una misma planificación."
-  ],
-  "correct": "d",
-  "explanation": "La inmediatez incluye valorar el alvéolo, colocar el implante y colocar la prótesis: no es una técnica aislada, sino una planificación.",
-  "difficulty": "media",
-  "source": {
-   "kind": "clase",
-   "title": "Clase del 29 de octubre · Implantes inmediatos en zona estética"
-  }
- },
- {
-  "text": "¿Qué explica en buena medida el fracaso de la primera etapa de los implantes inmediatos?",
-  "options": [
-   "Se aplicaron sin conocer la biología de la cicatrización del alvéolo, con resultados poco predecibles.",
-   "La osteointegración no ocurre en alvéolos frescos.",
-   "No existía ningún caso de éxito con implantes inmediatos.",
-   "El titanio era inadecuado para colocarse tras una extracción."
-  ],
-  "correct": "a",
-  "explanation": "Se aplicaron sin conocer la biología de la cicatrización del alvéolo; no era predecible y, tras una reflexión científica, se retomó con criterios.",
-  "difficulty": "media",
-  "source": {
-   "kind": "clase",
-   "title": "Clase del 29 de octubre · Implantes inmediatos en zona estética"
-  }
- },
- {
-  "text": "Un paciente pierde el 21 y opta por una prótesis removible provisional. Cinco años después pide un implante en esa posición. ¿Qué cabe esperar?",
-  "options": [
-   "El alvéolo mantiene sus dimensiones gracias a la prótesis removible.",
-   "Se puede colocar el implante como si fuera inmediato.",
-   "Habrá perdido tejidos duros y blandos, y probablemente necesite regeneración ósea guiada para colocarlo en la posición ideal.",
-   "Solo habrá perdido encía; el hueso estará intacto."
-  ],
-  "correct": "c",
-  "explanation": "Habrá perdido tejido duro y blando, por lo que para colocar el implante en la posición protésica ideal hará falta regeneración ósea guiada.",
-  "difficulty": "media",
-  "source": {
-   "kind": "clase",
-   "title": "Clase del 29 de octubre · Implantes inmediatos en zona estética"
-  }
- },
- {
-  "text": "¿Cuándo debe realizarse la preservación de la cresta alveolar?",
-  "options": [
-   "Cuando han pasado unos meses y el alvéolo ha cicatrizado.",
-   "Solo si falta un diente aislado.",
-   "En el momento de la extracción.",
-   "Solo en el sector posterior."
-  ],
-  "correct": "c",
-  "explanation": "Debe hacerse en el momento de la extracción; después ya no se preserva, sino que se regenera, y puede hacerse con uno o varios dientes.",
-  "difficulty": "media",
-  "source": {
-   "kind": "clase",
-   "title": "Clase del 29 de octubre · Implantes inmediatos en zona estética"
-  }
- },
- {
-  "text": "En la preservación de la cresta alveolar, ¿cómo debe comportarse el material de relleno y qué resultado se espera?",
-  "options": [
-   "Reabsorberse lentamente para sostener el volumen; minimiza la pérdida pero no la evita.",
-   "Reabsorberse cuanto antes para dejar sitio al hueso.",
-   "Evitar por completo cualquier pérdida de hueso.",
-   "Dejarse sin sellar para que drene el alvéolo."
-  ],
-  "correct": "a",
-  "explanation": "Debe reabsorberse lentamente para sostener el volumen, y minimiza la pérdida sin evitarla del todo.",
-  "difficulty": "media",
-  "source": {
-   "kind": "clase",
-   "title": "Clase del 29 de octubre · Implantes inmediatos en zona estética"
-  }
- },
- {
-  "text": "Ordenadas de mayor a menor conservación de tejidos, ¿qué alternativas se comentaron en la clase?",
-  "options": [
-   "Tardío con regeneración, preservación e inmediato.",
-   "Preservación, inmediato y tardío.",
-   "Las tres conservan lo mismo si se hacen en el mismo mes.",
-   "Inmediato bien indicado, preservación y tardío con regeneración."
-  ],
-  "correct": "d",
-  "explanation": "El inmediato bien indicado conserva más, después la preservación y, por último, el tratamiento tardío con regeneración.",
-  "difficulty": "baja",
-  "source": {
-   "kind": "clase",
-   "title": "Clase del 29 de octubre · Implantes inmediatos en zona estética"
-  }
- },
- {
-  "text": "En un implante tipo 2 (temprano, a las 4-6 semanas), ¿qué se espera que haya cicatrizado y para qué?",
-  "options": [
-   "El hueso, para conseguir estabilidad primaria.",
-   "El tejido blando, que permite resolver la infección y cubrir un posible injerto.",
-   "Nada: es solo un retraso por comodidad.",
-   "El ligamento periodontal, que debe regenerar."
-  ],
-  "correct": "b",
-  "explanation": "Se espera que cicatrice el tejido blando, lo que permite resolver la infección y cerrar sobre un posible injerto.",
-  "difficulty": "baja",
-  "source": {
-   "kind": "clase",
-   "title": "Clase del 29 de octubre · Implantes inmediatos en zona estética"
-  }
- },
- {
-  "text": "¿Por qué se espera unas 8 semanas o más antes de colocar un implante diferido (tipo 3)?",
-  "options": [
-   "Para que el tejido blando acabe de cicatrizar, porque el hueso ya está curado.",
-   "Para que la tabla vestibular se reabsorba por completo.",
-   "Para evitar tener que colocar una prótesis.",
-   "Para que cure el hueso y se pueda conseguir estabilidad primaria."
-  ],
-  "correct": "d",
-  "explanation": "Se espera a que cicatrice el hueso, para poder conseguir estabilidad primaria que en el inmediato no se lograría.",
-  "difficulty": "media",
-  "source": {
-   "kind": "clase",
-   "title": "Clase del 29 de octubre · Implantes inmediatos en zona estética"
-  }
- },
- {
-  "text": "Un paciente con el 21 con absceso periapical agudo y biotipo gingival fino exige el implante el mismo día. ¿Qué se razonó en la clase?",
-  "options": [
-   "Tipo 1, porque el paciente lo pide.",
-   "Tipo 2 (temprano), tras resolver la infección y dejar cicatrizar el tejido blando.",
-   "Tipo 4 (tardío), esperando años.",
-   "Tipo 1 con una prótesis provisional para compensar los riesgos."
-  ],
-  "correct": "b",
-  "explanation": "Hay dos luces rojas, infección aguda y biotipo fino; se elige un implante temprano para resolver la infección y dejar que el tejido blando cicatrice.",
-  "difficulty": "media",
-  "source": {
-   "kind": "clase",
-   "title": "Clase del 29 de octubre · Implantes inmediatos en zona estética"
-  }
- },
- {
-  "text": "¿Por qué la cirugía con colgajo es un factor en contra de la inmediatez?",
-  "options": [
-   "Porque daña más los tejidos, y la inmediatez busca preservarlos.",
-   "Porque impide ver el alvéolo durante la cirugía.",
-   "Porque obliga siempre a esperar ocho semanas.",
-   "Porque impide suturar la herida."
-  ],
-  "correct": "a",
-  "explanation": "El colgajo daña mucho más los tejidos, y la inmediatez pretende preservarlos; es algo a considerar, no una prohibición.",
-  "difficulty": "baja",
-  "source": {
-   "kind": "clase",
-   "title": "Clase del 29 de octubre · Implantes inmediatos en zona estética"
-  }
- },
- {
-  "text": "¿Por qué no suele ser habitual colocar un implante inmediato en un molar inferior?",
-  "options": [
-   "Porque en el maxilar inferior no existe cortical.",
-   "Porque las raíces coalescentes dejan una gran cavidad hacia el seno.",
-   "Porque el septo es estrecho, habría cantiléver y la estabilidad apical queda cerca del nervio dentario.",
-   "Porque el hueso mandibular no osteointegra."
-  ],
-  "correct": "c",
-  "explanation": "El septo es estrecho para un implante de al menos 4 mm, elegir una raíz obliga a un cantiléver y la estabilidad apical queda cerca del nervio dentario.",
-  "difficulty": "media",
-  "source": {
-   "kind": "clase",
-   "title": "Clase del 29 de octubre · Implantes inmediatos en zona estética"
-  }
- },
- {
-  "text": "En molares superiores, ¿cuál es la comparación correcta?",
-  "options": [
-   "El segundo molar es más favorable, por sus raíces divergentes.",
-   "El primer molar suele ser más favorable, por sus raíces divergentes y el hueso de la furca; el segundo deja una gran cavidad.",
-   "Ambos son igual de favorables y el seno no importa.",
-   "Ninguno admite nunca inmediato."
-  ],
-  "correct": "b",
-  "explanation": "El primer molar suele ser más favorable, con raíces divergentes y hueso en la furca, mientras que el segundo suele tener raíces coalescentes y deja una gran cavidad.",
-  "difficulty": "media",
-  "source": {
-   "kind": "clase",
-   "title": "Clase del 29 de octubre · Implantes inmediatos en zona estética"
-  }
- },
- {
-  "text": "¿Cuál de estos factores aumenta la reducción del alvéolo tras la extracción?",
-  "options": [
-   "Rellenar el alvéolo con un injerto.",
-   "Tener un diente vecino sano.",
-   "Cubrir el alvéolo con una esponja de fibrina.",
-   "El trauma quirúrgico de una extracción laboriosa."
-  ],
-  "correct": "d",
-  "explanation": "El trauma quirúrgico de una extracción difícil, como un diente endodonciado fracturado, aumenta la pérdida de hueso.",
-  "difficulty": "media",
-  "source": {
-   "kind": "clase",
-   "title": "Clase del 29 de octubre · Implantes inmediatos en zona estética"
-  }
- },
- {
-  "text": "¿Cómo se produce la reducción de tejidos tras una extracción sin ninguna medida de preservación?",
-  "options": [
-   "Rápida, en unos dos meses, y sobre todo en anchura por vestibular.",
-   "Lenta, en años, y solo en altura.",
-   "Sobre todo en la pared palatina.",
-   "No se produce si el paciente usa prótesis removible."
-  ],
-  "correct": "a",
-  "explanation": "Es rápida, en unos dos meses, y afecta sobre todo a la anchura, por vestibular, aunque también a la altura.",
-  "difficulty": "media",
-  "source": {
-   "kind": "clase",
-   "title": "Clase del 29 de octubre · Implantes inmediatos en zona estética"
-  }
- },
- {
-  "text": "¿Qué afirmación sobre el implante inmediato y el mantenimiento de la cresta es correcta?",
-  "options": [
-   "Basta con colocarlo para mantener la cresta.",
-   "Un implante ancho que rellene el alvéolo preserva mejor el hueso.",
-   "Preserva los tejidos si se respeta la biología: posición tridimensional, tabla vestibular de 2 mm y estabilidad primaria.",
-   "Preserva solo si no se coloca prótesis provisional."
-  ],
-  "correct": "c",
-  "explanation": "El implante inmediato no preserva por sí solo; solo conserva los tejidos si se respeta la biología: posición, tabla vestibular de 2 mm y estabilidad primaria.",
-  "difficulty": "alta",
-  "source": {
-   "kind": "clase",
-   "title": "Clase del 29 de octubre · Implantes inmediatos en zona estética"
-  }
- },
- {
-  "text": "¿Qué distancias de seguridad se deben respetar entre implante y diente, y entre dos implantes?",
-  "options": [
-   "1,5 mm entre implante y diente, y 3 mm entre implantes.",
-   "3 mm entre implante y diente, y 1,5 mm entre implantes.",
-   "1 mm entre implante y diente, y 2 mm entre implantes.",
-   "2 mm entre implante y diente, y 4 mm entre implantes."
-  ],
-  "correct": "a",
-  "explanation": "Se respetan 1,5 mm entre implante y diente y 3 mm entre dos implantes.",
-  "difficulty": "baja",
-  "source": {
-   "kind": "clase",
-   "title": "Clase del 29 de octubre · Implantes inmediatos en zona estética"
-  }
- },
- {
-  "text": "¿Cuál es el espacio mesiodistal mínimo para colocar un implante de 4 mm entre dos dientes?",
-  "options": [
-   "4 mm.",
-   "5,5 mm.",
-   "6 mm.",
-   "7 mm."
-  ],
-  "correct": "d",
-  "explanation": "Se necesitan 4 mm del implante más 1,5 mm a cada lado: 7 mm.",
-  "difficulty": "media",
-  "source": {
-   "kind": "clase",
-   "title": "Clase del 29 de octubre · Implantes inmediatos en zona estética"
-  }
- },
- {
-  "text": "Entre dos dientes hay un tramo de 16 mm donde se colocarán dos implantes del mismo diámetro. ¿Qué diámetro tienen para aprovechar todo el espacio?",
-  "options": [
-   "4 mm.",
-   "5 mm.",
-   "6 mm.",
-   "7 mm."
-  ],
-  "correct": "b",
-  "explanation": "Restando 1,5 mm a cada lado y 3 mm entre implantes quedan 10 mm, que se reparten en 5 mm por implante.",
-  "difficulty": "alta",
-  "source": {
-   "kind": "clase",
-   "title": "Clase del 29 de octubre · Implantes inmediatos en zona estética"
-  }
- },
- {
-  "text": "¿Qué protege la distancia de 3 mm entre dos implantes?",
-  "options": [
-   "La tabla vestibular.",
-   "La encía queratinizada.",
-   "El pico óseo periimplantario y su papila.",
-   "El espacio biológico supracrestal."
-  ],
-  "correct": "c",
-  "explanation": "Protege el pico óseo entre los implantes y su papila.",
-  "difficulty": "media",
-  "source": {
-   "kind": "clase",
-   "title": "Clase del 29 de octubre · Implantes inmediatos en zona estética"
-  }
- },
- {
-  "text": "¿Por qué no es buena idea elegir un implante con el mismo diámetro que el diente natural?",
-  "options": [
-   "Porque los implantes anchos no existen en la zona anterior.",
-   "Porque el diente natural es más estrecho que cualquier implante.",
-   "Porque impide siempre la estabilidad primaria.",
-   "Porque ocupa todo el alvéolo y daña el bundle bone y la tabla vestibular."
-  ],
-  "correct": "d",
-  "explanation": "Ocupa todo el alvéolo y daña el bundle bone y la tabla vestibular, con pérdida de tejido; hay que elegir un implante más estrecho y dejar 2 mm.",
-  "difficulty": "media",
-  "source": {
-   "kind": "clase",
-   "title": "Clase del 29 de octubre · Implantes inmediatos en zona estética"
-  }
- },
- {
-  "text": "El espacio entre el implante inmediato y la tabla vestibular es de 3 mm. ¿Qué se hace?",
-  "options": [
-   "Se rellena con biomaterial y se protege con esponja de fibrina y la prótesis o pilar.",
-   "Se deja que el coágulo lo rellene sin material.",
-   "Se acerca el implante a la tabla vestibular para no usar material.",
-   "Se elimina la tabla vestibular."
-  ],
-  "correct": "a",
-  "explanation": "Se rellena con biomaterial y se cubre con una esponja de fibrina y la prótesis o el pilar, para que no entre saliva ni salga el material.",
-  "difficulty": "media",
-  "source": {
-   "kind": "clase",
-   "title": "Clase del 29 de octubre · Implantes inmediatos en zona estética"
-  }
- },
- {
-  "text": "En el TAC, la tabla vestibular mide 1 mm. ¿Qué implica?",
-  "options": [
-   "Es la situación ideal.",
-   "Más riesgo de reabsorción, recesión gingival y deformidad de tejidos blandos.",
-   "Menos riesgo porque hay menos hueso que remodelar.",
-   "Solo afecta a la pared palatina."
-  ],
-  "correct": "b",
-  "explanation": "Con menos de 2 mm de grosor hay más riesgo de reabsorción, recesión gingival y deformidad de tejidos blandos.",
-  "difficulty": "media",
-  "source": {
-   "kind": "clase",
-   "title": "Clase del 29 de octubre · Implantes inmediatos en zona estética"
-  }
- },
- {
-  "text": "¿Qué consecuencia tiene colocar el implante demasiado hacia palatino en un incisivo?",
-  "options": [
-   "Ninguna: cuanto más palatino, mejor.",
-   "La corona queda demasiado corta.",
-   "Corona voluminosa, higiene difícil, inflamación crónica y recesión.",
-   "Solo pierde estabilidad primaria."
-  ],
-  "correct": "c",
-  "explanation": "La corona necesita un contorno excesivo, se dificulta la higiene y aparecen inflamación crónica y recesión.",
-  "difficulty": "media",
-  "source": {
-   "kind": "clase",
-   "title": "Clase del 29 de octubre · Implantes inmediatos en zona estética"
-  }
- },
- {
-  "text": "En la clasificación de la posición de la raíz, ¿por qué la clase 1 es favorable?",
-  "options": [
-   "Hay abundante hueso en palatino, lo que permite alejarse del bundle bone y lograr estabilidad.",
-   "Porque el hueso está en vestibular y el implante va allí.",
-   "Porque no queda hueso y se evitan problemas.",
-   "Porque la raíz está centrada."
-  ],
-  "correct": "a",
-  "explanation": "Hay mucho hueso en palatino: el implante se aleja del bundle bone, gana estabilidad apical y fricción con la pared palatina.",
-  "difficulty": "media",
-  "source": {
-   "kind": "clase",
-   "title": "Clase del 29 de octubre · Implantes inmediatos en zona estética"
-  }
- },
- {
-  "text": "El alvéolo corresponde a una clase 3 (raíz hacia palatino). Si no se logra estabilidad sin dañar el bundle bone ni irse demasiado a palatino, ¿qué se aconseja?",
-  "options": [
-   "Forzar el inmediato; la estabilidad siempre se consigue.",
-   "Usar un implante muy ancho para llenar el alvéolo.",
-   "Pasar directamente a un injerto en bloque.",
-   "Valorar la preservación de la cresta y colocar el implante después."
-  ],
-  "correct": "d",
-  "explanation": "Se opta por la preservación de la cresta: es mejor una retirada a tiempo que un inmediato mal indicado.",
-  "difficulty": "alta",
-  "source": {
-   "kind": "clase",
-   "title": "Clase del 29 de octubre · Implantes inmediatos en zona estética"
-  }
- },
- {
-  "text": "¿Cuál de estas afirmaciones sobre estética en un diente individual es FALSA?",
-  "options": [
-   "La distancia del hueso interproximal al punto de contacto debe ser de 5 mm o menos.",
-   "Se puede aumentar el hueso interproximal modificando el punto de contacto.",
-   "Se puede modificar el punto de contacto, aunque con límites.",
-   "Los dientes triangulares son más difíciles porque el punto de contacto queda más bajo."
-  ],
-  "correct": "b",
-  "explanation": "No se puede aumentar el hueso interproximal modificando el punto de contacto; el punto de contacto sí se puede modificar con límites.",
-  "difficulty": "media",
-  "source": {
-   "kind": "clase",
-   "title": "Clase del 29 de octubre · Implantes inmediatos en zona estética"
-  }
- },
- {
-  "text": "¿Para qué se coloca un injerto de tejido conectivo en un implante inmediato estético?",
-  "options": [
-   "Para ganar altura de hueso interproximal.",
-   "Para sustituir la prótesis provisional.",
-   "Para ganar volumen y convertir un biotipo fino en grueso.",
-   "Para reducir el diámetro del implante."
-  ],
-  "correct": "c",
-  "explanation": "Se usa para ganar volumen y transformar un biotipo fino en grueso, más predecible y con menos recesión; no para ganar hueso.",
-  "difficulty": "media",
-  "source": {
-   "kind": "clase",
-   "title": "Clase del 29 de octubre · Implantes inmediatos en zona estética"
-  }
- },
- {
-  "text": "Tras colocar un implante inmediato junto a un premolar, el paciente nota dolor al tocar y masticar el diente vecino, pero no al frío. ¿Qué se sospecha?",
-  "options": [
-   "Lesión del ligamento periodontal del diente vecino por la fresa o el implante.",
-   "Una pulpitis reversible por sensibilidad al frío.",
-   "Fractura del implante.",
-   "Hipersensibilidad dentinaria normal que no requiere vigilancia."
-  ],
-  "correct": "a",
-  "explanation": "Se sospecha una lesión del ligamento periodontal del diente vecino por la fresa o el implante, que puede acabar en pérdida del diente o del implante.",
-  "difficulty": "media",
-  "source": {
-   "kind": "clase",
-   "title": "Clase del 29 de octubre · Implantes inmediatos en zona estética"
-  }
- },
- {
-  "text": "Fresando con la fresa piloto en hueso blando, se nota un aumento súbito e inexplicable de la estabilidad primaria. ¿Qué es lo más prudente?",
-  "options": [
-   "Seguir adelante: es una buena noticia.",
-   "Sospechar que se toca el diente vecino: periapical con la fresa piloto y reorientar si procede.",
-   "Cambiar a un implante más ancho.",
-   "Terminar el fresado sin radiografía."
-  ],
-  "correct": "b",
-  "explanation": "Sospechar que se está fresando el diente vecino, hacer una periapical con la fresa piloto y reorientar si hace falta.",
-  "difficulty": "media",
-  "source": {
-   "kind": "clase",
-   "title": "Clase del 29 de octubre · Implantes inmediatos en zona estética"
-  }
- }
 ]

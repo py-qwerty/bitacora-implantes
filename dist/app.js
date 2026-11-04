@@ -255,9 +255,53 @@ function historyPage(){
 }
 function rulesPage(){
  const counts=bank.questions.reduce((m,q)=>(m[q.source.kind]=(m[q.source.kind]||0)+1,m),{});
- return `${heading('Cómo estudiar y fuentes','Preguntas para practicar y entender lo que respondes.')}<section class="prose"><h2>Un tema, treinta preguntas</h2><p>Elige una asignatura y un tema. Puedes practicar en tres bloques de diez o hacer las treinta seguidas. El test completo contiene las mismas preguntas de los bloques y conserva su propio progreso.</p><h2>Comprende cada respuesta</h2><p>Selecciona una opción y pulsa «Comprobar respuesta». Verás la solución, su explicación y la página del material. El avance automático empieza desactivado para que puedas leer la retroalimentación. Si lo activas, pasarás al elegir una respuesta nueva.</p><h2>Tema digital</h2><p>Cada tema es un resumen ordenado de una clase: por qué importa, apartados con ejemplos, glosario y el razonamiento de cada pregunta. Al comprobar una respuesta puedes saltar al apartado donde se explica.</p><h2>Procedencia</h2><ul>${['clase','practice'].map(k=>`<li><b>${esc(sourceLabel(k))}:</b> ${number(counts[k]||0)} preguntas.</li>`).join('')}</ul><p>Las preguntas explicadas en clase salen de lo que se dijo en esa sesión. Las de práctica son ejercicios añadidos a partir del tema. Ninguna es un examen oficial: son apuntes de estudio y pueden contener errores de transcripción o de interpretación.</p><h2>Simulacros personales</h2><p>Treinta preguntas distintas, de una asignatura o de todas, en cuarenta y cinco minutos orientativos. Sin penalización por error ni umbral oficial de aprobado. Las explicaciones se muestran al entregar. La nota expresa únicamente los aciertos de esta práctica.</p><h2>Tu progreso</h2><p>Los tests guardan respuestas, explicaciones comprobadas y posición en este navegador. Los simulacros solo guardan el resultado final; cerrar o recargar descarta el intento en curso. Si el navegador impide guardar, aparecerá un aviso y podrás continuar en memoria.</p><h2>Uso del material</h2><p>Cuaderno de estudio personal, sin cuentas ni seguimiento. No es material oficial de la universidad ni del profesorado: ante cualquier duda clínica o técnica, consulta las fuentes oficiales y a tu profesor.</p></section>`;
+ return `${heading('Cómo estudiar y fuentes','Preguntas para practicar y entender lo que respondes.')}<section class="prose"><h2>Un tema, treinta preguntas</h2><p>Elige una asignatura y un tema. Puedes practicar en tres bloques de diez o hacer las treinta seguidas. El test completo contiene las mismas preguntas de los bloques y conserva su propio progreso.</p><h2>Comprende cada respuesta</h2><p>Selecciona una opción y pulsa «Comprobar respuesta». Verás la solución, su explicación y la página del material. El avance automático empieza desactivado para que puedas leer la retroalimentación. Si lo activas, pasarás al elegir una respuesta nueva.</p><h2>Tema digital</h2><p>Cada tema es un resumen ordenado de una clase: por qué importa, apartados con ejemplos, glosario y el razonamiento de cada pregunta. Al comprobar una respuesta puedes saltar al apartado donde se explica.</p><h2>Procedencia</h2><ul>${['clase','practice'].map(k=>`<li><b>${esc(sourceLabel(k))}:</b> ${number(counts[k]||0)} preguntas.</li>`).join('')}</ul><p>Las preguntas explicadas en clase salen de lo que se dijo en esa sesión. Las de práctica son ejercicios añadidos a partir del tema. Ninguna es un examen oficial: son apuntes de estudio y pueden contener errores de transcripción o de interpretación.</p><h2>Simulacros personales</h2><p>Treinta preguntas distintas, de una asignatura o de todas, en cuarenta y cinco minutos orientativos. Sin penalización por error ni umbral oficial de aprobado. Las explicaciones se muestran al entregar. La nota expresa únicamente los aciertos de esta práctica.</p><h2>Tu progreso</h2><p>Los tests guardan respuestas, explicaciones comprobadas y posición en este navegador. Los simulacros solo guardan el resultado final; cerrar o recargar descarta el intento en curso. Si el navegador impide guardar, aparecerá un aviso y podrás continuar en memoria.</p><h2>Uso del material</h2><p>Cuaderno de estudio personal, sin cuentas ni seguimiento. No es material oficial de la universidad ni del profesorado: ante cualquier duda clínica o técnica, consulta las fuentes oficiales y a tu profesor. El audio de cada clase es la grabación original, sin editar.</p></section>`;
 }
 function notFound() { return `${heading('No encontramos esa página.','La página o el simulacro ya no está disponible en este navegador.')}<a class="btn" href="#/temas">Volver a las asignaturas</a>`; }
+// Audio opcional de la clase. Vive en #audio-dock, fuera de <main>, para seguir sonando
+// al pasar de un tema a su vista de estudio. Se oculta (y se pausa) al salir del tema.
+const AUDIO_URL=/^audio\/[a-z0-9][a-z0-9/_-]*\.m4a$/i;
+function topicAudio(topic){const a=topic?.audio;return Array.isArray(a)?a.filter(p=>p&&AUDIO_URL.test(p.url)&&typeof p.title==='string'):[];}
+let dockTopic=null,dockWired=false,dockSaved=0;
+function dockSave(topic,audio){if(!audio||!(audio.currentTime>0))return;write(`audio:${topic}`,{part:Number(audio.dataset?.part)||0,t:Math.floor(audio.currentTime)});}
+function stopDock(dock){
+  try{const a=dock.querySelector('audio');if(a&&dockTopic!==null)dockSave(dockTopic,a);a?.pause?.();}catch{}
+  dock.hidden=true;dock.innerHTML='';dockTopic=null;document.body.classList.remove('has-dock');
+}
+function buildDock(dock,topic,parts){
+  const saved=read(`audio:${topic.id}`,{})||{};const part=Number.isInteger(saved.part)&&saved.part>=0&&saved.part<parts.length?saved.part:0;
+  const rate=Number(read('audio:rate',1))||1;
+  dock.innerHTML=`<button type="button" class="dock-pill" data-dock="toggle" aria-expanded="false"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 15v-3a8 8 0 0 1 16 0v3M4 15h3v5H5a1 1 0 0 1-1-1zM20 15h-3v5h2a1 1 0 0 0 1-1z"/></svg><span>Escuchar la clase</span></button>
+<div class="dock-panel" hidden><div class="dock-head"><strong>Clase del tema ${topic.number}</strong><button type="button" class="dock-close" data-dock="toggle" aria-label="Minimizar el reproductor">×</button></div>${parts.length>1?`<label class="dock-part"><span class="sr-only">Parte de la clase</span><select data-dock="part">${parts.map((p,i)=>`<option value="${i}"${i===part?' selected':''}>${esc(p.title)}</option>`).join('')}</select></label>`:`<p class="dock-title">${esc(parts[0].title)}</p>`}<audio controls preload="none" data-part="${part}" src="${esc(parts[part].url)}"></audio><div class="dock-controls"><button type="button" class="btn secondary" data-dock="back">−15 s</button><button type="button" class="btn secondary" data-dock="fwd">+15 s</button><label>Velocidad <select data-dock="rate">${[0.75,1,1.25,1.5,1.75,2].map(r=>`<option value="${r}"${r===rate?' selected':''}>${r}×</option>`).join('')}</select></label></div><p class="small">Opcional: la grabación de la clase para escucharla mientras lees. Se recuerda el minuto por tema.</p></div>`;
+  dock.hidden=false;document.body.classList.add('has-dock');
+  const audio=dock.querySelector('audio');if(!audio)return;
+  audio.addEventListener('loadedmetadata',()=>{audio.playbackRate=rate;const s=read(`audio:${topic.id}`,{})||{};if(s.part===Number(audio.dataset.part)&&s.t>0&&s.t<audio.duration-5&&audio.currentTime<1)audio.currentTime=s.t;});
+  audio.addEventListener('timeupdate',()=>{const now=Date.now();if(now-dockSaved>5000){dockSaved=now;dockSave(topic.id,audio);}});
+  audio.addEventListener('pause',()=>dockSave(topic.id,audio));
+}
+function wireDock(dock){
+  if(dockWired)return;dockWired=true;
+  dock.addEventListener('click',e=>{
+    const b=e.target.closest?.('[data-dock]');if(!b)return;const audio=dock.querySelector('audio');
+    if(b.dataset.dock==='toggle'){const panel=dock.querySelector('.dock-panel'),pill=dock.querySelector('.dock-pill');const open=panel.hidden;panel.hidden=!open;pill.hidden=open;pill.setAttribute('aria-expanded',String(open));document.body.classList.toggle('dock-open',open);if(open)panel.querySelector('audio')?.focus?.();}
+    else if(audio&&b.dataset.dock==='back')audio.currentTime=Math.max(0,audio.currentTime-15);
+    else if(audio&&b.dataset.dock==='fwd')audio.currentTime=Math.min(audio.duration||Infinity,audio.currentTime+15);
+  });
+  dock.addEventListener('change',e=>{
+    const el=e.target;const audio=dock.querySelector('audio');if(!audio||!el?.dataset)return;
+    if(el.dataset.dock==='rate'){audio.playbackRate=Number(el.value)||1;write('audio:rate',Number(el.value)||1);}
+    else if(el.dataset.dock==='part'){const topic=topicInfo(dockTopic);const p=topicAudio(topic)[Number(el.value)];if(!p)return;dockSave(dockTopic,audio);audio.dataset.part=el.value;audio.src=p.url;audio.load();const s=read(`audio:${dockTopic}`,{})||{};write(`audio:${dockTopic}`,{part:Number(el.value),t:0});}
+  });
+}
+function syncAudioDock(path){
+  const dock=$('#audio-dock');if(!dock)return;wireDock(dock);
+  const m=/^\/tema\/(\d+)(?:\/estudio)?$/.exec(path);
+  const topic=m?topicInfo(Number(m[1])):null;const parts=topicAudio(topic);
+  if(!parts.length){if(dockTopic!==null||!dock.hidden)stopDock(dock);return;}
+  if(dockTopic===topic.id)return;
+  if(dockTopic!==null)stopDock(dock);
+  dockTopic=topic.id;buildDock(dock,topic,parts);
+}
 function render(focus=true) {
   if(!bank)return;
   cancelQuestionTransition();
@@ -269,6 +313,7 @@ function render(focus=true) {
   main.className=path==='/examen'?'exam-main':wide?'wide-main':'';
   document.body.classList.toggle('route-wide',wide);
   document.body.classList.toggle('in-exam',path==='/examen');
+  syncAudioDock(path);
   document.body.classList.toggle('print-doc',/^\/tema\/\d+\/pdf$/.test(path));
   if(path==='/examen')renderExam();
   else if(path==='/temas'||path==='/')main.innerHTML=home();
