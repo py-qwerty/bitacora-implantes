@@ -13,3 +13,4 @@ premium-audit.json
 *.wav
 transcripciones/
 .openrouter_key
+!dist/audio/**/*.m4a
