@@ -266,31 +266,48 @@ let dockTopic=null,dockWired=false,dockSaved=0;
 function dockSave(topic,audio){if(!audio||!(audio.currentTime>0))return;write(`audio:${topic}`,{part:Number(audio.dataset?.part)||0,t:Math.floor(audio.currentTime)});}
 function stopDock(dock){
   try{const a=dock.querySelector('audio');if(a&&dockTopic!==null)dockSave(dockTopic,a);a?.pause?.();}catch{}
-  dock.hidden=true;dock.innerHTML='';dockTopic=null;document.body.classList.remove('has-dock');
+  dock.hidden=true;dock.innerHTML='';dock.dataset.started='';dock.classList.remove('is-playing');dockTopic=null;document.body.classList.remove('has-dock','dock-open');
 }
+// Tres estados: «pill» (aún sin escuchar), «mini» (dos botones redondos: play/pausa y abrir) y «panel».
+function dockState(dock,state){
+  const pill=dock.querySelector('.dock-pill'),mini=dock.querySelector('.dock-mini'),panel=dock.querySelector('.dock-panel');
+  if(!pill||!mini||!panel)return;
+  pill.hidden=state!=='pill';mini.hidden=state!=='mini';panel.hidden=state!=='panel';
+  dock.dataset.state=state;document.body.classList.toggle('dock-open',state==='panel');
+  pill.setAttribute('aria-expanded',String(state==='panel'));
+}
+const dockHide=dock=>dockState(dock,dock.dataset.started?'mini':'pill');
+const HEAD_ICON='<svg class="i-head" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 15v-3a8 8 0 0 1 16 0v3M4 15h3v5H5a1 1 0 0 1-1-1zM20 15h-3v5h2a1 1 0 0 0 1-1z"/></svg>';
 function buildDock(dock,topic,parts){
   const saved=read(`audio:${topic.id}`,{})||{};const part=Number.isInteger(saved.part)&&saved.part>=0&&saved.part<parts.length?saved.part:0;
   const rate=Number(read('audio:rate',1))||1;
-  dock.innerHTML=`<button type="button" class="dock-pill" data-dock="toggle" aria-expanded="false"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 15v-3a8 8 0 0 1 16 0v3M4 15h3v5H5a1 1 0 0 1-1-1zM20 15h-3v5h2a1 1 0 0 0 1-1z"/></svg><span>Escuchar la clase</span></button>
-<div class="dock-panel" hidden><div class="dock-head"><strong>Clase del tema ${topic.number}</strong><button type="button" class="dock-close" data-dock="toggle" aria-label="Minimizar el reproductor">×</button></div>${parts.length>1?`<label class="dock-part"><span class="sr-only">Parte de la clase</span><select data-dock="part">${parts.map((p,i)=>`<option value="${i}"${i===part?' selected':''}>${esc(p.title)}</option>`).join('')}</select></label>`:`<p class="dock-title">${esc(parts[0].title)}</p>`}<audio controls preload="none" data-part="${part}" src="${esc(parts[part].url)}"></audio><div class="dock-controls"><button type="button" class="btn secondary" data-dock="back">−15 s</button><button type="button" class="btn secondary" data-dock="fwd">+15 s</button><label>Velocidad <select data-dock="rate">${[0.75,1,1.25,1.5,1.75,2].map(r=>`<option value="${r}"${r===rate?' selected':''}>${r}×</option>`).join('')}</select></label></div><p class="small">Opcional: la grabación de la clase para escucharla mientras lees. Se recuerda el minuto por tema.</p></div>`;
-  dock.hidden=false;document.body.classList.add('has-dock');
+  dock.dataset.started='';dock.classList.remove('is-playing');
+  dock.innerHTML=`<button type="button" class="dock-pill" data-dock="open" aria-expanded="false">${HEAD_ICON}<span>Escuchar la clase</span></button>
+<div class="dock-mini" hidden><button type="button" class="dock-round" data-dock="play" aria-label="Reproducir o pausar la clase"><svg class="i-play" viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg><svg class="i-pause" viewBox="0 0 24 24" aria-hidden="true"><path d="M7 5h4v14H7zM13 5h4v14h-4z"/></svg></button><button type="button" class="dock-round" data-dock="open" aria-label="Abrir el reproductor">${HEAD_ICON}</button></div>
+<div class="dock-panel" hidden><div class="dock-head"><strong>Clase del tema ${topic.number}</strong><button type="button" class="dock-close" data-dock="min" aria-label="Ocultar el reproductor (el audio sigue)">×</button></div>${parts.length>1?`<label class="dock-part"><span class="sr-only">Parte de la clase</span><select data-dock="part">${parts.map((p,i)=>`<option value="${i}"${i===part?' selected':''}>${esc(p.title)}</option>`).join('')}</select></label>`:`<p class="dock-title">${esc(parts[0].title)}</p>`}<audio controls preload="none" data-part="${part}" src="${esc(parts[part].url)}"></audio><div class="dock-controls"><button type="button" class="btn secondary" data-dock="back">−15 s</button><button type="button" class="btn secondary" data-dock="fwd">+15 s</button><label>Velocidad <select data-dock="rate">${[0.75,1,1.25,1.5,1.75,2].map(r=>`<option value="${r}"${r===rate?' selected':''}>${r}×</option>`).join('')}</select></label></div><p class="small">Opcional. Pulsa × para ocultarlo y seguir leyendo: el audio no se corta. Se recuerda el minuto por tema.</p></div>`;
+  dock.hidden=false;document.body.classList.add('has-dock');dockState(dock,'pill');
   const audio=dock.querySelector('audio');if(!audio)return;
   audio.addEventListener('loadedmetadata',()=>{audio.playbackRate=rate;const s=read(`audio:${topic.id}`,{})||{};if(s.part===Number(audio.dataset.part)&&s.t>0&&s.t<audio.duration-5&&audio.currentTime<1)audio.currentTime=s.t;});
   audio.addEventListener('timeupdate',()=>{const now=Date.now();if(now-dockSaved>5000){dockSaved=now;dockSave(topic.id,audio);}});
-  audio.addEventListener('pause',()=>dockSave(topic.id,audio));
+  audio.addEventListener('play',()=>{dock.dataset.started='1';dock.classList.add('is-playing');});
+  audio.addEventListener('pause',()=>{dock.classList.remove('is-playing');dockSave(topic.id,audio);});
+  audio.addEventListener('ended',()=>dock.classList.remove('is-playing'));
 }
 function wireDock(dock){
   if(dockWired)return;dockWired=true;
   dock.addEventListener('click',e=>{
-    const b=e.target.closest?.('[data-dock]');if(!b)return;const audio=dock.querySelector('audio');
-    if(b.dataset.dock==='toggle'){const panel=dock.querySelector('.dock-panel'),pill=dock.querySelector('.dock-pill');const open=panel.hidden;panel.hidden=!open;pill.hidden=open;pill.setAttribute('aria-expanded',String(open));document.body.classList.toggle('dock-open',open);if(open)panel.querySelector('audio')?.focus?.();}
-    else if(audio&&b.dataset.dock==='back')audio.currentTime=Math.max(0,audio.currentTime-15);
-    else if(audio&&b.dataset.dock==='fwd')audio.currentTime=Math.min(audio.duration||Infinity,audio.currentTime+15);
+    const b=e.target.closest?.('[data-dock]');if(!b)return;const audio=dock.querySelector('audio');const act=b.dataset.dock;
+    if(act==='open'){dockState(dock,'panel');dock.querySelector('audio')?.focus?.();}
+    else if(act==='min')dockHide(dock);
+    else if(audio&&act==='play'){if(audio.paused)audio.play?.();else audio.pause();}
+    else if(audio&&act==='back')audio.currentTime=Math.max(0,audio.currentTime-15);
+    else if(audio&&act==='fwd')audio.currentTime=Math.min(audio.duration||Infinity,audio.currentTime+15);
   });
+  dock.addEventListener('keydown',e=>{if(e.key==='Escape'&&dock.dataset.state==='panel'){dockHide(dock);dock.querySelector('[data-dock="open"]:not([hidden])')?.focus?.();}});
   dock.addEventListener('change',e=>{
     const el=e.target;const audio=dock.querySelector('audio');if(!audio||!el?.dataset)return;
     if(el.dataset.dock==='rate'){audio.playbackRate=Number(el.value)||1;write('audio:rate',Number(el.value)||1);}
-    else if(el.dataset.dock==='part'){const topic=topicInfo(dockTopic);const p=topicAudio(topic)[Number(el.value)];if(!p)return;dockSave(dockTopic,audio);audio.dataset.part=el.value;audio.src=p.url;audio.load();const s=read(`audio:${dockTopic}`,{})||{};write(`audio:${dockTopic}`,{part:Number(el.value),t:0});}
+    else if(el.dataset.dock==='part'){const topic=topicInfo(dockTopic);const p=topicAudio(topic)[Number(el.value)];if(!p)return;dockSave(dockTopic,audio);audio.dataset.part=el.value;audio.src=p.url;audio.load();write(`audio:${dockTopic}`,{part:Number(el.value),t:0});}
   });
 }
 function syncAudioDock(path){
@@ -298,7 +315,7 @@ function syncAudioDock(path){
   const m=/^\/tema\/(\d+)(?:\/estudio)?$/.exec(path);
   const topic=m?topicInfo(Number(m[1])):null;const parts=topicAudio(topic);
   if(!parts.length){if(dockTopic!==null||!dock.hidden)stopDock(dock);return;}
-  if(dockTopic===topic.id)return;
+  if(dockTopic===topic.id){if(dock.dataset.state==='panel')dockHide(dock);return;}
   if(dockTopic!==null)stopDock(dock);
   dockTopic=topic.id;buildDock(dock,topic,parts);
 }

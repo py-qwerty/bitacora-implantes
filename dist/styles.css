@@ -258,6 +258,16 @@ a.page-ref:hover{color:var(--color-primary)}
 .dock-controls label{display:flex;align-items:center;gap:6px;margin-left:auto;font-size:12px;color:var(--color-muted)}
 .dock-controls select{width:auto;margin:0}
 .dock-panel .small{margin:8px 0 0;font-size:11px;line-height:1.5;color:var(--color-muted)}
-body.has-dock main{padding-bottom:132px}
-@media(min-width:1024px){#audio-dock{left:auto;right:24px;transform:none;width:380px;max-width:380px;bottom:20px;padding:0}body.has-dock main{padding-bottom:64px}}
+.dock-mini{display:flex;gap:8px}
+.dock-mini[hidden]{display:none}
+.dock-round{width:46px;height:46px;border:0;border-radius:50%;background:var(--color-primary);color:#fff;display:grid;place-items:center;box-shadow:0 6px 18px rgba(16,63,79,.28);cursor:pointer}
+.dock-round:focus-visible,.dock-pill:focus-visible{outline:3px solid var(--color-focus);outline-offset:2px}
+.dock-round svg{width:22px;height:22px}
+.dock-round .i-play,.dock-round .i-pause{fill:currentColor;stroke:none}
+.dock-round .i-head,.dock-pill .i-head{fill:none;stroke:currentColor;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
+.dock-round .i-pause,#audio-dock.is-playing .dock-round .i-play{display:none}
+#audio-dock.is-playing .dock-round .i-pause{display:block}
+body.has-dock main{padding-bottom:84px}
+body.dock-open main{padding-bottom:300px}
+@media(min-width:1024px){#audio-dock{left:auto;right:24px;transform:none;width:380px;max-width:380px;bottom:20px;padding:0}body.has-dock main,body.dock-open main{padding-bottom:72px}}
 @media print{#audio-dock{display:none!important}}
