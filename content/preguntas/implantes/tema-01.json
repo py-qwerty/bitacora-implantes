@@ -1,0 +1,482 @@
+[
+ {
+  "text": "¿Cuáles son las tres preguntas que debe permitir responder la historia clínica antes de actuar?",
+  "options": [
+   "¿Cuánto cuesta el tratamiento?, ¿cuántos implantes caben? y ¿cuándo se cobra?",
+   "¿Puedo operar a este paciente?, ¿qué tiene? y ¿qué le voy a hacer?",
+   "¿Qué marca de implante uso?, ¿qué anestesia pongo? y ¿qué radiografía pido?",
+   "¿Quién me envía al paciente?, ¿qué seguro tiene? y ¿cuándo vuelve?"
+  ],
+  "correct": "b",
+  "explanation": "Las tres preguntas son si se puede operar, qué tiene el paciente y qué se le va a hacer; corresponden a valoración médica, diagnóstico y plan.",
+  "difficulty": "baja",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 10 de septiembre · Historia clínica"
+  }
+ },
+ {
+  "text": "Según la Ley 41/2002, ¿qué implica que el paciente decida entre las alternativas que se le ofrecen, incluida no tratarse?",
+  "options": [
+   "Que el profesional queda exento de informar de las alternativas.",
+   "Que la decisión final corresponde al odontólogo, que conoce mejor el caso.",
+   "Que solo se pueden ofrecer alternativas que el profesional recomiende.",
+   "Que es responsable de su decisión, por lo que conviene registrar las alternativas ofrecidas y su elección."
+  ],
+  "correct": "d",
+  "explanation": "La ley 41/2002 sitúa la decisión en el paciente informado, que asume la responsabilidad, y por eso se registran las alternativas ofrecidas.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 10 de septiembre · Historia clínica"
+  }
+ },
+ {
+  "text": "¿Durante cuánto tiempo mínimo debe conservarse la historia clínica desde el alta de cada proceso, según lo explicado en clase?",
+  "options": [
+   "5 años",
+   "1 año",
+   "2 años",
+   "3 años"
+  ],
+  "correct": "a",
+  "explanation": "La historia se conserva como mínimo 5 años desde el alta de cada proceso.",
+  "difficulty": "baja",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 10 de septiembre · Historia clínica"
+  }
+ },
+ {
+  "text": "Un paciente solicita una copia de su historia clínica. ¿Qué procede?",
+  "options": [
+   "Fotocopiarle la historia completa, incluidas las anotaciones personales.",
+   "Entregarle el original para que lo guarde él.",
+   "Entregarle un documento fiel con sus datos objetivos y clínicos, sin tus anotaciones personales y sin dar el original.",
+   "Negarse, porque la historia pertenece solo al centro."
+  ],
+  "correct": "c",
+  "explanation": "Se le entrega un documento fiel con los datos clínicos objetivos, no una fotocopia con anotaciones personales ni el original.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 10 de septiembre · Historia clínica"
+  }
+ },
+ {
+  "text": "¿Cómo conviene iniciar la entrevista con un paciente nuevo?",
+  "options": [
+   "Con una batería de preguntas cerradas sobre enfermedades.",
+   "Con una pregunta abierta, dejándole contar libremente el motivo con sus palabras y sin interrumpirle al principio.",
+   "Mirando primero su radiografía o su escáner.",
+   "Proponiéndole directamente el tratamiento que se le va a realizar."
+  ],
+  "correct": "b",
+  "explanation": "La primera pregunta debe ser abierta para que el paciente cuente libremente su motivo de consulta antes de dirigir la entrevista.",
+  "difficulty": "baja",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 10 de septiembre · Historia clínica"
+  }
+ },
+ {
+  "text": "En implantología, ¿qué explica más reclamaciones y cuándo debe abordarse?",
+  "options": [
+   "La distancia entre lo que el paciente espera y lo que es posible; debe identificarse en la primera visita.",
+   "Las complicaciones quirúrgicas; se abordan al terminar el tratamiento.",
+   "El coste del material; se aborda al presentar el presupuesto final.",
+   "La falta de higiene del paciente; se aborda cuando aparecen los problemas."
+  ],
+  "correct": "a",
+  "explanation": "Las expectativas no realistas son la causa principal de reclamación y deben detectarse en la primera visita, cuando aún se puede rechazar el caso.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 10 de septiembre · Historia clínica"
+  }
+ },
+ {
+  "text": "Un paciente dice ser alérgico a la penicilina. ¿Qué conviene hacer en la anamnesis?",
+  "options": [
+   "Anotarlo y evitar cualquier antibiótico sin más.",
+   "Ignorarlo si la reacción fue en la infancia.",
+   "Descartarlo, porque casi siempre se equivocan.",
+   "Preguntar qué ocurrió exactamente y cuándo, y valorar pruebas alérgicas, porque a menudo no es una alergia verdadera."
+  ],
+  "correct": "d",
+  "explanation": "Hay que concretar la reacción y confirmarla con pruebas, porque muchos supuestos alérgicos a la penicilina no lo son.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 10 de septiembre · Historia clínica"
+  }
+ },
+ {
+  "text": "¿Cuál es el factor de riesgo modificable más importante en implantología y cómo debe registrarse?",
+  "options": [
+   "El alcohol, anotando «consumo moderado».",
+   "El bruxismo, anotando solo si hay desgaste.",
+   "El tabaco, cuantificado en cigarrillos al día y años de consumo.",
+   "La higiene oral, anotando «regular»."
+  ],
+  "correct": "c",
+  "explanation": "El tabaco es el factor modificable más importante y se registra cuantificado (cigarrillos al día y años).",
+  "difficulty": "baja",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 10 de septiembre · Historia clínica"
+  }
+ },
+ {
+  "text": "¿Cuál es un error frecuente al abrir una historia clínica?",
+  "options": [
+   "Fechar y firmar cada nota con el profesional que la escribe.",
+   "Dar por buena la lista de medicación que recuerda el paciente sin contrastarla.",
+   "Registrar las alternativas ofrecidas y lo explicado al paciente.",
+   "Preguntar por aparatos y sistemas aunque el paciente diga que está sano."
+  ],
+  "correct": "b",
+  "explanation": "Dar por válida la medicación de memoria del paciente sin contrastarla es un error frecuente; lo demás son buenas prácticas.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 10 de septiembre · Historia clínica"
+  }
+ },
+ {
+  "text": "Un paciente toma anticoagulantes o antiagregantes. ¿Qué hay que averiguar primero y qué se hace con la medicación?",
+  "options": [
+   "Por qué los toma; no se modifican sin consultar al médico y se planifica hemostasia local.",
+   "La dosis; se suspenden siempre una semana antes de operar.",
+   "Su precio; se sustituyen por un antibiótico.",
+   "Nada, porque no influyen en la cirugía de implantes."
+  ],
+  "correct": "a",
+  "explanation": "Se pregunta el motivo, no se modifica nada sin consultar y se planifica la hemostasia local.",
+  "difficulty": "alta",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 10 de septiembre · Historia clínica"
+  }
+ },
+ {
+  "text": "Mujer de 72 años que toma un antirresortivo por osteoporosis desde hace 4 años, sana por lo demás, pide dos implantes posteriores mandibulares. ¿Cuál es la actitud correcta?",
+  "options": [
+   "Tratar con normalidad porque la osteoporosis no afecta a la cirugía.",
+   "Rechazar el caso por estar contraindicado.",
+   "Consultar vía, dosis y duración antes de decidir e informar del riesgo específico.",
+   "Tratar con profilaxis antibiótica prolongada."
+  ],
+  "correct": "c",
+  "explanation": "Con un antirresortivo se averigua vía, dosis y duración, se informa del riesgo y se decide después.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 10 de septiembre · Historia clínica"
+  }
+ },
+ {
+  "text": "¿Qué dato refleja el control metabólico del paciente diabético y condiciona el riesgo de infección y de cicatrización?",
+  "options": [
+   "La glucemia capilar medida el mismo día de la cirugía.",
+   "El nombre del fármaco antidiabético que toma.",
+   "Los años transcurridos desde el diagnóstico.",
+   "La hemoglobina glicosilada."
+  ],
+  "correct": "d",
+  "explanation": "La hemoglobina glicosilada mide el control de la diabetes de los últimos meses.",
+  "difficulty": "baja",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 10 de septiembre · Historia clínica"
+  }
+ },
+ {
+  "text": "¿Por qué conviene preguntar a un paciente diabético por episodios de hipoglucemia grave y si lleva glucagón?",
+  "options": [
+   "Porque con la glucemia alta no existe ningún riesgo.",
+   "Porque una hipoglucemia puede hacerle perder el conocimiento en la consulta, y el glucagón es el tratamiento de emergencia.",
+   "Porque el glucagón se usa para calcular la dosis de vasoconstrictor.",
+   "Porque permite medir la hemoglobina glicosilada sin análisis."
+  ],
+  "correct": "b",
+  "explanation": "La hipoglucemia grave es una emergencia que puede ocurrir en la consulta; el glucagón es el tratamiento de rescate.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 10 de septiembre · Historia clínica"
+  }
+ },
+ {
+  "text": "Antes de una cirugía, un paciente presenta 200 mmHg de tensión pese a haber tomado su medicación. ¿Qué procede?",
+  "options": [
+   "Se considera urgencia hipertensiva: no se opera; se intenta bajarla y, si no desciende en 10-15 minutos, se remite a su médico.",
+   "Operar con más anestesia con vasoconstrictor para controlar el dolor.",
+   "Operar sin vasoconstrictor y sin más precauciones.",
+   "Operar, porque ya se tomó la pastilla."
+  ],
+  "correct": "a",
+  "explanation": "Con 200 mmHg no se opera: se intenta bajarla y, si no baja, se remite a su médico.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 10 de septiembre · Historia clínica"
+  }
+ },
+ {
+  "text": "¿Cuándo está justificado pedir una prueba complementaria?",
+  "options": [
+   "De forma sistemática a todos los pacientes.",
+   "Solo para tener respaldo legal aunque nadie la mire.",
+   "Siempre que el paciente lo pida.",
+   "Cuando resuelve una duda concreta, su resultado puede cambiar el diagnóstico o la actitud terapéutica, y se va a revisar."
+  ],
+  "correct": "d",
+  "explanation": "Una prueba se pide para resolver una duda concreta, si puede cambiar la conducta y si se va a revisar.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 10 de septiembre · Historia clínica"
+  }
+ },
+ {
+  "text": "Un paciente ASA 3 necesita un implante de forma electiva. ¿Qué conducta se indicó en clase?",
+  "options": [
+   "Tratarlo sin cambios, como a un ASA 1.",
+   "Tratarlo con pequeñas modificaciones, como a un ASA 2.",
+   "No tratarlo de forma electiva hasta que su enfermedad esté controlada, salvo urgencias.",
+   "Contraindicar para siempre todo tratamiento dental."
+  ],
+  "correct": "c",
+  "explanation": "El ASA 3 no se trata electivamente hasta que esté controlado.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 10 de septiembre · Historia clínica"
+  }
+ },
+ {
+  "text": "¿Cómo se redacta una interconsulta útil al médico del paciente?",
+  "options": [
+   "Preguntando solo si el paciente «puede operarse».",
+   "Indicando procedimiento, duración, anestesia y medicación implicada, y formulando preguntas concretas.",
+   "Pidiendo al médico que elija la técnica y el número de implantes.",
+   "Evitando dar datos del procedimiento para no confundirlo."
+  ],
+  "correct": "b",
+  "explanation": "Una interconsulta eficaz describe el procedimiento y hace preguntas concretas, y su respuesta se archiva en la historia.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 10 de septiembre · Historia clínica"
+  }
+ },
+ {
+  "text": "¿Qué orden se sigue entre la exploración del paciente y la imagen?",
+  "options": [
+   "Primero se explora al paciente (inspección, palpación, percusión) y después se usa la radiografía.",
+   "Se empieza por la radiografía y luego se explora al paciente.",
+   "Se parte del escáner que trae el paciente y se omite la exploración.",
+   "Se realiza solo la radiografía si el paciente refiere no tener síntomas."
+  ],
+  "correct": "a",
+  "explanation": "Primero se explora al paciente y después se interpretan las imágenes.",
+  "difficulty": "baja",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 10 de septiembre · Historia clínica"
+  }
+ },
+ {
+  "text": "Tras colocar un implante, el paciente refiere dolor en el diente contiguo y la radiografía muestra el implante contactando con su ápice. ¿Qué actitud es correcta?",
+  "options": [
+   "Atribuir el dolor al diente y mantener el implante.",
+   "Esperar a ver si el dolor desaparece solo.",
+   "Reconocerlo y corregirlo (recolocar o cambiar el implante), vigilando el diente.",
+   "Tratar solo el diente sin modificar el implante, para evitar otra cirugía."
+  ],
+  "correct": "c",
+  "explanation": "Ante un implante que lesiona el ápice vecino se corrige el implante y se vigila el diente, sin negar el problema.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 10 de septiembre · Historia clínica"
+  }
+ },
+ {
+  "text": "¿Qué hallazgos de la primera visita modifican el presupuesto según la clase?",
+  "options": [
+   "El estado civil, la profesión y las aficiones.",
+   "El grupo sanguíneo, la talla y el peso.",
+   "El tipo de seguro, la forma de pago y el horario.",
+   "La apertura oral, la ATM y el bruxismo."
+  ],
+  "correct": "d",
+  "explanation": "Apertura, ATM y bruxismo se examinan en la primera visita y modifican el presupuesto.",
+  "difficulty": "baja",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 10 de septiembre · Historia clínica"
+  }
+ },
+ {
+  "text": "¿Por qué son especialmente valiosas las fotografías, vídeos o el escáner intraoral del estado inicial?",
+  "options": [
+   "Porque sustituyen al consentimiento informado.",
+   "Porque son registros que no se pueden repetir y prueban cómo llegó el paciente.",
+   "Porque evitan hacer cualquier radiografía o TAC.",
+   "Porque solo sirven para publicidad de la clínica."
+  ],
+  "correct": "b",
+  "explanation": "Los registros iniciales no se pueden repetir y demuestran el estado de partida.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 10 de septiembre · Historia clínica"
+  }
+ },
+ {
+  "text": "Según la secuencia de planificación explicada, ¿por dónde se empieza?",
+  "options": [
+   "Por la prótesis que necesita el paciente, luego los implantes necesarios y después se comprueba si hay hueso.",
+   "Por el hueso disponible, y luego se decide qué prótesis cabe.",
+   "Por el implante comercial que se desee usar.",
+   "Por el presupuesto que el paciente quiere gastar."
+  ],
+  "correct": "a",
+  "explanation": "La prótesis manda: se decide primero la prótesis, después los implantes y por último el hueso o las técnicas.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 10 de septiembre · Historia clínica"
+  }
+ },
+ {
+  "text": "¿Qué ocurre con el hueso tras una extracción y qué se hace si no se coloca implante en ese momento?",
+  "options": [
+   "El hueso se mantiene igual si se usa prótesis removible.",
+   "No hay reabsorción si se espera a colocar el implante.",
+   "La mayor pérdida ocurre en los tres primeros meses y continúa hasta el año; se hace preservación de la cresta para minimizarla.",
+   "La preservación evita por completo cualquier pérdida de hueso."
+  ],
+  "correct": "c",
+  "explanation": "Tras la extracción el hueso se pierde sobre todo en los tres primeros meses; la preservación de la cresta minimiza la pérdida.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 10 de septiembre · Historia clínica"
+  }
+ },
+ {
+  "text": "¿Cuál de estas decisiones debe planificarse y explicarse antes de la cirugía en lugar de improvisarse?",
+  "options": [
+   "Decidir la carga inmediata sobre la marcha si el hueso parece bueno.",
+   "Elegir una o dos fases en el momento de suturar.",
+   "Cambiar el plan protésico acordado sin informar al paciente.",
+   "Si se hará carga inmediata y con qué prótesis, decidido antes de tocar al paciente."
+  ],
+  "correct": "d",
+  "explanation": "El diseño de la incisión, las fases y la carga inmediata no se improvisan: se planifican y se explican antes.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 10 de septiembre · Historia clínica"
+  }
+ },
+ {
+  "text": "¿Por qué un consentimiento firmado el mismo día de la cirugía puede no considerarse válido?",
+  "options": [
+   "Porque debe firmarlo un notario.",
+   "Porque el paciente puede alegar que no tuvo tiempo de leerlo ni pensarlo; debe entregarse con antelación y llevar fecha anterior.",
+   "Porque solo es válido si se firma tras la cirugía.",
+   "Porque solo puede firmarse en un hospital."
+  ],
+  "correct": "b",
+  "explanation": "El consentimiento debe entregarse con antelación y fecharse antes del día de la cirugía.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 10 de septiembre · Historia clínica"
+  }
+ },
+ {
+  "text": "¿Qué característica debe cumplir un consentimiento informado bien elaborado?",
+  "options": [
+   "Estar personalizado: con alternativas razonables incluida no tratarse, riesgos personalizados y la posibilidad de revocarlo.",
+   "Ser un modelo genérico firmado y archivado.",
+   "Estar redactado en lenguaje técnico para dar más rigor.",
+   "Ser irrevocable una vez firmado."
+  ],
+  "correct": "a",
+  "explanation": "Un consentimiento válido es personalizado, comprensible, con alternativas y riesgos propios, y revocable.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 10 de septiembre · Historia clínica"
+  }
+ },
+ {
+  "text": "¿Qué riesgo debe tener presente el odontólogo al prescribir AINE, especialmente a un paciente hipertenso?",
+  "options": [
+   "Una hipoglucemia grave por interacción con la insulina.",
+   "Una prolongación excesiva de la anestesia local.",
+   "La insuficiencia renal, que puede aparecer varios días después de la prescripción.",
+   "Ninguno, si se pautan solo unos días."
+  ],
+  "correct": "c",
+  "explanation": "Los AINE pueden provocar insuficiencia renal días después de tomarlos, sobre todo en hipertensos.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 10 de septiembre · Historia clínica"
+  }
+ },
+ {
+  "text": "¿Qué se afirmó en clase sobre la profilaxis antibiótica en cirugía de implantes?",
+  "options": [
+   "Es obligatoria en todos los pacientes.",
+   "Está contraindicada en cualquier caso.",
+   "Solo se pauta cuando hay riesgo de endocarditis.",
+   "No está demostrada su eficacia ni es obligatoria; conviene consensuarla con el paciente, sobre todo en cirugías grandes."
+  ],
+  "correct": "d",
+  "explanation": "La profilaxis antibiótica en cirugía de implantes no está demostrada ni es obligatoria; se consensúa con el paciente.",
+  "difficulty": "alta",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 10 de septiembre · Historia clínica"
+  }
+ },
+ {
+  "text": "¿En qué paciente se indica profilaxis antibiótica de endocarditis antes del procedimiento?",
+  "options": [
+   "Con prolapso de válvula mitral.",
+   "Portador de prótesis valvular cardíaca, con dosis única 30-60 minutos antes.",
+   "Con miocardiopatía hipertrófica.",
+   "Con hipertensión arterial bien controlada."
+  ],
+  "correct": "b",
+  "explanation": "Se indica en riesgo alto, como la prótesis valvular, en dosis única 30-60 minutos antes.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 10 de septiembre · Historia clínica"
+  }
+ },
+ {
+  "text": "¿Qué se dijo en clase sobre la clindamicina como alternativa en pacientes alérgicos a la penicilina?",
+  "options": [
+   "Ya no se recomienda por reacciones adversas más graves, sobre todo infección por Clostridium difficile.",
+   "Es el antibiótico de elección.",
+   "Se prefiere porque basta una dosis única.",
+   "Solo está contraindicada en niños."
+  ],
+  "correct": "a",
+  "explanation": "La clindamicina no se recomienda por el riesgo de infección por Clostridium difficile.",
+  "difficulty": "alta",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 10 de septiembre · Historia clínica"
+  }
+ }
+]

@@ -1,4 +1,11 @@
 {
-  "version": "2026-11-04.1",
-  "temas": []
+  "version": "2026-11-04.3",
+  "temas": [
+    {
+      "topic": 1,
+      "sections": 12,
+      "minutes": 40,
+      "doubts": 8
+    }
+  ]
 }

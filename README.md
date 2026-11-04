@@ -21,6 +21,14 @@ npm run check    # pruebas de motor, banco e interfaz
 
 `dist/bank.json` contiene asignaturas, temas y preguntas; `dist/temas/` los temas digitales, que se generan con `npm run temas` desde `content/temas/<asignatura>/tema-NN.json`. Cada pregunta indica su fuente: `clase` (explicada en la sesión) o `practice` (ejercicio añadido).
 
+## PDF de cada tema
+
+Cada tema digital se descarga en PDF con el mismo formato que en pantalla (apartados, tablas, preguntas con su argumentación y glosario). Los PDF se generan con Chrome sin interfaz a partir de `#/tema/N/pdf` y se guardan en `dist/materials/`; la pantalla del tema los ofrece con «Abrir tema» y «Descargar PDF». Al cambiar un tema, regenerarlo con:
+
+```sh
+npm run build    # banco + temas + PDF (necesita Google Chrome; CHROME=ruta si está en otro sitio)
+```
+
 ## Privacidad y procedencia
 
 Son apuntes de estudio personales elaborados a partir de las clases; no son material oficial de la universidad ni del profesorado y pueden contener errores. **No se publican grabaciones ni transcripciones**, solo el resumen y las preguntas redactados. No hay cuentas, credenciales ni seguimiento. Fuentes Manrope y Barlow Condensed servidas localmente (licencias en FONT-LICENSES/).

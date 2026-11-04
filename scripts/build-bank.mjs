@@ -13,8 +13,10 @@ const curso = JSON.parse(await readFile(path.join(root, 'content/curso.json'), '
 const bankPath = path.join(root, 'dist/bank.json');
 const previous = JSON.parse(await readFile(bankPath, 'utf8').catch(() => 'null'));
 
+const materials = JSON.parse(await readFile(path.join(root, 'content/materials.json'), 'utf8').catch(() => '{}'));
+const topics = curso.topics.map(t => (materials[t.id] ? { ...t, material: materials[t.id] } : t));
 const questions = [];
-for (const topic of curso.topics) {
+for (const topic of topics) {
   const nn = String(topic.number).padStart(2, '0');
   const file = path.join(root, 'content/preguntas', topic.course, `tema-${nn}.json`);
   const list = JSON.parse(await readFile(file, 'utf8').catch(() => 'null'));
@@ -37,11 +39,17 @@ for (const topic of curso.topics) {
   });
 }
 
-const today = new Date().toISOString().slice(0, 10);
-const [prevDay, prevN] = (previous?.version ?? '').split('.');
-const version = `${today}.${prevDay === today ? Number(prevN) + 1 : 1}`;
-const bank = { version, title: curso.title, context: curso.context, courses: curso.courses, topics: curso.topics, questions };
+const body = { title: curso.title, context: curso.context, courses: curso.courses, topics, questions };
+// La versión solo cambia si cambia el contenido, para que las pruebas no ensucien el repositorio.
+const { version: oldVersion, ...oldBody } = previous ?? {};
+let version = oldVersion;
+if (JSON.stringify(oldBody) !== JSON.stringify(body)) {
+  const today = new Date().toISOString().slice(0, 10);
+  const [prevDay, prevN] = (oldVersion ?? '').split('.');
+  version = `${today}.${prevDay === today ? Number(prevN) + 1 : 1}`;
+}
+const bank = { version, ...body };
 validateBank(bank);
 await writeFile(bankPath, JSON.stringify(bank) + '\n');
 const ready = new Set(questions.map(q => q.topic)).size;
-console.log(`bank.json ${version}: ${curso.topics.length} temas (${ready} con preguntas), ${questions.length} preguntas`);
+console.log(`bank.json ${version}: ${topics.length} temas (${ready} con preguntas), ${questions.length} preguntas`);
