@@ -1,0 +1,482 @@
+[
+ {
+  "text": "Al valorar un alveolo para un implante inmediato en zona estética, aparece una única «luz roja» en el checklist. ¿Qué actitud defendió la clase?",
+  "options": [
+   "Continuar con el inmediato si el resto de parámetros son favorables.",
+   "Renunciar al inmediato y elegir otra alternativa (temprano, diferido o preservación de la cresta).",
+   "Dejar el alvéolo sin tratar hasta que el paciente decida.",
+   "Derivar siempre al paciente a otro profesional."
+  ],
+  "correct": "b",
+  "explanation": "Una sola luz roja basta para descartar el inmediato; se elige otra alternativa como el implante temprano, el diferido o la preservación de la cresta.",
+  "difficulty": "baja",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 29 de octubre · Implantes inmediatos en zona estética"
+  }
+ },
+ {
+  "text": "Según la clase, ¿en qué consiste la inmediatez entendida como un «pack»?",
+  "options": [
+   "En una técnica quirúrgica única que se ejecuta sin planificación previa.",
+   "En un implante prefabricado que incluye pilar y corona.",
+   "En el paquete comercial con implante, fresas y guía quirúrgica.",
+   "En la valoración del alvéolo, la colocación del implante y la colocación de la prótesis, dentro de una misma planificación."
+  ],
+  "correct": "d",
+  "explanation": "La inmediatez incluye valorar el alvéolo, colocar el implante y colocar la prótesis: no es una técnica aislada, sino una planificación.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 29 de octubre · Implantes inmediatos en zona estética"
+  }
+ },
+ {
+  "text": "¿Qué explica en buena medida el fracaso de la primera etapa de los implantes inmediatos?",
+  "options": [
+   "Se aplicaron sin conocer la biología de la cicatrización del alvéolo, con resultados poco predecibles.",
+   "La osteointegración no ocurre en alvéolos frescos.",
+   "No existía ningún caso de éxito con implantes inmediatos.",
+   "El titanio era inadecuado para colocarse tras una extracción."
+  ],
+  "correct": "a",
+  "explanation": "Se aplicaron sin conocer la biología de la cicatrización del alvéolo; no era predecible y, tras una reflexión científica, se retomó con criterios.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 29 de octubre · Implantes inmediatos en zona estética"
+  }
+ },
+ {
+  "text": "Un paciente pierde el 21 y opta por una prótesis removible provisional. Cinco años después pide un implante en esa posición. ¿Qué cabe esperar?",
+  "options": [
+   "El alvéolo mantiene sus dimensiones gracias a la prótesis removible.",
+   "Se puede colocar el implante como si fuera inmediato.",
+   "Habrá perdido tejidos duros y blandos, y probablemente necesite regeneración ósea guiada para colocarlo en la posición ideal.",
+   "Solo habrá perdido encía; el hueso estará intacto."
+  ],
+  "correct": "c",
+  "explanation": "Habrá perdido tejido duro y blando, por lo que para colocar el implante en la posición protésica ideal hará falta regeneración ósea guiada.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 29 de octubre · Implantes inmediatos en zona estética"
+  }
+ },
+ {
+  "text": "¿Cuándo debe realizarse la preservación de la cresta alveolar?",
+  "options": [
+   "Cuando han pasado unos meses y el alvéolo ha cicatrizado.",
+   "Solo si falta un diente aislado.",
+   "En el momento de la extracción.",
+   "Solo en el sector posterior."
+  ],
+  "correct": "c",
+  "explanation": "Debe hacerse en el momento de la extracción; después ya no se preserva, sino que se regenera, y puede hacerse con uno o varios dientes.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 29 de octubre · Implantes inmediatos en zona estética"
+  }
+ },
+ {
+  "text": "En la preservación de la cresta alveolar, ¿cómo debe comportarse el material de relleno y qué resultado se espera?",
+  "options": [
+   "Reabsorberse lentamente para sostener el volumen; minimiza la pérdida pero no la evita.",
+   "Reabsorberse cuanto antes para dejar sitio al hueso.",
+   "Evitar por completo cualquier pérdida de hueso.",
+   "Dejarse sin sellar para que drene el alvéolo."
+  ],
+  "correct": "a",
+  "explanation": "Debe reabsorberse lentamente para sostener el volumen, y minimiza la pérdida sin evitarla del todo.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 29 de octubre · Implantes inmediatos en zona estética"
+  }
+ },
+ {
+  "text": "Ordenadas de mayor a menor conservación de tejidos, ¿qué alternativas se comentaron en la clase?",
+  "options": [
+   "Tardío con regeneración, preservación e inmediato.",
+   "Preservación, inmediato y tardío.",
+   "Las tres conservan lo mismo si se hacen en el mismo mes.",
+   "Inmediato bien indicado, preservación y tardío con regeneración."
+  ],
+  "correct": "d",
+  "explanation": "El inmediato bien indicado conserva más, después la preservación y, por último, el tratamiento tardío con regeneración.",
+  "difficulty": "baja",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 29 de octubre · Implantes inmediatos en zona estética"
+  }
+ },
+ {
+  "text": "En un implante tipo 2 (temprano, a las 4-6 semanas), ¿qué se espera que haya cicatrizado y para qué?",
+  "options": [
+   "El hueso, para conseguir estabilidad primaria.",
+   "El tejido blando, que permite resolver la infección y cubrir un posible injerto.",
+   "Nada: es solo un retraso por comodidad.",
+   "El ligamento periodontal, que debe regenerar."
+  ],
+  "correct": "b",
+  "explanation": "Se espera que cicatrice el tejido blando, lo que permite resolver la infección y cerrar sobre un posible injerto.",
+  "difficulty": "baja",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 29 de octubre · Implantes inmediatos en zona estética"
+  }
+ },
+ {
+  "text": "¿Por qué se espera unas 8 semanas o más antes de colocar un implante diferido (tipo 3)?",
+  "options": [
+   "Para que el tejido blando acabe de cicatrizar, porque el hueso ya está curado.",
+   "Para que la tabla vestibular se reabsorba por completo.",
+   "Para evitar tener que colocar una prótesis.",
+   "Para que cure el hueso y se pueda conseguir estabilidad primaria."
+  ],
+  "correct": "d",
+  "explanation": "Se espera a que cicatrice el hueso, para poder conseguir estabilidad primaria que en el inmediato no se lograría.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 29 de octubre · Implantes inmediatos en zona estética"
+  }
+ },
+ {
+  "text": "Un paciente con el 21 con absceso periapical agudo y biotipo gingival fino exige el implante el mismo día. ¿Qué se razonó en la clase?",
+  "options": [
+   "Tipo 1, porque el paciente lo pide.",
+   "Tipo 2 (temprano), tras resolver la infección y dejar cicatrizar el tejido blando.",
+   "Tipo 4 (tardío), esperando años.",
+   "Tipo 1 con una prótesis provisional para compensar los riesgos."
+  ],
+  "correct": "b",
+  "explanation": "Hay dos luces rojas, infección aguda y biotipo fino; se elige un implante temprano para resolver la infección y dejar que el tejido blando cicatrice.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 29 de octubre · Implantes inmediatos en zona estética"
+  }
+ },
+ {
+  "text": "¿Por qué la cirugía con colgajo es un factor en contra de la inmediatez?",
+  "options": [
+   "Porque daña más los tejidos, y la inmediatez busca preservarlos.",
+   "Porque impide ver el alvéolo durante la cirugía.",
+   "Porque obliga siempre a esperar ocho semanas.",
+   "Porque impide suturar la herida."
+  ],
+  "correct": "a",
+  "explanation": "El colgajo daña mucho más los tejidos, y la inmediatez pretende preservarlos; es algo a considerar, no una prohibición.",
+  "difficulty": "baja",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 29 de octubre · Implantes inmediatos en zona estética"
+  }
+ },
+ {
+  "text": "¿Por qué no suele ser habitual colocar un implante inmediato en un molar inferior?",
+  "options": [
+   "Porque en el maxilar inferior no existe cortical.",
+   "Porque las raíces coalescentes dejan una gran cavidad hacia el seno.",
+   "Porque el septo es estrecho, habría cantiléver y la estabilidad apical queda cerca del nervio dentario.",
+   "Porque el hueso mandibular no osteointegra."
+  ],
+  "correct": "c",
+  "explanation": "El septo es estrecho para un implante de al menos 4 mm, elegir una raíz obliga a un cantiléver y la estabilidad apical queda cerca del nervio dentario.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 29 de octubre · Implantes inmediatos en zona estética"
+  }
+ },
+ {
+  "text": "En molares superiores, ¿cuál es la comparación correcta?",
+  "options": [
+   "El segundo molar es más favorable, por sus raíces divergentes.",
+   "El primer molar suele ser más favorable, por sus raíces divergentes y el hueso de la furca; el segundo deja una gran cavidad.",
+   "Ambos son igual de favorables y el seno no importa.",
+   "Ninguno admite nunca inmediato."
+  ],
+  "correct": "b",
+  "explanation": "El primer molar suele ser más favorable, con raíces divergentes y hueso en la furca, mientras que el segundo suele tener raíces coalescentes y deja una gran cavidad.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 29 de octubre · Implantes inmediatos en zona estética"
+  }
+ },
+ {
+  "text": "¿Cuál de estos factores aumenta la reducción del alvéolo tras la extracción?",
+  "options": [
+   "Rellenar el alvéolo con un injerto.",
+   "Tener un diente vecino sano.",
+   "Cubrir el alvéolo con una esponja de fibrina.",
+   "El trauma quirúrgico de una extracción laboriosa."
+  ],
+  "correct": "d",
+  "explanation": "El trauma quirúrgico de una extracción difícil, como un diente endodonciado fracturado, aumenta la pérdida de hueso.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 29 de octubre · Implantes inmediatos en zona estética"
+  }
+ },
+ {
+  "text": "¿Cómo se produce la reducción de tejidos tras una extracción sin ninguna medida de preservación?",
+  "options": [
+   "Rápida, en unos dos meses, y sobre todo en anchura por vestibular.",
+   "Lenta, en años, y solo en altura.",
+   "Sobre todo en la pared palatina.",
+   "No se produce si el paciente usa prótesis removible."
+  ],
+  "correct": "a",
+  "explanation": "Es rápida, en unos dos meses, y afecta sobre todo a la anchura, por vestibular, aunque también a la altura.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 29 de octubre · Implantes inmediatos en zona estética"
+  }
+ },
+ {
+  "text": "¿Qué afirmación sobre el implante inmediato y el mantenimiento de la cresta es correcta?",
+  "options": [
+   "Basta con colocarlo para mantener la cresta.",
+   "Un implante ancho que rellene el alvéolo preserva mejor el hueso.",
+   "Preserva los tejidos si se respeta la biología: posición tridimensional, tabla vestibular de 2 mm y estabilidad primaria.",
+   "Preserva solo si no se coloca prótesis provisional."
+  ],
+  "correct": "c",
+  "explanation": "El implante inmediato no preserva por sí solo; solo conserva los tejidos si se respeta la biología: posición, tabla vestibular de 2 mm y estabilidad primaria.",
+  "difficulty": "alta",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 29 de octubre · Implantes inmediatos en zona estética"
+  }
+ },
+ {
+  "text": "¿Qué distancias de seguridad se deben respetar entre implante y diente, y entre dos implantes?",
+  "options": [
+   "1,5 mm entre implante y diente, y 3 mm entre implantes.",
+   "3 mm entre implante y diente, y 1,5 mm entre implantes.",
+   "1 mm entre implante y diente, y 2 mm entre implantes.",
+   "2 mm entre implante y diente, y 4 mm entre implantes."
+  ],
+  "correct": "a",
+  "explanation": "Se respetan 1,5 mm entre implante y diente y 3 mm entre dos implantes.",
+  "difficulty": "baja",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 29 de octubre · Implantes inmediatos en zona estética"
+  }
+ },
+ {
+  "text": "¿Cuál es el espacio mesiodistal mínimo para colocar un implante de 4 mm entre dos dientes?",
+  "options": [
+   "4 mm.",
+   "5,5 mm.",
+   "6 mm.",
+   "7 mm."
+  ],
+  "correct": "d",
+  "explanation": "Se necesitan 4 mm del implante más 1,5 mm a cada lado: 7 mm.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 29 de octubre · Implantes inmediatos en zona estética"
+  }
+ },
+ {
+  "text": "Entre dos dientes hay un tramo de 16 mm donde se colocarán dos implantes del mismo diámetro. ¿Qué diámetro tienen para aprovechar todo el espacio?",
+  "options": [
+   "4 mm.",
+   "5 mm.",
+   "6 mm.",
+   "7 mm."
+  ],
+  "correct": "b",
+  "explanation": "Restando 1,5 mm a cada lado y 3 mm entre implantes quedan 10 mm, que se reparten en 5 mm por implante.",
+  "difficulty": "alta",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 29 de octubre · Implantes inmediatos en zona estética"
+  }
+ },
+ {
+  "text": "¿Qué protege la distancia de 3 mm entre dos implantes?",
+  "options": [
+   "La tabla vestibular.",
+   "La encía queratinizada.",
+   "El pico óseo periimplantario y su papila.",
+   "El espacio biológico supracrestal."
+  ],
+  "correct": "c",
+  "explanation": "Protege el pico óseo entre los implantes y su papila.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 29 de octubre · Implantes inmediatos en zona estética"
+  }
+ },
+ {
+  "text": "¿Por qué no es buena idea elegir un implante con el mismo diámetro que el diente natural?",
+  "options": [
+   "Porque los implantes anchos no existen en la zona anterior.",
+   "Porque el diente natural es más estrecho que cualquier implante.",
+   "Porque impide siempre la estabilidad primaria.",
+   "Porque ocupa todo el alvéolo y daña el bundle bone y la tabla vestibular."
+  ],
+  "correct": "d",
+  "explanation": "Ocupa todo el alvéolo y daña el bundle bone y la tabla vestibular, con pérdida de tejido; hay que elegir un implante más estrecho y dejar 2 mm.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 29 de octubre · Implantes inmediatos en zona estética"
+  }
+ },
+ {
+  "text": "El espacio entre el implante inmediato y la tabla vestibular es de 3 mm. ¿Qué se hace?",
+  "options": [
+   "Se rellena con biomaterial y se protege con esponja de fibrina y la prótesis o pilar.",
+   "Se deja que el coágulo lo rellene sin material.",
+   "Se acerca el implante a la tabla vestibular para no usar material.",
+   "Se elimina la tabla vestibular."
+  ],
+  "correct": "a",
+  "explanation": "Se rellena con biomaterial y se cubre con una esponja de fibrina y la prótesis o el pilar, para que no entre saliva ni salga el material.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 29 de octubre · Implantes inmediatos en zona estética"
+  }
+ },
+ {
+  "text": "En el TAC, la tabla vestibular mide 1 mm. ¿Qué implica?",
+  "options": [
+   "Es la situación ideal.",
+   "Más riesgo de reabsorción, recesión gingival y deformidad de tejidos blandos.",
+   "Menos riesgo porque hay menos hueso que remodelar.",
+   "Solo afecta a la pared palatina."
+  ],
+  "correct": "b",
+  "explanation": "Con menos de 2 mm de grosor hay más riesgo de reabsorción, recesión gingival y deformidad de tejidos blandos.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 29 de octubre · Implantes inmediatos en zona estética"
+  }
+ },
+ {
+  "text": "¿Qué consecuencia tiene colocar el implante demasiado hacia palatino en un incisivo?",
+  "options": [
+   "Ninguna: cuanto más palatino, mejor.",
+   "La corona queda demasiado corta.",
+   "Corona voluminosa, higiene difícil, inflamación crónica y recesión.",
+   "Solo pierde estabilidad primaria."
+  ],
+  "correct": "c",
+  "explanation": "La corona necesita un contorno excesivo, se dificulta la higiene y aparecen inflamación crónica y recesión.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 29 de octubre · Implantes inmediatos en zona estética"
+  }
+ },
+ {
+  "text": "En la clasificación de la posición de la raíz, ¿por qué la clase 1 es favorable?",
+  "options": [
+   "Hay abundante hueso en palatino, lo que permite alejarse del bundle bone y lograr estabilidad.",
+   "Porque el hueso está en vestibular y el implante va allí.",
+   "Porque no queda hueso y se evitan problemas.",
+   "Porque la raíz está centrada."
+  ],
+  "correct": "a",
+  "explanation": "Hay mucho hueso en palatino: el implante se aleja del bundle bone, gana estabilidad apical y fricción con la pared palatina.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 29 de octubre · Implantes inmediatos en zona estética"
+  }
+ },
+ {
+  "text": "El alvéolo corresponde a una clase 3 (raíz hacia palatino). Si no se logra estabilidad sin dañar el bundle bone ni irse demasiado a palatino, ¿qué se aconseja?",
+  "options": [
+   "Forzar el inmediato; la estabilidad siempre se consigue.",
+   "Usar un implante muy ancho para llenar el alvéolo.",
+   "Pasar directamente a un injerto en bloque.",
+   "Valorar la preservación de la cresta y colocar el implante después."
+  ],
+  "correct": "d",
+  "explanation": "Se opta por la preservación de la cresta: es mejor una retirada a tiempo que un inmediato mal indicado.",
+  "difficulty": "alta",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 29 de octubre · Implantes inmediatos en zona estética"
+  }
+ },
+ {
+  "text": "¿Cuál de estas afirmaciones sobre estética en un diente individual es FALSA?",
+  "options": [
+   "La distancia del hueso interproximal al punto de contacto debe ser de 5 mm o menos.",
+   "Se puede aumentar el hueso interproximal modificando el punto de contacto.",
+   "Se puede modificar el punto de contacto, aunque con límites.",
+   "Los dientes triangulares son más difíciles porque el punto de contacto queda más bajo."
+  ],
+  "correct": "b",
+  "explanation": "No se puede aumentar el hueso interproximal modificando el punto de contacto; el punto de contacto sí se puede modificar con límites.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 29 de octubre · Implantes inmediatos en zona estética"
+  }
+ },
+ {
+  "text": "¿Para qué se coloca un injerto de tejido conectivo en un implante inmediato estético?",
+  "options": [
+   "Para ganar altura de hueso interproximal.",
+   "Para sustituir la prótesis provisional.",
+   "Para ganar volumen y convertir un biotipo fino en grueso.",
+   "Para reducir el diámetro del implante."
+  ],
+  "correct": "c",
+  "explanation": "Se usa para ganar volumen y transformar un biotipo fino en grueso, más predecible y con menos recesión; no para ganar hueso.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 29 de octubre · Implantes inmediatos en zona estética"
+  }
+ },
+ {
+  "text": "Tras colocar un implante inmediato junto a un premolar, el paciente nota dolor al tocar y masticar el diente vecino, pero no al frío. ¿Qué se sospecha?",
+  "options": [
+   "Lesión del ligamento periodontal del diente vecino por la fresa o el implante.",
+   "Una pulpitis reversible por sensibilidad al frío.",
+   "Fractura del implante.",
+   "Hipersensibilidad dentinaria normal que no requiere vigilancia."
+  ],
+  "correct": "a",
+  "explanation": "Se sospecha una lesión del ligamento periodontal del diente vecino por la fresa o el implante, que puede acabar en pérdida del diente o del implante.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 29 de octubre · Implantes inmediatos en zona estética"
+  }
+ },
+ {
+  "text": "Fresando con la fresa piloto en hueso blando, se nota un aumento súbito e inexplicable de la estabilidad primaria. ¿Qué es lo más prudente?",
+  "options": [
+   "Seguir adelante: es una buena noticia.",
+   "Sospechar que se toca el diente vecino: periapical con la fresa piloto y reorientar si procede.",
+   "Cambiar a un implante más ancho.",
+   "Terminar el fresado sin radiografía."
+  ],
+  "correct": "b",
+  "explanation": "Sospechar que se está fresando el diente vecino, hacer una periapical con la fresa piloto y reorientar si hace falta.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 29 de octubre · Implantes inmediatos en zona estética"
+  }
+ }
+]

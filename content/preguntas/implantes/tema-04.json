@@ -1,0 +1,482 @@
+[
+ {
+  "text": "¿Qué dos archivos se combinan (matching) en el flujo digital de planificación de implantes?",
+  "options": [
+   "Dos panorámicas tomadas en momentos distintos para compararlas.",
+   "El DICOM del CBCT, con el hueso, y el STL del escáner de superficie, con dientes y encía.",
+   "Un STL obtenido del CBCT y un DICOM obtenido del escáner intraoral.",
+   "Una fotografía clínica y un modelo de yeso sin escanear."
+  ],
+  "correct": "b",
+  "explanation": "El flujo digital combina el DICOM del CBCT (hueso) con el STL del escáner de superficie (dientes y encía) mediante el matching.",
+  "difficulty": "baja",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 8 de octubre · Planificación del tratamiento"
+  }
+ },
+ {
+  "text": "¿Por qué no cabe esperar una precisión del 100% entre el plan en el ordenador y el resultado en la boca?",
+  "options": [
+   "Porque el CBCT siempre distorsiona la imagen y no se puede corregir.",
+   "Porque el software de planificación es poco fiable y no debe usarse.",
+   "Porque la guía quirúrgica se fabrica siempre con un material que se deforma.",
+   "Porque hay dos pasos de transferencia (entrada de datos y salida con guía o navegación) y cada uno añade pequeños errores que se acumulan."
+  ],
+  "correct": "d",
+  "explanation": "No existe precisión del 100% porque hay varios pasos de transferencia, cada uno con un error pequeño que se acumula.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 8 de octubre · Planificación del tratamiento"
+  }
+ },
+ {
+  "text": "¿Qué es un vóxel?",
+  "options": [
+   "La unidad de volumen de una imagen tridimensional, equivalente tridimensional del píxel.",
+   "La unidad de área de una radiografía bidimensional.",
+   "Un formato de archivo para guardar escáneres de superficie.",
+   "La unidad de dosis efectiva de radiación recibida por el paciente."
+  ],
+  "correct": "a",
+  "explanation": "El vóxel es el elemento de volumen de la imagen 3D; el píxel es el elemento de área de la imagen 2D.",
+  "difficulty": "baja",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 8 de octubre · Planificación del tratamiento"
+  }
+ },
+ {
+  "text": "Tras entregar una prótesis sobre implantes, ¿qué utilidad tiene hacer una periapical estandarizada (paralelizada) ese día?",
+  "options": [
+   "Sustituye a la prótesis provisional mientras se fabrica la definitiva.",
+   "Permite planificar la posición de futuros implantes en la otra arcada.",
+   "Sirve como referencia del nivel óseo inicial para compararlo en los controles anuales y saber si el hueso marginal se está perdiendo.",
+   "Evita tener que realizar ningún otro control radiológico futuro."
+  ],
+  "correct": "c",
+  "explanation": "La periapical estandarizada al entregar la prótesis fija el nivel óseo de partida para comparar en las revisiones posteriores.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 8 de octubre · Planificación del tratamiento"
+  }
+ },
+ {
+  "text": "¿Por qué una periapical puede no mostrar una fractura que sí existe en un diente o en un implante?",
+  "options": [
+   "Porque la periapical tiene menos nitidez que la panorámica.",
+   "Porque utiliza una dosis demasiado alta que borra los detalles finos.",
+   "Porque solo permite ver tejidos blandos y no estructuras duras.",
+   "Porque la imagen es bidimensional y superpone planos: la línea de fractura solo se aprecia si el haz incide perpendicular a ella."
+  ],
+  "correct": "d",
+  "explanation": "Una fractura en una periapical solo se ve si la línea queda perpendicular al haz, por la superposición de planos de una imagen 2D.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 8 de octubre · Planificación del tratamiento"
+  }
+ },
+ {
+  "text": "Entregas una corona sobre implante que se atornilla sin problema, pero sospechas que la plataforma no ha asentado bien. ¿Qué prueba sencilla permite comprobarlo?",
+  "options": [
+   "Ninguna, porque si la corona atornilla es seguro que asienta bien.",
+   "Una periapical de control, que muestra el ajuste entre la corona o el pilar y el implante.",
+   "Un CBCT de ambas arcadas en todos los casos.",
+   "Una panorámica, porque ofrece más detalle que la periapical."
+  ],
+  "correct": "b",
+  "explanation": "La periapical de control permite ver el ajuste entre pilar o corona e implante y el nivel óseo marginal con muy poca radiación.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 8 de octubre · Planificación del tratamiento"
+  }
+ },
+ {
+  "text": "En una panorámica, entre la cresta y el conducto dentario inferior se miden 10 mm aparentes, que por la magnificación son 8 mm reales. Si se deja un margen de seguridad de 2 mm con el nervio, ¿qué longitud máxima de implante se puede colocar?",
+  "options": [
+   "10 mm",
+   "8 mm",
+   "6 mm",
+   "4 mm"
+  ],
+  "correct": "c",
+  "explanation": "Primero se corrige la magnificación (10 aparentes son 8 reales) y luego se restan 2 mm de margen: queda un implante de 6 mm como máximo.",
+  "difficulty": "alta",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 8 de octubre · Planificación del tratamiento"
+  }
+ },
+ {
+  "text": "¿Qué implica para el clínico que la panorámica magnifique la imagen en torno a un 20-25%?",
+  "options": [
+   "Que las medidas tomadas directamente en la imagen sobrestiman la realidad y hay que corregirlas antes de elegir la longitud del implante.",
+   "Que las estructuras parecen más pequeñas de lo que son y se debe compensar sumando.",
+   "Que la imagen solo sirve para el maxilar y nunca para la mandíbula.",
+   "Que no hay que tenerla en cuenta si la panorámica es digital."
+  ],
+  "correct": "a",
+  "explanation": "La panorámica magnifica la imagen, de modo que las medidas directas sobrestiman la realidad y hay que corregirlas.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 8 de octubre · Planificación del tratamiento"
+  }
+ },
+ {
+  "text": "Una panorámica muestra altura aparentemente suficiente en una zona edéntula posterior. ¿Qué falta valorar antes de prometer implantes al paciente?",
+  "options": [
+   "Nada más, porque la altura es el único dato que condiciona colocar implantes.",
+   "El color de las encías, que es lo que define la viabilidad del hueso.",
+   "El número de implantes del fabricante, que determina el diagnóstico.",
+   "La anchura del hueso con un CBCT, porque la reabsorción suele afectar primero a la anchura."
+  ],
+  "correct": "d",
+  "explanation": "La panorámica no muestra la anchura del hueso, que suele reabsorberse antes que la altura, así que hace falta CBCT.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 8 de octubre · Planificación del tratamiento"
+  }
+ },
+ {
+  "text": "Falta un molar inferior y el diente antagonista superior está muy extruido. ¿Qué implica para el plan?",
+  "options": [
+   "Que probablemente no hay espacio protésico y el plan debe considerar también la arcada antagonista.",
+   "Que se puede colocar el implante sin más porque el espacio siempre es suficiente.",
+   "Que el antagonista no influye y solo cuenta la altura de hueso inferior.",
+   "Que hay que abandonar cualquier tratamiento con implantes en ese paciente."
+  ],
+  "correct": "a",
+  "explanation": "Un antagonista muy extruido reduce el espacio protésico, por lo que el plan debe incluir la arcada antagonista.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 8 de octubre · Planificación del tratamiento"
+  }
+ },
+ {
+  "text": "Durante la planificación detectas varios problemas evidentes (falta de hueso, antagonista extruido). El paciente solo quiere colocar un implante. ¿Cuál es la conducta adecuada?",
+  "options": [
+   "Callar los problemas y plantear el tratamiento más sencillo para no asustarle.",
+   "Informarle desde el primer día de todo lo que necesita el tratamiento y, si decide hacer solo una parte, dejar por escrito su decisión firmada.",
+   "Realizar el plan completo sin consultarle y cobrar el total.",
+   "Esperar a abrir el hueso en la cirugía para decidir qué hacer."
+  ],
+  "correct": "b",
+  "explanation": "Hay que informar de todo desde el principio y, si el paciente limita el tratamiento, dejarlo firmado en su historia.",
+  "difficulty": "alta",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 8 de octubre · Planificación del tratamiento"
+  }
+ },
+ {
+  "text": "¿Qué característica distingue al CBCT de la radiografía bidimensional en la planificación?",
+  "options": [
+   "Ofrece una relación uno a uno, sin la distorsión de la panorámica, y es especialmente útil para tejidos duros.",
+   "Presenta la misma magnificación que la panorámica.",
+   "Es mejor que cualquier otra prueba para los tejidos blandos.",
+   "Solo capta un plano, igual que la periapical."
+  ],
+  "correct": "a",
+  "explanation": "El CBCT tiene relación 1:1, sin distorsión, y es especialmente útil para evaluar el hueso.",
+  "difficulty": "baja",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 8 de octubre · Planificación del tratamiento"
+  }
+ },
+ {
+  "text": "¿Qué diferencia técnica hay entre un TC convencional y un CBCT?",
+  "options": [
+   "El CBCT hace cortes sucesivos y el TC un solo disparo cónico.",
+   "El CBCT necesita mayor dosis que el TC convencional.",
+   "El TC va tomando cortes y el equipo interpola lo que hay entre ellos; el CBCT hace un disparo en forma de cono y recoge datos de todo el volumen, con menos tiempo y dosis.",
+   "No hay ninguna diferencia técnica: son nombres distintos de la misma prueba."
+  ],
+  "correct": "c",
+  "explanation": "El TC convencional capta por cortes e interpola; el CBCT hace un disparo cónico, con menos tiempo y menos dosis.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 8 de octubre · Planificación del tratamiento"
+  }
+ },
+ {
+  "text": "Vas a planificar implantes cigomáticos pero tu equipo tiene un FOV pequeño, que solo abarca la mandíbula. ¿Qué problema aparece?",
+  "options": [
+   "Ninguno, porque el software completa la zona que falta.",
+   "El FOV no abarca toda la zona a planificar; habría que hacer varios escáneres, lo que impide trabajar sobre un único modelo.",
+   "La imagen sale demasiado grande y se debe reducir.",
+   "Solo se pierde calidad de color, sin consecuencias clínicas."
+  ],
+  "correct": "b",
+  "explanation": "El FOV debe cubrir toda la zona planificada; si no, no se puede trabajar sobre un único modelo.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 8 de octubre · Planificación del tratamiento"
+  }
+ },
+ {
+  "text": "¿Por qué conviene pedir el archivo DICOM y manejar el visor uno mismo en lugar de limitarse a unas imágenes impresas?",
+  "options": [
+   "Porque las imágenes impresas son siempre más caras.",
+   "Porque el visor evita tener que planificar la prótesis.",
+   "Porque así se elimina por completo la radiación al paciente.",
+   "Porque con el visor se eligen los cortes, se hacen cortes transversales y panorámicas en la zona deseada y se miden distancias y ángulos."
+  ],
+  "correct": "d",
+  "explanation": "El archivo DICOM y un visor propio permiten elegir cortes, crear panorámicas reconstruidas y medir con precisión.",
+  "difficulty": "baja",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 8 de octubre · Planificación del tratamiento"
+  }
+ },
+ {
+  "text": "¿Cuál de estos elementos NO forma parte de la lista de comprobación de la planificación en el CBCT?",
+  "options": [
+   "El color y la forma de la futura corona elegida en el laboratorio.",
+   "La altura y la anchura del hueso disponible.",
+   "Las estructuras de riesgo y la calidad ósea.",
+   "El eje protésico respecto al eje del implante."
+  ],
+  "correct": "a",
+  "explanation": "La lista incluye altura, anchura, estructuras de riesgo, calidad ósea, patología y eje protésico; no el color de la corona.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 8 de octubre · Planificación del tratamiento"
+  }
+ },
+ {
+  "text": "¿Qué distancia se recomienda dejar entre un implante y el diente vecino, según la clase?",
+  "options": [
+   "0,5 mm",
+   "0 mm, es decir, implante y diente en contacto",
+   "1,5 mm",
+   "4 mm"
+  ],
+  "correct": "c",
+  "explanation": "El margen entre implante y diente vecino es de unos 1,5 mm.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 8 de octubre · Planificación del tratamiento"
+  }
+ },
+ {
+  "text": "¿Qué significa el criterio ALARA en radiología?",
+  "options": [
+   "Que se debe aplicar siempre la dosis máxima para no repetir pruebas.",
+   "Que la dosis debe ser tan baja como sea razonablemente posible, siempre que la imagen siga siendo útil para el diagnóstico.",
+   "Que no se debe hacer ninguna prueba de imagen en el paciente.",
+   "Que la dosis se elige por motivos económicos del centro."
+  ],
+  "correct": "b",
+  "explanation": "ALARA: dosis tan baja como sea razonable, compatible con una imagen diagnóstica útil.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 8 de octubre · Planificación del tratamiento"
+  }
+ },
+ {
+  "text": "¿En qué situación NO se debe pedir un TC?",
+  "options": [
+   "Cuando el resultado no va a cambiar la decisión terapéutica.",
+   "Cuando hay una indicación clara y la zona es compleja.",
+   "Cuando se necesita ver la anchura del hueso para planificar.",
+   "Cuando hay que planificar un implante cigomático."
+  ],
+  "correct": "a",
+  "explanation": "El TC no se pide si su resultado no cambia la decisión terapéutica; no existe la indicación sistemática.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 8 de octubre · Planificación del tratamiento"
+  }
+ },
+ {
+  "text": "¿Por qué el matching es más difícil en un paciente totalmente edéntulo?",
+  "options": [
+   "Porque el CBCT no puede captar el hueso de un edéntulo.",
+   "Porque los dientes producen demasiada distorsión y hay que quitarlos.",
+   "Porque el escáner intraoral no funciona en pacientes edéntulos.",
+   "Porque la mucosa se mueve y no es una referencia fiable; hacen falta referencias fijas, como un trazador."
+  ],
+  "correct": "d",
+  "explanation": "En un edéntulo falta una referencia rígida porque la mucosa se mueve; hay que añadir marcadores o un trazador.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 8 de octubre · Planificación del tratamiento"
+  }
+ },
+ {
+  "text": "Un paciente conserva casi todos sus dientes y solo le faltan dos. ¿Por qué el matching resulta sencillo?",
+  "options": [
+   "Porque el STL se extrae del CBCT y no hace falta superponer nada.",
+   "Porque la mucosa es una referencia muy estable.",
+   "Porque los dientes son muy densos y se reconocen con claridad tanto en el CBCT como en el escáner intraoral, y sirven de referencia común.",
+   "Porque no se necesita ningún escáner intraoral con pacientes dentados."
+  ],
+  "correct": "c",
+  "explanation": "Con dientes, el matching es fácil porque son muy densos y aparecen en ambos archivos.",
+  "difficulty": "baja",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 8 de octubre · Planificación del tratamiento"
+  }
+ },
+ {
+  "text": "Una empresa externa te envía un plan completo y te pide que firmes que estás de acuerdo, pero no sabes revisarlo. ¿Qué implica firmarlo?",
+  "options": [
+   "Nada, porque la responsabilidad pasa a la empresa que diseñó el plan.",
+   "Que el software se hace responsable de cualquier error.",
+   "Que ya no es necesario revisar el CBCT.",
+   "Firmar a ciegas: se puede delegar el trabajo, pero la responsabilidad última sigue siendo del clínico."
+  ],
+  "correct": "d",
+  "explanation": "Se puede delegar el diseño, pero no la responsabilidad: firmar sin revisar es firmar a ciegas.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 8 de octubre · Planificación del tratamiento"
+  }
+ },
+ {
+  "text": "¿Cuál es la función de cada tipo de férula en el flujo de planificación?",
+  "options": [
+   "La radiológica se usa en cirugía y la quirúrgica en la radiografía.",
+   "La radiológica lleva la prótesis (la posición de los dientes) al CBCT; la quirúrgica lleva el implante planificado a la boca.",
+   "Las dos tienen exactamente la misma función.",
+   "La radiológica sirve solo para sustituir el consentimiento informado."
+  ],
+  "correct": "b",
+  "explanation": "La férula radiológica lleva la prótesis al CBCT y la quirúrgica lleva el implante a la boca.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 8 de octubre · Planificación del tratamiento"
+  }
+ },
+ {
+  "text": "En un paciente edéntulo, ¿por qué un soporte exclusivamente mucoso es el menos recomendable para una férula?",
+  "options": [
+   "Porque la mucosa se mueve y la férula pierde estabilidad y precisión.",
+   "Porque la mucosa es demasiado dura y la férula no encaja.",
+   "Porque la mucosa se esteriliza peor que el hueso.",
+   "Porque solo se puede usar con pacientes dentados."
+  ],
+  "correct": "a",
+  "explanation": "El soporte mucoso es el menos fiable porque la mucosa se mueve, lo que resta estabilidad a la férula.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 8 de octubre · Planificación del tratamiento"
+  }
+ },
+ {
+  "text": "¿Cuál de estas afirmaciones sobre las férulas es correcta?",
+  "options": [
+   "Las dos deben ser estériles y transparentes a los rayos.",
+   "La radiológica debe ser estéril y la quirúrgica solo limpia.",
+   "La férula quirúrgica debe estar estéril, mientras que la radiológica basta con que esté limpia y sea radiopaca.",
+   "Ninguna debe ser rígida, para adaptarse a la boca."
+  ],
+  "correct": "c",
+  "explanation": "La férula quirúrgica debe estar estéril; la radiológica debe ser radiopaca y estar limpia.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 8 de octubre · Planificación del tratamiento"
+  }
+ },
+ {
+  "text": "En cirugía guiada, ¿qué caracteriza al grado «piloto»?",
+  "options": [
+   "La guía se utiliza para colocar el implante completo.",
+   "Solo se utiliza la guía para pasar la fresa piloto y marcar el punto de entrada; el resto de la cirugía se hace libre.",
+   "La guía se utiliza para todo el fresado y se retira para el implante.",
+   "No se utiliza ninguna guía y se opera a mano alzada."
+  ],
+  "correct": "b",
+  "explanation": "En el guiado piloto la guía solo se usa para la fresa piloto; el resto se hace sin guía.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 8 de octubre · Planificación del tratamiento"
+  }
+ },
+ {
+  "text": "Se completa toda la secuencia de fresado a través de la guía y después se retira para colocar el implante a mano. ¿Qué grado de guiado es?",
+  "options": [
+   "Piloto.",
+   "Total.",
+   "Navegado.",
+   "Parcial."
+  ],
+  "correct": "d",
+  "explanation": "El guiado parcial completa el fresado con guía y coloca el implante sin ella.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 8 de octubre · Planificación del tratamiento"
+  }
+ },
+ {
+  "text": "Durante una cirugía guiada no se consigue estabilidad primaria en un implante y hay que moverlo a otra posición. ¿Qué ocurre?",
+  "options": [
+   "La guía solo tiene el agujero planificado, así que hay que retirarla y continuar sin ella; por eso hay que saber operar sin guía.",
+   "La guía se adapta sola a la nueva posición.",
+   "El software corrige la posición automáticamente durante la cirugía.",
+   "No ocurre nada, porque el TAC garantiza la estabilidad primaria."
+  ],
+  "correct": "a",
+  "explanation": "La guía no permite corregir en cirugía: hay que retirarla y operar a mano, por lo que hay que dominar la cirugía convencional.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 8 de octubre · Planificación del tratamiento"
+  }
+ },
+ {
+  "text": "Si un implante debe quedar a 1,5 mm de un diente y la guía tiene un error de entrada de en torno a 1,2 mm, ¿qué ocurre con el margen de seguridad?",
+  "options": [
+   "Que aumenta, porque la guía lo amplía.",
+   "Que no se ve afectado.",
+   "Que se consume casi por completo, de modo que no conviene apurar el diseño.",
+   "Que se vuelve negativo con certeza en todos los casos."
+  ],
+  "correct": "c",
+  "explanation": "Con un error de entrada de unos 1,2 mm, un margen de 1,5 mm casi desaparece; no conviene apurar el diseño.",
+  "difficulty": "alta",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 8 de octubre · Planificación del tratamiento"
+  }
+ },
+ {
+  "text": "¿Qué diferencia a la navegación quirúrgica de la cirugía guiada con férula?",
+  "options": [
+   "Exige una guía todavía más rígida que la quirúrgica.",
+   "Se hace sin ninguna planificación previa en el ordenador.",
+   "Solo se utiliza en pacientes dentados con dientes completos.",
+   "No se fabrica guía: un sistema localiza el maxilar y la fresa en tiempo real y permite replanificar en el software si no se consigue estabilidad."
+  ],
+  "correct": "d",
+  "explanation": "La navegación no usa guía fabricada: sigue la fresa en tiempo real y permite replanificar en el software.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 8 de octubre · Planificación del tratamiento"
+  }
+ }
+]

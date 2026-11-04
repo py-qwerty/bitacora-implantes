@@ -1,0 +1,805 @@
+{
+ "course": "implantes",
+ "number": 5,
+ "title": "Anatomía aplicada a la implantología",
+ "minutes": 35,
+ "intro": {
+  "why": "La mayoría de las complicaciones graves en cirugía de implantes no vienen del implante, sino de **no saber qué hay detrás del hueso**: un nervio, un vaso, un seno, una cortical fina. Este tema te da el mapa anatómico del maxilar y la mandíbula, te enseña cómo cambia con la edad y la pérdida dentaria, y te muestra cómo esa información decide dónde, cómo y si se puede colocar un implante.",
+  "before": [
+   "Los **maxilares** son los huesos que sostienen los dientes: el superior (maxilar) es fijo y la mandíbula es el único hueso móvil de la cara.",
+   "El **seno maxilar** es una cavidad llena de aire situada sobre las raíces de los dientes superiores posteriores.",
+   "Un **TAC** (tomografía) es una imagen en tres dimensiones que muestra el hueso y las estructuras por dentro, a diferencia de una radiografía plana."
+  ],
+  "goals": [
+   "Localizar las estructuras de riesgo por sectores del maxilar y de la mandíbula.",
+   "Prever las complicaciones de la cirugía y cómo evitarlas.",
+   "Explicar cómo cambia el hueso con la edad y la pérdida dentaria.",
+   "Relacionar la calidad ósea con el fresado y la tasa de éxito.",
+   "Decidir cuándo hay que regenerar o intervenir el seno antes de implantar."
+  ]
+ },
+ "sections": [
+  {
+   "id": "por-que-anatomia",
+   "title": "Por qué la anatomía decide el resultado",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Antes de colocar un solo implante hay que saber **dónde estás pisando**. La clase insistió en que el implantólogo trabaja sobre los maxilares, pero necesita una base sólida de anatomía de **cabeza y cuello**: no para recitarla, sino para saber **hasta dónde puede llegar, qué riesgo asume y qué riesgo puede evitar**."
+    },
+    {
+     "type": "analogy",
+     "text": "Colocar un implante sin conocer la anatomía es como taladrar una pared sin saber por dónde pasan las tuberías y los cables. Quizá no pase nada, pero si pasa, el daño es grave y difícil de reparar. El plano del edificio, en tu caso, es el TAC más tu conocimiento anatómico."
+    },
+    {
+     "type": "list",
+     "items": [
+      "**Anestesia**: en una técnica troncular se inyecta tras tocar hueso y se **aspira** antes de soltar el anestésico para comprobar que no se está dentro de un vaso. Se puede rozar el nervio en lugar de anestesiarlo si no se conoce la zona.",
+      "**Incisiones de descarga**: no se hacen en cualquier sitio. Si por esa zona pasa una arteria, una vena o un nervio, la descarga se mueve. Ejemplo de la clase: en la zona de los premolares inferiores, la descarga vestibular puede quedar justo sobre el **nervio mentoniano**.",
+      "**Inserción del implante**: hay que saber cuántos milímetros de hueso quedan hasta el nervio o el seno y elegir longitud y técnica en consecuencia.",
+      "**Regeneración ósea guiada**: se rellena un defecto con hueso (existen muchos tipos de injerto) y se cubre con una **membrana** que separa el hueso del tejido blando."
+     ]
+    },
+    {
+     "type": "term",
+     "term": "Regeneración ósea guiada (ROG)",
+     "text": "Técnica que combina un material de injerto óseo con una membrana. La membrana impide que el tejido blando invada el defecto, de modo que en esa zona se forme hueso y no una mezcla de hueso y tejido blando sin consistencia."
+    },
+    {
+     "type": "example",
+     "text": "Si hay 4 mm de hueso hasta el seno y se quiere un implante de 6 mm, ese implante no cabe sin más: o se elige otro, o se **eleva el seno y se coloca hueso**. Con solo 2 mm de hueso y el seno encima, un implante colocado a ciegas puede acabar dentro del seno."
+    },
+    {
+     "type": "key",
+     "text": "Conocer la anatomía no es memorizar nombres: es poder decidir dónde se corta, dónde se anestesia y hasta dónde se fresa."
+    }
+   ]
+  },
+  {
+   "id": "huesos-zonas",
+   "title": "Huesos y zonas donde se colocan los implantes",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "El **cráneo** tiene 8 huesos (frontal, esfenoides, occipital, etmoides, dos parietales y dos temporales) y la **cara** 14 (entre ellos maxilares, palatinos, nasales, cigomáticos, vómer y mandíbula). La clase pidió conocerlos principalmente a nivel de lo que afecta al maxilar y la mandíbula, sin entrar en detalle de cada uno."
+    },
+    {
+     "type": "p",
+     "text": "La **mandíbula** es un hueso **impar y simétrico**, forma parte del macizo facial inferior y es el **único hueso móvil**. Se articula con el hueso temporal mediante la apófisis condilar."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Arcada",
+      "Dónde se pueden colocar implantes",
+      "Límites a vigilar"
+     ],
+     "rows": [
+      [
+       "Superior",
+       "Hueso **maxilar** (lo más habitual), **cigomático** y **palatino**",
+       "Senos maxilares, fosas nasales, tuberosidad, fosas infratemporal y pterigopalatina"
+      ],
+      [
+       "Inferior",
+       "**Mandíbula**",
+       "Conducto dentario inferior, agujero mentoniano y base mandibular"
+      ]
+     ]
+    },
+    {
+     "type": "term",
+     "term": "Implantes cigomáticos",
+     "text": "Implantes largos que se anclan en el hueso cigomático. Se reservan para **atrofias severas** del maxilar, cuando no queda hueso utilizable en las zonas habituales. Como llegan muy atrás, exigen tener presentes las estructuras de esa región y tienen más riesgo que un implante convencional."
+    },
+    {
+     "type": "p",
+     "text": "Un implante convencional se coloca casi siempre en el **hueso maxilar**; los cigomáticos son una solución de casos extremos que se estudia por separado."
+    },
+    {
+     "type": "key",
+     "text": "Maxilar: implante en hueso maxilar (habitual), cigomático (atrofia severa) o palatino. Mandíbula: límites en el nervio dentario inferior, el mentoniano y la base mandibular."
+    }
+   ]
+  },
+  {
+   "id": "maxilar-sectores",
+   "title": "Mapa anatómico del maxilar por sectores",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "La clase recorrió el maxilar de delante hacia atrás. Para cada sector hay una estructura que condiciona el fresado, el despegado del colgajo o la anestesia."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Sector",
+      "Estructura anatómica",
+      "Por qué importa"
+     ],
+     "rows": [
+      [
+       "Incisivo",
+       "Fosita mirtiforme (concavidad bajo la apertura piriforme) y suelo nasal",
+       "Fresar un incisivo central sin controlar angulación y profundidad aumenta el riesgo de **perforar la tabla vestibular**. Si falta hueso, el suelo nasal también se puede elevar, aunque no es habitual"
+      ],
+      [
+       "Canino",
+       "Eminencia canina y agujero infraorbitario",
+       "La pared vestibular del canino es **fina** aunque el diente sea potente; hay riesgo de fracturarla al extraer"
+      ],
+      [
+       "Paladar posterior",
+       "Agujero palatino mayor",
+       "Por él salen el **nervio y la arteria palatina mayor**: cuidado con descargas y despegado"
+      ],
+      [
+       "Posterior",
+       "Senos maxilares y tuberosidad",
+       "Límite superior para los implantes; la tuberosidad se debe proteger al extraer"
+      ]
+     ]
+    },
+    {
+     "type": "term",
+     "term": "Agujero infraorbitario",
+     "text": "Orificio por debajo del reborde de la órbita, situado, según se comentó, a unos **6-10 mm del reborde orbitario inferior**. Se puede localizar a la palpación y anestesiar directamente desde él, incluso para colocar implantes en pacientes con miedo a la cirugía."
+    },
+    {
+     "type": "list",
+     "items": [
+      "**Extracción de un canino**: si en el TAC la tabla vestibular es fina, despega muy bien por vestibular antes de luxar. El diente es muy fuerte y, si no se separa bien, puede arrastrar la cortical. A veces es inevitable, pero se intenta evitar.",
+      "**Extracción de un 8 superior**: introduce el botador por **distal** y despega bien antes de luxar para no llevarte la **tuberosidad**, que es la parte posterior del hueso y a veces forma parte del suelo del seno. La tuberosidad, además, puede servir como fuente de hueso o de tejido conectivo."
+     ]
+    },
+    {
+     "type": "exam",
+     "text": "La clase avisó de que no hace falta memorizar todas las cifras anatómicas. Lo que sí hay que saber es **qué estructura aparece en cada sector y qué riesgo implica**."
+    }
+   ]
+  },
+  {
+   "id": "mandibula",
+   "title": "Mapa anatómico de la mandíbula",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "En la mandíbula las estructuras de riesgo son sobre todo **nerviosas**. La clase las repasó por zonas:"
+    },
+    {
+     "type": "list",
+     "items": [
+      "**Cuerpo mandibular**: contiene el **conducto del nervio dentario inferior**.",
+      "**Posterior lingual**: fosa submandibular y **nervio lingual**.",
+      "**Zona de premolares**: **agujero mentoniano**, por donde sale el nervio mentoniano.",
+      "**Sínfisis**: apófisis geni y **arteria sublingual**. En principio no son estructuras críticas para un implante, pero hay que recordarlas si se trabaja mucho en esa zona o en cordales."
+     ]
+    },
+    {
+     "type": "term",
+     "term": "Bucle del nervio mentoniano",
+     "text": "Trayecto en el que el nervio mentoniano, antes de salir por el agujero, forma un lazo. Por eso no basta con ver el agujero en la imagen: el nervio puede quedar **algo más arriba (superior)** que el agujero, y esto se aprecia al levantar el colgajo."
+    },
+    {
+     "type": "example",
+     "text": "Al hacer la incisión y levantar el colgajo en la zona de premolares inferiores puede asomar tejido nervioso por encima del agujero. Si el plan es un implante en esa zona, hay que dejar un margen por delante y por encima del agujero y evitar la descarga en ese punto."
+    },
+    {
+     "type": "p",
+     "text": "**Base mandibular.** En mandíbulas muy atróficas, de pacientes que llevan muchos años sin dientes, solo queda hueso **basal**, muy cortical y con **muy poca irrigación**. Conseguir una buena integración es muy difícil, y además la prótesis acaba apoyándose en el nervio y molestando."
+    },
+    {
+     "type": "p",
+     "text": "**Anestesia cerca del nervio.** Cuando se trabaja cerca del conducto o del bucle, una anestesia **infiltrativa** en lugar de una troncular deja la sensibilidad del nervio, de modo que el paciente puede avisar si el fresado se acerca. Con una troncular el nervio está dormido y esa alarma desaparece."
+    }
+   ]
+  },
+  {
+   "id": "complicaciones",
+   "title": "Complicaciones por no respetar la anatomía",
+   "blocks": [
+    {
+     "type": "list",
+     "items": [
+      "**Hemorragias y sangrados**, si se lesiona un vaso.",
+      "**Lesión nerviosa**, que puede ser **temporal o definitiva**.",
+      "**Perforación de cavidades** (seno maxilar, fosas nasales) y **desplazamiento** del implante a ellas.",
+      "**Fractura mandibular**: es más frecuente al extraer un cordal inferior con un quiste grande no diagnosticado que con implantes."
+     ]
+    },
+    {
+     "type": "p",
+     "text": "**Lesión nerviosa.** Lo habitual es esperar que sea **temporal**. A veces el paciente pierde sensibilidad aunque no se haya tocado el nervio, solo por la **inflamación** al estar cerca. Si se coloca un implante, hay pérdida de sensibilidad y se sospecha invasión, retirarlo en el momento puede permitir la recuperación si el nervio solo está **aplastado**. No es lo mismo aplastar un nervio que triturarlo con la fresa."
+    },
+    {
+     "type": "analogy",
+     "text": "Aplastar un nervio es como pisar una manguera: al soltarla, el agua vuelve a pasar. Triturarlo con la fresa es como cortar la manguera: ahí la recuperación es mucho más difícil."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Maxilar",
+      "Mandíbula"
+     ],
+     "rows": [
+      [
+       "Las complicaciones mayores se dirigen hacia **cavidades** (senos, fosas nasales)",
+       "Las complicaciones mayores se dirigen hacia el **nervio, el suelo de boca y la vía aérea**"
+      ]
+     ]
+    },
+    {
+     "type": "p",
+     "text": "La clase lo resumió así: las dos zonas tienen riesgos y ninguna es mejor; hay que evitar ambos."
+    },
+    {
+     "type": "key",
+     "text": "Si al fresar en mandíbula posterior se perfora la **cortical lingual**, la sangre puede infiltrar el suelo de la boca y comprometer la vía aérea: es una complicación grave."
+    }
+   ]
+  },
+  {
+   "id": "reabsorcion",
+   "title": "Reabsorción ósea por la edad y la pérdida dentaria",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "El hueso alveolar existe para sostener los dientes. Si los dientes se pierden, **el hueso se reabsorbe**: no es lo mismo quien lleva 20 años con una prótesis completa que quien conserva casi todos los dientes. La reabsorción es **vertical y horizontal**, y deja rebordes en forma de **cresta**, sin la meseta ancha que se necesita para un implante. Por eso a veces se recurre a técnicas como la expansión ósea en la zona anterior."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Aspecto",
+      "Maxilar",
+      "Mandíbula"
+     ],
+     "rows": [
+      [
+       "Dirección de la reabsorción",
+       "**Centrípeta** (hacia el centro)",
+       "**Centrífuga** (hacia fuera)"
+      ],
+      [
+       "Consecuencia",
+       "La premaxila se remodela antes que la cortical palatina y queda como un **filo de cuchillo**. En el sector molar hay reabsorción vertical y **neumatización** del seno",
+       "La arcada se **ensancha** por detrás. Hay que cuidar la angulación para no **perforar la cortical lingual**"
+      ]
+     ]
+    },
+    {
+     "type": "term",
+     "term": "Neumatización del seno",
+     "text": "Descenso del seno maxilar hacia el espacio que ocupaba el diente. Aparece sobre todo tras **extraer dientes**: el hueso del alvéolo se pierde y el seno baja a ocupar ese lugar."
+    },
+    {
+     "type": "p",
+     "text": "En mandíbulas atróficas el **agujero mentoniano** y el **conducto dentario inferior** quedan más superficiales, más cerca de la cresta, lo que reduce el margen de seguridad."
+    },
+    {
+     "type": "p",
+     "text": "**Irrigación.** Con la edad el flujo sanguíneo disminuye y el hueso recibe menos aporte, de modo que cuesta más formar hueso nuevo y la cicatrización es más lenta."
+    },
+    {
+     "type": "exam",
+     "text": "Para mandíbula y zonas de riesgo, la clase insistió en el **TAC**: una cresta que parece ancha en una radiografía plana puede ser estrecha por dentro. Hoy se pueden hacer TAC **sectoriales**, sin irradiar toda la mandíbula. Además, a nivel legal, ante un problema es muy recomendable disponer de TAC."
+    }
+   ]
+  },
+  {
+   "id": "calidad-osea",
+   "title": "Calidad del hueso y tasa de éxito",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "La clase repasó la clasificación de la calidad ósea en **cuatro tipos** (D1-D4, de Misch), según la proporción de hueso cortical y esponjoso."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Tipo",
+      "Características",
+      "Implicación al implantar"
+     ],
+     "rows": [
+      [
+       "D1",
+       "Casi todo **cortical**, muy denso, con muy poco esponjoso",
+       "Fresado costoso y **menos vascularización**"
+      ],
+      [
+       "D2",
+       "Cortical gruesa y esponjoso denso (cerca de la mitad cada uno)",
+       "Buen anclaje"
+      ],
+      [
+       "D3",
+       "Cortical fina y esponjoso bastante abierto",
+       "Menos densidad"
+      ],
+      [
+       "D4",
+       "Casi todo hueso **trabecular**, poroso, como un panal",
+       "Se deshace con las fresas y el implante puede no agarrar"
+      ]
+     ]
+    },
+    {
+     "type": "term",
+     "term": "Hueso trabecular",
+     "text": "Parte interna del hueso esponjoso, formada por finas trabéculas. Cuanto más espaciadas y menos densas, peor retiene el implante."
+    },
+    {
+     "type": "example",
+     "text": "En un hueso D4, si se pasa toda la secuencia de fresas hasta el diámetro del implante, el lecho queda demasiado ancho y el implante no agarra. Como criterio general se **infrafresa**: se queda una fresa por debajo del implante, para que este se ancle. Cada casa de implantes tiene su protocolo."
+    },
+    {
+     "type": "p",
+     "text": "Si el hueso es blando, conviene **anclar el implante en las corticales**. Un anclaje **bicortical** (el implante llega a las dos corticales) da más retención. La **estabilidad primaria** (agarre en el momento de colocar) es clave; como referencia en la clase se citó un valor ideal en torno a **40 Ncm**."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Zona",
+      "Densidad y carga",
+      "Resultado"
+     ],
+     "rows": [
+      [
+       "Sínfisis mandibular",
+       "Hueso más denso y menos carga (zona anterior)",
+       "**Mayor** tasa de éxito"
+      ],
+      [
+       "Premaxila",
+       "Intermedia",
+       "Intermedia"
+      ],
+      [
+       "Maxilar posterior",
+       "Hueso menos denso y **más carga** (molares)",
+       "**Mayor** tasa de fracaso"
+      ]
+     ]
+    },
+    {
+     "type": "key",
+     "text": "Peor calidad ósea y más carga en la misma zona suman: maxilar posterior es lo más delicado y la sínfisis mandibular lo más favorable."
+    }
+   ]
+  },
+  {
+   "id": "postextraccion",
+   "title": "Implante inmediato tras la extracción y el espacio residual",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Lo habitual es extraer, esperar unos **tres meses** a que el hueso regenere y entonces colocar el implante. La alternativa es el **implante postextracción**: se quita el diente y se coloca el implante en la misma sesión. No sirve para todos los dientes: un incisivo lateral con una sola raíz es un buen candidato; un molar con varias raíces exige más hueso."
+    },
+    {
+     "type": "p",
+     "text": "**La posición la decide la prótesis.** No se trata de poner el implante donde haya hueso. La futura oclusión y la salida de la prótesis marcan la posición. En un incisivo superior, el implante suele situarse **más hacia palatino**, con la cabeza hacia el cíngulo, aprovechando el hueso palatino y apical para que agarre."
+    },
+    {
+     "type": "term",
+     "term": "Gap (espacio residual)",
+     "text": "Hueco entre la superficie del implante y la pared del alvéolo tras colocar un implante inmediato."
+    },
+    {
+     "type": "list",
+     "items": [
+      "Si el gap es **menor de unos 2 mm**, el **coágulo** que se forma sirve de andamio y el hueso se regenera solo: no hace falta rellenar.",
+      "Si es **mayor de unos 2 mm**, hay que **regenerar** (colocar hueso o injerto) para que el implante quede bien sujeto.",
+      "Es una cirugía muy habitual: extracción, regeneración y colocación del implante en la misma sesión.",
+      "Si no hay hueso suficiente, se extrae, se regenera y se coloca el implante meses después (en torno a seis)."
+     ]
+    },
+    {
+     "type": "p",
+     "text": "Los 2 mm son un **valor aproximado**: se estiman en el TAC y no se exigen con precisión milimétrica."
+    }
+   ]
+  },
+  {
+   "id": "seno-maxilar",
+   "title": "El seno maxilar y sus complicaciones",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "El seno es la gran estructura de riesgo del maxilar posterior. La clase insistió en que no hay que memorizar todas sus dimensiones (se citaron alturas de unos 35-45 mm y un volumen variable de una persona a otra), sino entender **qué es y qué vigilar**."
+    },
+    {
+     "type": "term",
+     "term": "Membrana de Schneider",
+     "text": "Mucosa que recubre el seno por dentro. Es un epitelio **cilíndrico pseudoestratificado ciliado**, muy fina (aproximadamente **0,3-0,8 mm**). En la **elevación de seno** es justo lo que se levanta para ganar altura de hueso."
+    },
+    {
+     "type": "list",
+     "items": [
+      "En una panorámica, la membrana sana apenas se ve (como un hilo). Si aparece **engrosada de 2-3 mm o más**, hay que preguntarse por qué.",
+      "El engrosamiento puede deberse a una **infección del diente** vecino (sinusitis odontógena) o a otras causas (por ejemplo, un resfriado mal resuelto). A veces conviene consultar con **otorrino**.",
+      "Si hay sinusitis odontógena, se **trata la causa** (el diente, con extracción o tratamiento) y antibióticos. En muchos casos se drena por el propio alvéolo.",
+      "Antes de una elevación de seno hay que **resolver la sinusitis**; si se intenta elevar una mucosa enferma, es fácil que se perfore."
+     ]
+    },
+    {
+     "type": "term",
+     "term": "Septos de Underwood",
+     "text": "Tabiques óseos verticales que **compartimentan** el seno. Hay pacientes que los tienen y otros no. Con septos puede hacer falta elevar a cada lado del tabique, y es **más fácil que la membrana se rasgue**."
+    },
+    {
+     "type": "p",
+     "text": "**Pansinusitis.** El prefijo *pan-* significa «todo»: infección que afecta a todos los senos. Una infección odontógena que no se controla puede extenderse por los espacios hasta afectar al ojo o llegar al cerebro. Es raro, pero grave: una infección que no se controla (supura, edema) hay que tratarla y drenarla a tiempo."
+    },
+    {
+     "type": "example",
+     "text": "Un implante colocado con solo 2 mm de hueso bajo el seno y mal agarrado puede ser absorbido por el seno. Si ocurre, hay que **abrir, limpiar y retirar** el implante; después se valora el tratamiento posterior."
+    },
+    {
+     "type": "p",
+     "text": "**Antes de actuar en el seno**, se usa un **TCB/TAC** para ver dónde está la **arteria**, los **septos** y la **membrana**."
+    },
+    {
+     "type": "key",
+     "text": "Seno sano: membrana fina. Seno con membrana engrosada o diente infectado: primero se resuelve la causa, luego se eleva."
+    }
+   ]
+  }
+ ],
+ "summary": [
+  "La anatomía permite saber hasta dónde se puede llegar: condiciona la anestesia, las descargas, la inserción del implante y la regeneración ósea.",
+  "Maxilar: fosita bajo la apertura piriforme, eminencia canina, agujero infraorbitario, agujero palatino mayor, tuberosidad y senos. Mandíbula: conducto dentario inferior, agujero mentoniano con su bucle, nervio lingual, apófisis geni y arteria sublingual.",
+  "Las complicaciones son hemorragia, lesión nerviosa (casi siempre temporal), perforación de cavidades y fractura; en el maxilar se dirigen a cavidades y en la mandíbula al nervio y al suelo de boca.",
+  "El maxilar se reabsorbe de forma centrípeta (filo de cuchillo, neumatización del seno); la mandíbula, de forma centrífuga (riesgo de cortical lingual). Se recomienda TAC.",
+  "Calidad ósea de D1 (cortical, poco irrigado) a D4 (trabecular, poroso): en D4 se infrafresa. La sínfisis mandibular da más éxito y el maxilar posterior más fracaso.",
+  "En un implante inmediato, un gap menor de unos 2 mm se rellena con coágulo; mayor, se regenera.",
+  "Antes de elevar el seno hay que resolver una sinusitis odontógena y valorar membrana, septos y arteria con un TAC."
+ ],
+ "glossary": [
+  {
+   "term": "Anatomía quirúrgica",
+   "text": "Conjunto de estructuras que condicionan una cirugía: nervios, vasos, senos, corticales."
+  },
+  {
+   "term": "Bucle del nervio mentoniano",
+   "text": "Trayecto en lazo del nervio antes de salir por el agujero mentoniano."
+  },
+  {
+   "term": "Neumatización",
+   "text": "Descenso del seno maxilar hacia el espacio óseo perdido."
+  },
+  {
+   "term": "Reabsorción centrípeta",
+   "text": "Pérdida de hueso hacia dentro, propia del maxilar."
+  },
+  {
+   "term": "Reabsorción centrífuga",
+   "text": "Pérdida de hueso hacia fuera, propia de la mandíbula."
+  },
+  {
+   "term": "Hueso trabecular",
+   "text": "Parte interna esponjosa del hueso, como un panal."
+  },
+  {
+   "term": "Anclaje bicortical",
+   "text": "Implante apoyado en dos corticales para mejorar la retención."
+  },
+  {
+   "term": "Gap",
+   "text": "Espacio entre el implante y la pared del alvéolo tras una extracción."
+  },
+  {
+   "term": "Membrana de Schneider",
+   "text": "Mucosa que reviste el seno maxilar por dentro."
+  },
+  {
+   "term": "Septos de Underwood",
+   "text": "Tabiques óseos que compartimentan el seno."
+  },
+  {
+   "term": "Sinusitis odontógena",
+   "text": "Sinusitis cuya causa es un diente."
+  }
+ ],
+ "questions": {
+  "implantes-t05-01": {
+   "section": "por-que-anatomia",
+   "reasoning": "La clase puso este ejemplo: las incisiones de descarga no se hacen donde pasa un nervio, arteria o vena, y en la zona de premolares inferiores el nervio mentoniano sale por el agujero mentoniano.",
+   "options": {
+    "a": "Incorrecta. El nervio puede quedar superficial e incluso por encima del agujero, por lo que sí puede lesionarse.",
+    "b": "Correcta. La descarga no se hace donde pasa una estructura vasculonerviosa; el mentoniano sale en esa zona.",
+    "c": "Incorrecta. Profundizar aumenta el riesgo de lesionar el nervio.",
+    "d": "Incorrecta. La anestesia no protege al nervio de un corte; solo elimina la sensibilidad."
+   }
+  },
+  "implantes-t05-02": {
+   "section": "por-que-anatomia",
+   "reasoning": "En la clase se explicó que se coloca hueso por un lado y una membrana que lo separa del tejido blando; sin ella, el hueso y el tejido se mezclarían y no habría consistencia.",
+   "options": {
+    "a": "Incorrecta. La membrana es una barrera, no aporta células formadoras de hueso.",
+    "b": "Incorrecta. No sustituye al implante; protege el injerto.",
+    "c": "Incorrecta. No es su función: separa, no riega.",
+    "d": "Correcta. La membrana actúa de barrera: el hueso se forma por un lado y el tejido blando queda por el otro."
+   }
+  },
+  "implantes-t05-03": {
+   "section": "huesos-zonas",
+   "reasoning": "La clase recordó que la mandíbula es impar, simétrica, forma parte del macizo facial inferior, es el único hueso móvil y se articula con el temporal por la apófisis condilar.",
+   "options": {
+    "a": "Correcta. La mandíbula es un hueso impar y simétrico, el único móvil, articulado con el temporal.",
+    "b": "Incorrecta. El maxilar es fijo; forma parte del macizo facial superior.",
+    "c": "Incorrecta. El cigomático es fijo.",
+    "d": "Incorrecta. El esfenoides es un hueso fijo del cráneo."
+   }
+  },
+  "implantes-t05-04": {
+   "section": "huesos-zonas",
+   "reasoning": "Según la clase, la arcada superior admite implantes en hueso maxilar, cigomático y palatino, y lo más frecuente es el maxilar. El cigomático queda para atrofias severas.",
+   "options": {
+    "a": "Incorrecta. El cigomático y el palatino también se usan en casos concretos.",
+    "b": "Incorrecta. El esfenoides no se usa para implantes habituales.",
+    "c": "Incorrecta. El cigomático se reserva para atrofias severas y el nasal no se utiliza.",
+    "d": "Correcta. Los tres huesos son posibles, pero el maxilar es donde se colocan casi todos los implantes."
+   }
+  },
+  "implantes-t05-05": {
+   "section": "huesos-zonas",
+   "reasoning": "Los implantes cigomáticos se reservan, como explicó la clase, para atrofias severas en las que no queda hueso en las zonas habituales; llegan muy atrás y exigen más cuidado con las estructuras de esa zona.",
+   "options": {
+    "a": "Correcta. Es la indicación típica: atrofia severa sin hueso en las zonas habituales.",
+    "b": "Incorrecta. Sin hueso suficiente, un implante convencional puede acabar en el seno.",
+    "c": "Incorrecta. La base mandibular pertenece a otra arcada y tiene escasa irrigación.",
+    "d": "Incorrecta. El hueso perdido no se regenera por sí solo."
+   }
+  },
+  "implantes-t05-06": {
+   "section": "maxilar-sectores",
+   "reasoning": "La clase explicó que la fosita (concavidad bajo la apertura piriforme) hace que, al fresar el incisivo central superior, aumente el riesgo de perforar la tabla vestibular si no se controla angulación y profundidad.",
+   "options": {
+    "a": "Incorrecta. Ese nervio está en la mandíbula.",
+    "b": "Correcta. La concavidad hace más fina la tabla; una mala angulación puede perforarla.",
+    "c": "Incorrecta. La arteria sublingual está en la sínfisis mandibular.",
+    "d": "Incorrecta. La tuberosidad está en la parte posterior del maxilar."
+   }
+  },
+  "implantes-t05-07": {
+   "section": "maxilar-sectores",
+   "reasoning": "La clase advirtió de que la pared vestibular del canino es fina; si se ve así en el TAC hay que despegar bien por vestibular, aunque a veces la fractura sea inevitable.",
+   "options": {
+    "a": "Incorrecta. La fuerza sobre una tabla fina aumenta el riesgo de fractura.",
+    "b": "Incorrecta. Se pueden extraer con las debidas precauciones.",
+    "c": "Correcta. Un buen despegado reduce el riesgo de fractura de la cortical.",
+    "d": "Incorrecta. La tabla fina obliga a planificar con más cuidado, no a ignorarla."
+   }
+  },
+  "implantes-t05-08": {
+   "section": "maxilar-sectores",
+   "reasoning": "La clase localizó el infraorbitario unos 6-10 mm bajo el reborde orbitario inferior y comentó que puede anestesiarse desde ahí, incluso para colocar implantes.",
+   "options": {
+    "a": "Incorrecta. Eso corresponde al agujero palatino mayor.",
+    "b": "Incorrecta. Eso sería el agujero mentoniano.",
+    "c": "Incorrecta. La tuberosidad se protege por otra razón y no contiene el infraorbitario.",
+    "d": "Correcta. Es palpable y permite anestesiar desde él."
+   }
+  },
+  "implantes-t05-09": {
+   "section": "maxilar-sectores",
+   "reasoning": "En la clase se citó el paladar posterior con el agujero palatino mayor, por donde pasan el nervio y la arteria palatina mayor, por lo que hay que cuidar descargas y despegado.",
+   "options": {
+    "a": "Correcta. Por ese orificio emergen el nervio y la arteria palatina mayor, que hay que respetar.",
+    "b": "Incorrecta. Salen por el agujero mentoniano, en la mandíbula.",
+    "c": "Incorrecta. Se localizan en la zona lingual mandibular.",
+    "d": "Incorrecta. Salen por el agujero infraorbitario, bajo la órbita."
+   }
+  },
+  "implantes-t05-10": {
+   "section": "maxilar-sectores",
+   "reasoning": "La clase aconsejó meterse con el botador por detrás (distal) del 8 y despegar bien antes de extraer, para no arrastrar la tuberosidad, que es la parte posterior del hueso y a veces del suelo del seno.",
+   "options": {
+    "a": "Incorrecta. Sin despegado el diente puede arrastrar el hueso posterior.",
+    "b": "Incorrecta. Aumenta el riesgo de arrastrar la tuberosidad.",
+    "c": "Correcta. El despegado por distal separa el diente de la tuberosidad y evita arrastrarla.",
+    "d": "Incorrecta. No se separa de la tuberosidad y se puede fracturar."
+   }
+  },
+  "implantes-t05-11": {
+   "section": "mandibula",
+   "reasoning": "La clase explicó que el nervio puede hacer un bucle, de modo que al levantar el colgajo puede verse algo más arriba del agujero; hay que tener cuidado sobre todo por encima.",
+   "options": {
+    "a": "Incorrecta. Puede formar un bucle y no coincidir.",
+    "b": "Incorrecta. No es lo que se explicó.",
+    "c": "Correcta. El bucle puede hacer que el nervio esté superior respecto al agujero.",
+    "d": "Incorrecta. Sale el nervio mentoniano."
+   }
+  },
+  "implantes-t05-12": {
+   "section": "mandibula",
+   "reasoning": "Según la clase, en la sínfisis se encuentran la apófisis geni y la arteria sublingual; el nervio lingual y la fosa submandibular quedan más atrás.",
+   "options": {
+    "a": "Incorrecta. Se encuentran en el cuerpo y en la zona de premolares.",
+    "b": "Incorrecta. Se localizan en la zona posterior lingual.",
+    "c": "Incorrecta. Está en el paladar posterior.",
+    "d": "Correcta. Son las estructuras de esa zona según la clase."
+   }
+  },
+  "implantes-t05-13": {
+   "section": "mandibula",
+   "reasoning": "La clase indicó que en la base mandibular queda hueso cortical con muy poca irrigación; conseguir una buena integración es muy complicado y no es lo adecuado.",
+   "options": {
+    "a": "Correcta. El hueso basal tiene poca vascularización, lo que dificulta la integración.",
+    "b": "Incorrecta. La base es cortical, no esponjosa.",
+    "c": "Incorrecta. Tiene poca irrigación.",
+    "d": "Incorrecta. No es el problema descrito."
+   }
+  },
+  "implantes-t05-14": {
+   "section": "mandibula",
+   "reasoning": "La clase propuso la infiltrativa cuando se trabaja cerca del nervio porque permite controlar mejor hasta dónde se llega: con una troncular el nervio está dormido y no se nota la aproximación.",
+   "options": {
+    "a": "Incorrecta. La duración no es el motivo.",
+    "b": "Correcta. Si el nervio no está dormido, el paciente lo nota y avisa.",
+    "c": "Incorrecta. Siempre hay que aspirar.",
+    "d": "Incorrecta. No lo está; es una opción más."
+   }
+  },
+  "implantes-t05-15": {
+   "section": "complicaciones",
+   "reasoning": "La clase indicó que la lesión nerviosa puede ser temporal o definitiva, normalmente temporal; a veces es por inflamación y, si el nervio solo está aplastado y no triturado, puede recuperar.",
+   "options": {
+    "a": "Incorrecta. En la mayoría de los casos se espera que sea temporal.",
+    "b": "Incorrecta. También puede ser por inflamación.",
+    "c": "Correcta. Lo habitual es que sea temporal; si el nervio solo está aplastado, puede recuperarse.",
+    "d": "Incorrecta. El TAC reduce el riesgo, no lo elimina."
+   }
+  },
+  "implantes-t05-16": {
+   "section": "complicaciones",
+   "reasoning": "La clase resumió que en el maxilar se perfora hacia cavidades que pueden infectarse y en la mandíbula hacia el nervio, el suelo de boca y la vía aérea; ninguna es buena.",
+   "options": {
+    "a": "Incorrecta. Está invertido.",
+    "b": "Incorrecta. La mandíbula no se relaciona con las fosas nasales.",
+    "c": "Incorrecta. Pueden ser graves.",
+    "d": "Correcta. Maxilar y mandíbula tienen riesgos distintos."
+   }
+  },
+  "implantes-t05-17": {
+   "section": "complicaciones",
+   "reasoning": "La clase advirtió de que en la mandíbula posterior hay que cuidar la angulación: si se perfora la cortical lingual el sangrado puede infiltrar el suelo de boca y comprometer la vía aérea.",
+   "options": {
+    "a": "Correcta. La perforación lingual puede dar sangrados difíciles de controlar.",
+    "b": "Incorrecta. La tuberosidad es del maxilar.",
+    "c": "Incorrecta. El seno es del maxilar.",
+    "d": "Incorrecta. Es una estructura del maxilar."
+   }
+  },
+  "implantes-t05-18": {
+   "section": "reabsorcion",
+   "reasoning": "La clase explicó que el maxilar se reabsorbe hacia el centro (centrípeta) y la mandíbula en sentido contrario (centrífuga), con ensanchamiento posterior.",
+   "options": {
+    "a": "Incorrecta. La mandíbula es centrífuga.",
+    "b": "Correcta. Son patrones opuestos.",
+    "c": "Incorrecta. Está invertido.",
+    "d": "Incorrecta. El maxilar es centrípeto."
+   }
+  },
+  "implantes-t05-19": {
+   "section": "reabsorcion",
+   "reasoning": "La clase describió la neumatización como la bajada del seno que ocupa el espacio del diente extraído, asociada a la pérdida de hueso.",
+   "options": {
+    "a": "Incorrecta. Eso es un engrosamiento mucoso.",
+    "b": "Incorrecta. Los septos son tabiques óseos.",
+    "c": "Correcta. El seno ocupa el hueco dejado por el diente y el hueso.",
+    "d": "Incorrecta. No es una neumatización."
+   }
+  },
+  "implantes-t05-20": {
+   "section": "reabsorcion",
+   "reasoning": "La clase insistió en usar TAC en mandíbulas reabsorbidas porque la cresta parece ancha pero por dentro no lo es, y en que, a nivel legal, ante un juicio se espera que se disponga de TAC.",
+   "options": {
+    "a": "Incorrecta. Se puede usar, pero es insuficiente en estos casos.",
+    "b": "Incorrecta. Reduce el riesgo, no lo elimina.",
+    "c": "Incorrecta. La prótesis se sigue planificando.",
+    "d": "Correcta. El TAC muestra anchura, angulación y estructuras reales."
+   }
+  },
+  "implantes-t05-21": {
+   "section": "calidad-osea",
+   "reasoning": "La clase explicó que el D1 tiene mucho hueso cortical y muy poco esponjoso, mientras que el D4 es casi todo hueso trabeculado y poroso.",
+   "options": {
+    "a": "Correcta. D1 y D4 son los extremos.",
+    "b": "Incorrecta. Está invertido.",
+    "c": "Incorrecta. D1 es cortical.",
+    "d": "Incorrecta. No describe esos tipos."
+   }
+  },
+  "implantes-t05-22": {
+   "section": "calidad-osea",
+   "reasoning": "La clase indicó que en un hueso muy blando, a modo general, se queda una fresa por debajo de la del implante para que este agarre; cada casa de implantes tiene su protocolo.",
+   "options": {
+    "a": "Incorrecta. El lecho quedaría ancho y el implante no agarraría.",
+    "b": "Correcta. Así el lecho es algo más estrecho que el implante y este se ancla.",
+    "c": "Incorrecta. Empeora el agarre.",
+    "d": "Incorrecta. La velocidad no soluciona la falta de densidad."
+   }
+  },
+  "implantes-t05-23": {
+   "section": "calidad-osea",
+   "reasoning": "La clase señaló que en el tipo 1 el problema principal es la menor vascularización, además de lo duro que resulta pasar las fresas.",
+   "options": {
+    "a": "Incorrecta. Ese es el problema del D4.",
+    "b": "Incorrecta. Eso ocurre en el D4.",
+    "c": "Correcta. Es muy cortical y poco irrigado.",
+    "d": "Incorrecta. Al contrario, es muy cortical."
+   }
+  },
+  "implantes-t05-24": {
+   "section": "calidad-osea",
+   "reasoning": "La clase explicó que la sínfisis mandibular, más densa y con menos carga, tiene más éxito, y que el maxilar posterior, menos denso y con más carga, tiene más fracaso.",
+   "options": {
+    "a": "Incorrecta. Está invertido.",
+    "b": "Incorrecta. La premaxila es intermedia.",
+    "c": "Incorrecta. Varía según densidad y carga.",
+    "d": "Correcta. Densidad y carga determinan el resultado."
+   }
+  },
+  "implantes-t05-25": {
+   "section": "postextraccion",
+   "reasoning": "La clase explicó que con un gap menor de unos 2 mm el coágulo sirve de andamio y se forma hueso solo, mientras que con más de 2 mm hay que ayudar con regeneración; la medida es aproximada.",
+   "options": {
+    "a": "Correcta. Los 2 mm son el umbral aproximado.",
+    "b": "Incorrecta. Un gap grande deja el implante mal sujeto.",
+    "c": "Incorrecta. Un gap menor se regenera solo.",
+    "d": "Incorrecta. El criterio es el tamaño del espacio."
+   }
+  },
+  "implantes-t05-26": {
+   "section": "seno-maxilar",
+   "reasoning": "La clase definió la membrana de Schneider como el revestimiento interno del seno, muy fino, que es lo que se eleva en una elevación de seno.",
+   "options": {
+    "a": "Incorrecta. Eso son los septos.",
+    "b": "Correcta. Es un epitelio pseudoestratificado ciliado de 0,3-0,8 mm.",
+    "c": "Incorrecta. La ventana es un acceso quirúrgico.",
+    "d": "Incorrecta. Esa membrana es artificial."
+   }
+  },
+  "implantes-t05-27": {
+   "section": "seno-maxilar",
+   "reasoning": "La clase explicó que los septos (de Underwood) compartimentan el seno y obligan a veces a hacer más de una elevación; además, facilitan la rotura de la membrana.",
+   "options": {
+    "a": "Incorrecta. El septo no sustituye la elevación.",
+    "b": "Incorrecta. Con septos es más fácil que se rasgue.",
+    "c": "Correcta. Los septos compartimentan el seno.",
+    "d": "Incorrecta. Hay que planificar."
+   }
+  },
+  "implantes-t05-28": {
+   "section": "seno-maxilar",
+   "reasoning": "La clase indicó que una sinusitis odontógena se resuelve tratando la causa (el diente) y que no se debe intentar elevar el seno hasta resolverla, porque la mucosa se perfora.",
+   "options": {
+    "a": "Incorrecta. Una membrana engrosada indica un problema.",
+    "b": "Incorrecta. La causa seguiría activa.",
+    "c": "Incorrecta. La causa debe tratarse.",
+    "d": "Correcta. Elevar una mucosa enferma tiene alto riesgo de perforación."
+   }
+  },
+  "implantes-t05-29": {
+   "section": "seno-maxilar",
+   "reasoning": "La clase mostró un caso así: el implante absorbido por el seno obliga a abrir, limpiar y sacarlo, y se valora el tratamiento después.",
+   "options": {
+    "a": "Correcta. Un implante dentro del seno debe retirarse.",
+    "b": "Incorrecta. Puede dar infección.",
+    "c": "Incorrecta. No saldrá solo.",
+    "d": "Incorrecta. No es una solución."
+   }
+  },
+  "implantes-t05-30": {
+   "section": "seno-maxilar",
+   "reasoning": "La clase indicó que con un TCB se observan la arteria, los septos y la membrana, que son lo que condiciona la técnica en el seno.",
+   "options": {
+    "a": "Incorrecta. No es lo relevante.",
+    "b": "Correcta. El TCB permite ver esas estructuras.",
+    "c": "Incorrecta. No se ve en el TCB.",
+    "d": "Incorrecta. No se relaciona con el seno."
+   }
+  }
+ }
+}

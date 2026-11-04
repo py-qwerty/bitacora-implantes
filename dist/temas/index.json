@@ -1,11 +1,53 @@
 {
-  "version": "2026-11-04.3",
+  "version": "2026-11-04.5",
   "temas": [
     {
       "topic": 1,
       "sections": 12,
       "minutes": 40,
       "doubts": 8
+    },
+    {
+      "topic": 2,
+      "sections": 12,
+      "minutes": 60,
+      "doubts": 0
+    },
+    {
+      "topic": 3,
+      "sections": 12,
+      "minutes": 45,
+      "doubts": 0
+    },
+    {
+      "topic": 4,
+      "sections": 12,
+      "minutes": 45,
+      "doubts": 0
+    },
+    {
+      "topic": 5,
+      "sections": 9,
+      "minutes": 35,
+      "doubts": 0
+    },
+    {
+      "topic": 6,
+      "sections": 12,
+      "minutes": 45,
+      "doubts": 0
+    },
+    {
+      "topic": 7,
+      "sections": 12,
+      "minutes": 50,
+      "doubts": 0
+    },
+    {
+      "topic": 8,
+      "sections": 11,
+      "minutes": 45,
+      "doubts": 0
     }
   ]
 }

@@ -1,0 +1,482 @@
+[
+ {
+  "text": "Vas a hacer la incisión de descarga vestibular en la zona de los premolares inferiores y en la imagen el agujero mentoniano queda justo a esa altura. ¿Qué es lo más prudente?",
+  "options": [
+   "Hacerla igualmente, porque el nervio siempre queda profundo y no se toca.",
+   "Cambiar la ubicación de la descarga, porque en esa zona sale el nervio mentoniano.",
+   "Hacerla más profunda para llegar antes al hueso.",
+   "Mantenerla, porque la anestesia troncular protege al nervio de la lesión."
+  ],
+  "correct": "b",
+  "explanation": "La clase puso este ejemplo: las incisiones de descarga no se hacen donde pasa un nervio, arteria o vena, y en la zona de premolares inferiores el nervio mentoniano sale por el agujero mentoniano.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 13 de octubre · Anatomía aplicada a la implantología"
+  }
+ },
+ {
+  "text": "En la regeneración ósea guiada, ¿qué función cumple la membrana?",
+  "options": [
+   "Aportar las células que forman hueso nuevo.",
+   "Servir de implante temporal hasta que cicatrice la zona.",
+   "Aumentar el flujo sanguíneo del hueso receptor.",
+   "Separar el injerto del tejido blando para que en el defecto se forme hueso y no una mezcla con tejido."
+  ],
+  "correct": "d",
+  "explanation": "En la clase se explicó que se coloca hueso por un lado y una membrana que lo separa del tejido blando; sin ella, el hueso y el tejido se mezclarían y no habría consistencia.",
+  "difficulty": "baja",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 13 de octubre · Anatomía aplicada a la implantología"
+  }
+ },
+ {
+  "text": "¿Cuál es el único hueso móvil del macizo craneofacial?",
+  "options": [
+   "La mandíbula, que se articula con el hueso temporal.",
+   "El maxilar, porque se articula con el hueso nasal.",
+   "El cigomático, porque se articula con el hueso frontal.",
+   "El esfenoides, por su situación central en el cráneo."
+  ],
+  "correct": "a",
+  "explanation": "La clase recordó que la mandíbula es impar, simétrica, forma parte del macizo facial inferior, es el único hueso móvil y se articula con el temporal por la apófisis condilar.",
+  "difficulty": "baja",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 13 de octubre · Anatomía aplicada a la implantología"
+  }
+ },
+ {
+  "text": "En la arcada superior, ¿en qué huesos pueden colocarse implantes y cuál es el más habitual?",
+  "options": [
+   "Solo en el maxilar; los otros huesos no admiten implantes.",
+   "Maxilar y esfenoides, siendo el esfenoides el más habitual.",
+   "Cigomático y nasal, siendo el cigomático el más habitual.",
+   "Maxilar, cigomático y palatino, siendo el más habitual el hueso maxilar."
+  ],
+  "correct": "d",
+  "explanation": "Según la clase, la arcada superior admite implantes en hueso maxilar, cigomático y palatino, y lo más frecuente es el maxilar. El cigomático queda para atrofias severas.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 13 de octubre · Anatomía aplicada a la implantología"
+  }
+ },
+ {
+  "text": "Una paciente tiene el maxilar con atrofia severa: no queda hueso utilizable en la zona posterior ni bajo el seno. ¿Qué opción se plantea para este caso?",
+  "options": [
+   "Implantes cigomáticos, anclados en el hueso cigomático.",
+   "Implantes convencionales cortos en el sector posterior sin más valoración.",
+   "Implantes en la base mandibular, que ofrece más hueso.",
+   "Esperar a que el hueso se regenere solo sin hacer nada."
+  ],
+  "correct": "a",
+  "explanation": "Los implantes cigomáticos se reservan, como explicó la clase, para atrofias severas en las que no queda hueso en las zonas habituales; llegan muy atrás y exigen más cuidado con las estructuras de esa zona.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 13 de octubre · Anatomía aplicada a la implantología"
+  }
+ },
+ {
+  "text": "¿Qué riesgo se asocia a fresar en un incisivo central superior sin controlar bien la angulación y la profundidad, por la concavidad bajo la apertura piriforme?",
+  "options": [
+   "Lesionar el nervio dentario inferior.",
+   "Perforar la tabla vestibular.",
+   "Seccionar la arteria sublingual.",
+   "Fracturar la tuberosidad."
+  ],
+  "correct": "b",
+  "explanation": "La clase explicó que la fosita (concavidad bajo la apertura piriforme) hace que, al fresar el incisivo central superior, aumente el riesgo de perforar la tabla vestibular si no se controla angulación y profundidad.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 13 de octubre · Anatomía aplicada a la implantología"
+  }
+ },
+ {
+  "text": "Vas a extraer un canino superior y el TAC muestra una tabla vestibular muy fina. ¿Qué haces?",
+  "options": [
+   "Luxar con fuerza hacia vestibular, porque el canino es el diente más resistente.",
+   "Evitar siempre extraer caninos con tabla fina.",
+   "Despegar muy bien por vestibular antes de luxar, porque el diente es potente y puede arrastrar la tabla.",
+   "Colocar el implante inmediato sin valorar la tabla vestibular."
+  ],
+  "correct": "c",
+  "explanation": "La clase advirtió de que la pared vestibular del canino es fina; si se ve así en el TAC hay que despegar bien por vestibular, aunque a veces la fractura sea inevitable.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 13 de octubre · Anatomía aplicada a la implantología"
+  }
+ },
+ {
+  "text": "¿Qué dato se dio sobre el agujero infraorbitario?",
+  "options": [
+   "Se sitúa en el paladar posterior y por él sale la arteria palatina mayor.",
+   "Se sitúa junto a la sínfisis mandibular y anestesia el labio inferior.",
+   "Se sitúa en la tuberosidad y debe protegerse al extraer un tercer molar.",
+   "Se sitúa a unos 6-10 mm del reborde orbitario inferior y puede usarse para anestesiar la zona."
+  ],
+  "correct": "d",
+  "explanation": "La clase localizó el infraorbitario unos 6-10 mm bajo el reborde orbitario inferior y comentó que puede anestesiarse desde ahí, incluso para colocar implantes.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 13 de octubre · Anatomía aplicada a la implantología"
+  }
+ },
+ {
+  "text": "¿Qué estructuras salen por el agujero palatino mayor, en el paladar posterior?",
+  "options": [
+   "El nervio y la arteria palatina mayor.",
+   "El nervio mentoniano y su arteria.",
+   "El nervio lingual y la arteria sublingual.",
+   "El nervio y la arteria infraorbitarios."
+  ],
+  "correct": "a",
+  "explanation": "En la clase se citó el paladar posterior con el agujero palatino mayor, por donde pasan el nervio y la arteria palatina mayor, por lo que hay que cuidar descargas y despegado.",
+  "difficulty": "baja",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 13 de octubre · Anatomía aplicada a la implantología"
+  }
+ },
+ {
+  "text": "Al extraer un tercer molar superior, ¿qué precaución ayuda a no llevarse la tuberosidad?",
+  "options": [
+   "Luxar directamente hacia vestibular sin despegar nada.",
+   "Aplicar fuerza rápida hacia apical.",
+   "Introducir el botador por distal del diente y despegar bien antes de luxar.",
+   "Extraer el diente de una sola vez con el fórceps sin separar tejidos."
+  ],
+  "correct": "c",
+  "explanation": "La clase aconsejó meterse con el botador por detrás (distal) del 8 y despegar bien antes de extraer, para no arrastrar la tuberosidad, que es la parte posterior del hueso y a veces del suelo del seno.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 13 de octubre · Anatomía aplicada a la implantología"
+  }
+ },
+ {
+  "text": "¿Por qué se debe tener cuidado en la zona del agujero mentoniano aunque este se vea bien en la imagen?",
+  "options": [
+   "Porque el nervio siempre sale exactamente por la mitad del agujero.",
+   "Porque el agujero mentoniano varía de lado con la edad del paciente.",
+   "Porque el nervio puede formar un bucle y situarse algo más arriba que el propio agujero.",
+   "Porque no hay ningún nervio en esa zona."
+  ],
+  "correct": "c",
+  "explanation": "La clase explicó que el nervio puede hacer un bucle, de modo que al levantar el colgajo puede verse algo más arriba del agujero; hay que tener cuidado sobre todo por encima.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 13 de octubre · Anatomía aplicada a la implantología"
+  }
+ },
+ {
+  "text": "¿Qué estructuras se localizan en la región de la sínfisis, en su cara lingual?",
+  "options": [
+   "El conducto dentario inferior y el nervio mentoniano.",
+   "La fosa submandibular y el nervio lingual.",
+   "El agujero palatino mayor y su arteria.",
+   "La apófisis geni y la arteria sublingual."
+  ],
+  "correct": "d",
+  "explanation": "Según la clase, en la sínfisis se encuentran la apófisis geni y la arteria sublingual; el nervio lingual y la fosa submandibular quedan más atrás.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 13 de octubre · Anatomía aplicada a la implantología"
+  }
+ },
+ {
+  "text": "En una mandíbula muy atrófica solo queda la base mandibular. ¿Qué dificultad principal presenta para un implante?",
+  "options": [
+   "Es un hueso cortical con muy poca irrigación, por lo que la integración es difícil.",
+   "Es un hueso muy esponjoso que se deshace al fresar.",
+   "Tiene un exceso de irrigación que provoca sangrados.",
+   "El nervio lingual la recubre y no permite acceder."
+  ],
+  "correct": "a",
+  "explanation": "La clase indicó que en la base mandibular queda hueso cortical con muy poca irrigación; conseguir una buena integración es muy complicado y no es lo adecuado.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 13 de octubre · Anatomía aplicada a la implantología"
+  }
+ },
+ {
+  "text": "Vas a fresar un implante cerca del bucle mentoniano. ¿Qué ventaja puede tener una anestesia infiltrativa frente a una troncular?",
+  "options": [
+   "Dura mucho más y evita repetir la anestesia.",
+   "Mantiene la sensibilidad del nervio y el paciente puede avisar si el fresado se acerca.",
+   "Permite no aspirar antes de inyectar.",
+   "La troncular está contraindicada en cualquier cirugía de implantes."
+  ],
+  "correct": "b",
+  "explanation": "La clase propuso la infiltrativa cuando se trabaja cerca del nervio porque permite controlar mejor hasta dónde se llega: con una troncular el nervio está dormido y no se nota la aproximación.",
+  "difficulty": "alta",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 13 de octubre · Anatomía aplicada a la implantología"
+  }
+ },
+ {
+  "text": "Tras colocar un implante cerca del nervio, el paciente nota pérdida de sensibilidad. ¿Qué se explicó sobre su evolución?",
+  "options": [
+   "Es siempre definitiva.",
+   "Solo ocurre si se ha usado una fresa de más diámetro.",
+   "Suele ser temporal, por inflamación o por nervio aplastado, y puede recuperarse.",
+   "No es posible cuando se ha hecho un TAC previo."
+  ],
+  "correct": "c",
+  "explanation": "La clase indicó que la lesión nerviosa puede ser temporal o definitiva, normalmente temporal; a veces es por inflamación y, si el nervio solo está aplastado y no triturado, puede recuperar.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 13 de octubre · Anatomía aplicada a la implantología"
+  }
+ },
+ {
+  "text": "¿Hacia dónde se dirigen las complicaciones por perforación en el maxilar y en la mandíbula?",
+  "options": [
+   "En el maxilar, hacia el nervio; en la mandíbula, hacia los senos.",
+   "Ambas hacia las cavidades nasales.",
+   "En ambas solo hacia el tejido blando, sin consecuencias graves.",
+   "En el maxilar, hacia cavidades (senos, fosas nasales); en la mandíbula, hacia el nervio, el suelo de boca y la vía aérea."
+  ],
+  "correct": "d",
+  "explanation": "La clase resumió que en el maxilar se perfora hacia cavidades que pueden infectarse y en la mandíbula hacia el nervio, el suelo de boca y la vía aérea; ninguna es buena.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 13 de octubre · Anatomía aplicada a la implantología"
+  }
+ },
+ {
+  "text": "¿Qué riesgo grave conlleva perforar la cortical lingual al fresar un implante en la mandíbula posterior?",
+  "options": [
+   "Sangrado que infiltra el suelo de boca y puede comprometer la vía aérea.",
+   "Fractura de la tuberosidad.",
+   "Entrada del implante en el seno maxilar.",
+   "Parestesia del nervio infraorbitario."
+  ],
+  "correct": "a",
+  "explanation": "La clase advirtió de que en la mandíbula posterior hay que cuidar la angulación: si se perfora la cortical lingual el sangrado puede infiltrar el suelo de boca y comprometer la vía aérea.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 13 de octubre · Anatomía aplicada a la implantología"
+  }
+ },
+ {
+  "text": "¿Cómo es la reabsorción ósea en el maxilar y en la mandíbula?",
+  "options": [
+   "Ambos de forma centrípeta.",
+   "El maxilar se reabsorbe de forma centrípeta (hacia dentro) y la mandíbula de forma centrífuga (hacia fuera).",
+   "El maxilar de forma centrífuga y la mandíbula centrípeta.",
+   "Ambos de forma centrífuga."
+  ],
+  "correct": "b",
+  "explanation": "La clase explicó que el maxilar se reabsorbe hacia el centro (centrípeta) y la mandíbula en sentido contrario (centrífuga), con ensanchamiento posterior.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 13 de octubre · Anatomía aplicada a la implantología"
+  }
+ },
+ {
+  "text": "¿Qué es la neumatización del seno maxilar?",
+  "options": [
+   "El engrosamiento de la membrana por una infección.",
+   "La formación de septos dentro del seno.",
+   "El descenso del seno hacia el espacio óseo que se pierde tras extraer dientes.",
+   "El aumento de grosor de la cortical alrededor del seno."
+  ],
+  "correct": "c",
+  "explanation": "La clase describió la neumatización como la bajada del seno que ocupa el espacio del diente extraído, asociada a la pérdida de hueso.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 13 de octubre · Anatomía aplicada a la implantología"
+  }
+ },
+ {
+  "text": "Un paciente mayor, desdentado desde hace años, necesita implantes en la mandíbula. ¿Por qué se recomienda un TAC además de la radiografía convencional?",
+  "options": [
+   "Porque la radiografía convencional no se acepta nunca.",
+   "Porque el TAC elimina por completo el riesgo de complicaciones.",
+   "Porque evita tener que planificar la prótesis.",
+   "Porque una cresta que parece ancha en la radiografía puede ser estrecha, y hay que ver la angulación real; además es recomendable a nivel legal."
+  ],
+  "correct": "d",
+  "explanation": "La clase insistió en usar TAC en mandíbulas reabsorbidas porque la cresta parece ancha pero por dentro no lo es, y en que, a nivel legal, ante un juicio se espera que se disponga de TAC.",
+  "difficulty": "alta",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 13 de octubre · Anatomía aplicada a la implantología"
+  }
+ },
+ {
+  "text": "Según la clasificación de la calidad ósea en cuatro tipos, ¿qué describen el D1 y el D4?",
+  "options": [
+   "D1: casi todo cortical muy denso; D4: casi todo trabecular y poco denso.",
+   "D1: casi todo trabecular; D4: casi todo cortical.",
+   "Los dos son predominantemente esponjosos.",
+   "D1: esponjoso denso; D4: cortical fina."
+  ],
+  "correct": "a",
+  "explanation": "La clase explicó que el D1 tiene mucho hueso cortical y muy poco esponjoso, mientras que el D4 es casi todo hueso trabeculado y poroso.",
+  "difficulty": "baja",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 13 de octubre · Anatomía aplicada a la implantología"
+  }
+ },
+ {
+  "text": "En un hueso D4 muy poroso vas a colocar un implante. ¿Qué criterio general se dio para el fresado?",
+  "options": [
+   "Pasar todas las fresas hasta el diámetro del implante.",
+   "Infrafresar: no pasar la última fresa para que el implante quede bien agarrado.",
+   "Sobrefresar el lecho para facilitar la inserción.",
+   "Fresar más rápido para no deshacer el hueso."
+  ],
+  "correct": "b",
+  "explanation": "La clase indicó que en un hueso muy blando, a modo general, se queda una fresa por debajo de la del implante para que este agarre; cada casa de implantes tiene su protocolo.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 13 de octubre · Anatomía aplicada a la implantología"
+  }
+ },
+ {
+  "text": "¿Cuál es el principal inconveniente de un hueso tipo D1 al colocar un implante?",
+  "options": [
+   "Que el implante no tiene donde agarrarse.",
+   "Que se fractura y deshace con la fresa.",
+   "Tiene menos vascularización y resulta muy costoso de fresar.",
+   "Que impide cualquier anclaje cortical."
+  ],
+  "correct": "c",
+  "explanation": "La clase señaló que en el tipo 1 el problema principal es la menor vascularización, además de lo duro que resulta pasar las fresas.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 13 de octubre · Anatomía aplicada a la implantología"
+  }
+ },
+ {
+  "text": "¿Qué zona tiene mayor tasa de éxito y cuál mayor tasa de fracaso, según lo explicado?",
+  "options": [
+   "Mayor éxito en el maxilar posterior y mayor fracaso en la sínfisis.",
+   "Mayor éxito en la premaxila y mayor fracaso en la sínfisis.",
+   "Todas las zonas tienen la misma tasa de éxito.",
+   "Mayor éxito en la sínfisis mandibular (hueso denso, poca carga) y mayor fracaso en el maxilar posterior (hueso poco denso, mucha carga)."
+  ],
+  "correct": "d",
+  "explanation": "La clase explicó que la sínfisis mandibular, más densa y con menos carga, tiene más éxito, y que el maxilar posterior, menos denso y con más carga, tiene más fracaso.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 13 de octubre · Anatomía aplicada a la implantología"
+  }
+ },
+ {
+  "text": "En un implante inmediato tras una extracción, ¿qué ocurre con el espacio entre el implante y la pared del alvéolo?",
+  "options": [
+   "Si es menor de unos 2 mm, el coágulo permite que se forme hueso solo; si es mayor, hay que regenerar.",
+   "Nunca hace falta rellenarlo, sea del tamaño que sea.",
+   "Siempre se rellena con injerto, aunque sea mínimo.",
+   "Solo se rellena si el coágulo no se forma."
+  ],
+  "correct": "a",
+  "explanation": "La clase explicó que con un gap menor de unos 2 mm el coágulo sirve de andamio y se forma hueso solo, mientras que con más de 2 mm hay que ayudar con regeneración; la medida es aproximada.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 13 de octubre · Anatomía aplicada a la implantología"
+  }
+ },
+ {
+  "text": "¿Qué es la membrana de Schneider?",
+  "options": [
+   "El tabique óseo que divide el seno en compartimentos.",
+   "La mucosa fina que recubre el seno por dentro y que se eleva en la elevación de seno.",
+   "La ventana que se abre para acceder al seno.",
+   "La membrana de colágeno usada en regeneración ósea."
+  ],
+  "correct": "b",
+  "explanation": "La clase definió la membrana de Schneider como el revestimiento interno del seno, muy fino, que es lo que se eleva en una elevación de seno.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 13 de octubre · Anatomía aplicada a la implantología"
+  }
+ },
+ {
+  "text": "En el TAC ves un tabique dentro del seno justo en la zona donde necesitas elevar. ¿Qué implica?",
+  "options": [
+   "Que no es necesario hacer elevación.",
+   "Que la membrana es más gruesa y resistente.",
+   "Puede requerir elevar a cada lado del septo y hay más riesgo de que la membrana se rasgue.",
+   "Que se puede elevar el seno sin más precauciones."
+  ],
+  "correct": "c",
+  "explanation": "La clase explicó que los septos (de Underwood) compartimentan el seno y obligan a veces a hacer más de una elevación; además, facilitan la rotura de la membrana.",
+  "difficulty": "alta",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 13 de octubre · Anatomía aplicada a la implantología"
+  }
+ },
+ {
+  "text": "En una panorámica ves la membrana del seno engrosada junto a un diente con una infección. ¿Qué haces antes de una elevación de seno?",
+  "options": [
+   "Elevar directamente, porque el engrosamiento es normal.",
+   "Colocar el implante sin tratar el diente.",
+   "Esperar a que se cure sola sin tratar el diente.",
+   "Resolver la causa (el diente) y la sinusitis antes de elevar."
+  ],
+  "correct": "d",
+  "explanation": "La clase indicó que una sinusitis odontógena se resuelve tratando la causa (el diente) y que no se debe intentar elevar el seno hasta resolverla, porque la mucosa se perfora.",
+  "difficulty": "alta",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 13 de octubre · Anatomía aplicada a la implantología"
+  }
+ },
+ {
+  "text": "Un implante colocado con muy poco hueso bajo el seno y mal agarrado ha migrado al seno. ¿Qué se explicó que hay que hacer?",
+  "options": [
+   "Abrir, limpiar y retirarlo, y valorar después el tratamiento posterior.",
+   "Dejarlo, porque el seno lo tolera sin problema.",
+   "Esperar a que salga solo.",
+   "Empujarlo hacia el hueso con otro implante."
+  ],
+  "correct": "a",
+  "explanation": "La clase mostró un caso así: el implante absorbido por el seno obliga a abrir, limpiar y sacarlo, y se valora el tratamiento después.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 13 de octubre · Anatomía aplicada a la implantología"
+  }
+ },
+ {
+  "text": "¿Qué se recomienda valorar con un TCB antes de actuar en el seno maxilar?",
+  "options": [
+   "Solo la altura total del paciente.",
+   "Dónde están la arteria, los septos y la membrana.",
+   "El color de la mucosa oral.",
+   "La posición de los cóndilos mandibulares."
+  ],
+  "correct": "b",
+  "explanation": "La clase indicó que con un TCB se observan la arteria, los septos y la membrana, que son lo que condiciona la técnica en el seno.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 13 de octubre · Anatomía aplicada a la implantología"
+  }
+ }
+]

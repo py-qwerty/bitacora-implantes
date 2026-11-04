@@ -19,19 +19,19 @@
    "id": 2,
    "course": "implantes",
    "number": 2,
-   "title": "Osteointegración"
+   "title": "Osteointegración: biología, curva de estabilidad y diseño del implante"
   },
   {
    "id": 3,
    "course": "implantes",
    "number": 3,
-   "title": "Materiales de los implantes"
+   "title": "Materiales de los implantes: titanio y cerámica"
   },
   {
    "id": 4,
    "course": "implantes",
    "number": 4,
-   "title": "Planificación del tratamiento"
+   "title": "Planificación digital con imagen 3D y cirugía guiada"
   },
   {
    "id": 5,
@@ -49,13 +49,13 @@
    "id": 7,
    "course": "implantes",
    "number": 7,
-   "title": "Clase del jueves 22 de octubre (título por confirmar)"
+   "title": "Técnica quirúrgica del implante: incisiones, colgajos y secuencia de fresado"
   },
   {
    "id": 8,
    "course": "implantes",
    "number": 8,
-   "title": "Implantes inmediatos en zona estética"
+   "title": "Implantes inmediatos en zona estética: indicación, biología y posición"
   }
  ]
 }

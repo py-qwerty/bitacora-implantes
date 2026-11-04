@@ -1,0 +1,482 @@
+[
+ {
+  "text": "¿Con qué paso arranca la secuencia de planificación presentada en clase?",
+  "options": [
+   "Con la elección del tamaño de los implantes.",
+   "Con el diseño de la prótesis que necesita el paciente.",
+   "Con la medición del hueso disponible mediante TAC.",
+   "Con la decisión de cuántos implantes se colocan."
+  ],
+  "correct": "b",
+  "explanation": "La planificación empieza por la prótesis y de ella se deduce el resto: fuerzas, densidad ósea, posiciones, número y tamaño.",
+  "difficulty": "baja",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 15 de octubre · Posiciones clave y número de implantes"
+  }
+ },
+ {
+  "text": "Un cirujano coloca implantes donde hay hueso suficiente y deja que otro profesional resuelva la prótesis más tarde. ¿Cómo se califica ese enfoque?",
+  "options": [
+   "Planificación guiada por la prótesis, correcta si hay hueso suficiente.",
+   "Planificación guiada por la periodoncia, preferible en el sector estético.",
+   "Planificación biomecánica, porque el hueso determina las fuerzas.",
+   "Planificación guiada por el hueso, incorrecta: debe guiarse por la prótesis y la biomecánica."
+  ],
+  "correct": "d",
+  "explanation": "Colocar implantes donde hay hueso sin diseñar antes la prótesis es planificar guiado por el hueso, lo que genera problemas de carga.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 15 de octubre · Posiciones clave y número de implantes"
+  }
+ },
+ {
+  "text": "¿Cuándo son más frecuentes los fracasos de un implante y por qué?",
+  "options": [
+   "Tras entrar en carga, porque el hueso recién formado es inmaduro y una sobrecarga lo daña con facilidad.",
+   "Durante la cirugía, porque la fase inflamatoria destruye el hueso.",
+   "Antes de la carga, porque el implante aún no está osteointegrado y se mueve.",
+   "Tras la carga, porque el titanio se fatiga en pocos días."
+  ],
+  "correct": "a",
+  "explanation": "Los fracasos son más frecuentes tras la carga, porque el hueso recién formado es débil y una sobrecarga lo daña.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 15 de octubre · Posiciones clave y número de implantes"
+  }
+ },
+ {
+  "text": "¿Por qué el hueso alrededor de un implante soporta más sobrecarga que el que rodea a un diente natural?",
+  "options": [
+   "Porque el implante es más flexible que el diente y transmite más fuerza al hueso.",
+   "Porque el titanio concentra siempre las cargas en la cresta ósea.",
+   "Porque el implante carece de ligamento periodontal y de propiocepción, y el paciente no percibe cuándo aprieta demasiado.",
+   "Porque los pacientes con implantes tienen más piezas antagonistas."
+  ],
+  "correct": "c",
+  "explanation": "Sin ligamento periodontal el implante no amortigua ni avisa del exceso de fuerza, por lo que el hueso sufre más carga.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 15 de octubre · Posiciones clave y número de implantes"
+  }
+ },
+ {
+  "text": "Se plantea un puente que une un diente natural con un implante. ¿Cuál es el principal inconveniente mecánico?",
+  "options": [
+   "El diente natural se osteointegra al implante y se anquilosa.",
+   "El diente se mueve por su ligamento y el implante no, de modo que el implante recibe cargas extra como si soportara un cantilever.",
+   "El implante se mueve más que el diente y la prótesis se descementa.",
+   "El ligamento transmite al implante las bacterias periodontales."
+  ],
+  "correct": "b",
+  "explanation": "Unir diente natural e implante hace que no trabajen a la vez: el diente se mueve y el implante soporta una carga extra.",
+  "difficulty": "alta",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 15 de octubre · Posiciones clave y número de implantes"
+  }
+ },
+ {
+  "text": "Un paciente con buena higiene vuelve cada pocas semanas con el tornillo del mismo implante aflojado. ¿Qué debe sospecharse?",
+  "options": [
+   "Un fallo de osteointegración en la fase inflamatoria.",
+   "Una infección que se resolverá reforzando la higiene.",
+   "Un aflojamiento normal que no requiere análisis.",
+   "Una sobrecarga mecánica sobre ese implante, que hay que localizar y corregir."
+  ],
+  "correct": "d",
+  "explanation": "El aflojamiento repetido del tornillo del mismo implante apunta a sobrecarga, que hay que localizar y corregir.",
+  "difficulty": "baja",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 15 de octubre · Posiciones clave y número de implantes"
+  }
+ },
+ {
+  "text": "¿Qué efecto tiene un cantilever sobre la fuerza que reciben la prótesis y sus implantes?",
+  "options": [
+   "Actúa como una palanca que multiplica la fuerza, y cuanto más largo es el brazo, mayor es el efecto.",
+   "Reparte la fuerza entre más implantes y la reduce.",
+   "No cambia la fuerza, solo su dirección.",
+   "Solo la aumenta en pacientes bruxistas."
+  ],
+  "correct": "a",
+  "explanation": "El cantilever actúa como palanca y multiplica la carga sobre los implantes en proporción a su longitud.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 15 de octubre · Posiciones clave y número de implantes"
+  }
+ },
+ {
+  "text": "Un paciente con gran reabsorción ósea recibe una prótesis con encía artificial y dientes a la altura del plano oclusal; se habían planificado tres implantes y se colocan dos. ¿Qué error se ha cometido?",
+  "options": [
+   "Ninguno: la encía artificial reduce la carga y permite menos implantes.",
+   "Se ha reducido el cantilever horizontal, lo que obliga a añadir implantes.",
+   "Se ha aumentado el cantilever vertical sin aumentar el número de implantes; deberían ser más (y, si es posible, de mayor diámetro).",
+   "Se debió acortar la prótesis hasta el hueso para no añadir implantes."
+  ],
+  "correct": "c",
+  "explanation": "Al aumentar el cantilever vertical hay que aumentar el número y, si se puede, el diámetro de los implantes, no reducirlos.",
+  "difficulty": "alta",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 15 de octubre · Posiciones clave y número de implantes"
+  }
+ },
+ {
+  "text": "Si el implante queda muy corto en proporción a la altura de la prótesis, ¿qué ocurre con la palanca?",
+  "options": [
+   "El fulcro se aleja del implante y la palanca queda compensada a su favor.",
+   "El fulcro se desplaza hacia el implante, la palanca queda descompensada y el implante sale perjudicado.",
+   "No cambia nada porque la fuerza masticatoria es fija.",
+   "El implante deja de recibir carga porque la prótesis la absorbe."
+  ],
+  "correct": "b",
+  "explanation": "Con poco implante y mucha prótesis, el fulcro se acerca al implante y la palanca desfavorece al implante.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 15 de octubre · Posiciones clave y número de implantes"
+  }
+ },
+ {
+  "text": "¿Cuál de estos rasgos corresponde a un paciente con factores de fuerza favorables?",
+  "options": [
+   "Desgastes dentarios generalizados y parafunción leve.",
+   "Fracturas repetidas de coronas previas.",
+   "Solo dientes anteriores inferiores presentes en oposición.",
+   "Oclusión estable con guía correcta, sin patología articular ni interferencias."
+  ],
+  "correct": "d",
+  "explanation": "El paciente favorable tiene oclusión estable y guía correcta, sin patología articular ni interferencias.",
+  "difficulty": "baja",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 15 de octubre · Posiciones clave y número de implantes"
+  }
+ },
+ {
+  "text": "Un paciente braquifacial presenta desgaste dentario, parafunción leve y poco espacio protésico. ¿Cómo se clasifica su riesgo de fuerza?",
+  "options": [
+   "Moderado.",
+   "Favorable, porque el desgaste es normal con la edad.",
+   "Desfavorable, porque cualquier desgaste implica bruxismo severo.",
+   "No se puede clasificar: estos factores solo importan en arcadas completas."
+  ],
+  "correct": "a",
+  "explanation": "Desgaste, cara cuadrada, parafunción leve y poco espacio protésico forman un perfil de riesgo moderado.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 15 de octubre · Posiciones clave y número de implantes"
+  }
+ },
+ {
+  "text": "A un paciente con prótesis completa removible superior se le coloca una prótesis fija sobre implantes en la arcada inferior y, meses después, la completa superior deja de sujetarse. ¿Qué lo explica?",
+  "options": [
+   "La prótesis inferior reduce la fuerza masticatoria y la superior se afloja por falta de función.",
+   "Los implantes inferiores desplazan la completa superior por la osteointegración.",
+   "La nueva prótesis inferior permite masticar con mucha más fuerza y la dentadura superior, con peor sujeción, no la aguanta.",
+   "El antagonista no influye en la carga de cada arcada."
+  ],
+  "correct": "c",
+  "explanation": "Una prótesis fija inferior aumenta la fuerza masticatoria y la completa superior, peor sujeta, termina cediendo.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 15 de octubre · Posiciones clave y número de implantes"
+  }
+ },
+ {
+  "text": "¿Por qué se deja una corona unitaria sobre implante en ligera infraoclusión cuando los dientes vecinos son naturales?",
+  "options": [
+   "Porque el implante se osteointegra mejor sin contactos oclusales.",
+   "Porque los dientes naturales se hunden algo al masticar por su ligamento y, con contacto pleno, el implante cargaría de más.",
+   "Porque así el implante no trabaja nunca y se evita toda carga.",
+   "Porque la cerámica se fractura si contacta con dientes naturales."
+  ],
+  "correct": "b",
+  "explanation": "Los dientes naturales ceden por su ligamento y el implante no; un contacto ligero evita que cargue de más.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 15 de octubre · Posiciones clave y número de implantes"
+  }
+ },
+ {
+  "text": "¿Cuál de estas series recoge las reglas básicas de posición y número para sostener una prótesis fija?",
+  "options": [
+   "Sin cantilevers, no más de tres pónticos adyacentes, implante en el canino e implante en el primer molar.",
+   "Cantilever distal habitual, hasta cinco pónticos y un implante por cada diente ausente.",
+   "Sin cantilevers, hasta cinco pónticos, implante en el lateral y en el segundo molar.",
+   "Siempre implantes adyacentes, con cantilever en el canino y en el molar."
+  ],
+  "correct": "a",
+  "explanation": "Las reglas básicas son: sin cantilevers, máximo tres pónticos, implante en el canino y en el primer molar.",
+  "difficulty": "baja",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 15 de octubre · Posiciones clave y número de implantes"
+  }
+ },
+ {
+  "text": "¿Por qué no deben dejarse más de tres pónticos seguidos entre dos implantes?",
+  "options": [
+   "Porque los pónticos reducen la altura de la encía y favorecen la recesión.",
+   "Porque los pónticos largos no pueden fabricarse en cerámica.",
+   "Porque con cuatro pónticos el canino deja de dar la guía lateral.",
+   "Porque el tramo largo se flexiona como una viga y esa flexión repetida carga los implantes y puede fracturar la prótesis."
+  ],
+  "correct": "d",
+  "explanation": "Un tramo largo se flexiona con cada masticación y esa flexión repetida carga mucho los implantes.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 15 de octubre · Posiciones clave y número de implantes"
+  }
+ },
+ {
+  "text": "Según la regla de las cinco zonas, ¿cuántas zonas se distinguen en una arcada y qué se exige en cada zona que se rehabilita?",
+  "options": [
+   "Tres (anterior, canina y posterior), con al menos dos implantes en cada una.",
+   "Cinco, con un implante por cada diente ausente de la zona.",
+   "Cinco (dos posteriores, dos caninas y una anterior), con al menos un implante en cada una.",
+   "Cuatro (una por cuadrante), con un implante por cuadrante."
+  ],
+  "correct": "c",
+  "explanation": "Son cinco zonas y cada zona rehabilitada necesita al menos un implante.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 15 de octubre · Posiciones clave y número de implantes"
+  }
+ },
+ {
+  "text": "¿Por qué se coloca siempre un implante en la posición del canino?",
+  "options": [
+   "Porque es el diente más pequeño y menos cargado.",
+   "Porque recibe las fuerzas de lateralidad (guía canina) y, como póntico, soportaría cargas críticas sin apoyo propio.",
+   "Porque su raíz corta no admite ser sustituida por pónticos.",
+   "Porque es la posición con el hueso más blando de la arcada."
+  ],
+  "correct": "b",
+  "explanation": "El canino concentra las fuerzas de lateralidad por la guía canina y por eso siempre lleva implante.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 15 de octubre · Posiciones clave y número de implantes"
+  }
+ },
+ {
+  "text": "Un paciente pierde premolares y molares; se colocan dos implantes en los premolares y se deja un cantilever distal con los molares. ¿Qué reglas se incumplen?",
+  "options": [
+   "Solo el límite de tres pónticos.",
+   "Solo la regla del canino.",
+   "Ninguna: un cantilever distal es aceptable si se ajusta la oclusión.",
+   "Se incumplen la regla de no dejar cantilever y la de colocar un implante en el primer molar."
+  ],
+  "correct": "d",
+  "explanation": "Un cantilever distal que deja el primer molar sin implante incumple dos de las reglas básicas.",
+  "difficulty": "alta",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 15 de octubre · Posiciones clave y número de implantes"
+  }
+ },
+ {
+  "text": "¿Por qué se evitan los implantes adyacentes y se prefieren combinaciones implante-diente o implante-póntico?",
+  "options": [
+   "Porque entre dos implantes contiguos es muy difícil conservar la papila.",
+   "Porque dos implantes contiguos se osteointegran peor.",
+   "Porque la prótesis sobre dos implantes juntos no admite cerámica.",
+   "Porque los implantes contiguos siempre generan un cantilever."
+  ],
+  "correct": "a",
+  "explanation": "Entre implantes contiguos la papila se pierde con facilidad, por lo que se prefieren implante-diente o implante-póntico.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 15 de octubre · Posiciones clave y número de implantes"
+  }
+ },
+ {
+  "text": "Un paciente ha perdido los cuatro incisivos superiores y tiene hueso suficiente en los centrales. ¿Qué diseño es el habitual?",
+  "options": [
+   "Cuatro implantes, uno por incisivo, para máxima resistencia.",
+   "Dos implantes en los laterales y los centrales como pónticos en cantilever.",
+   "Dos implantes en los incisivos centrales y los laterales como cantilever.",
+   "Un único implante central con tres pónticos en cantilever."
+  ],
+  "correct": "c",
+  "explanation": "Con los cuatro incisivos perdidos se colocan dos implantes en los centrales y los laterales quedan como cantilever.",
+  "difficulty": "alta",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 15 de octubre · Posiciones clave y número de implantes"
+  }
+ },
+ {
+  "text": "¿Qué excepción a evitar implantes contiguos se admitió en clase?",
+  "options": [
+   "Los dos primeros molares inferiores.",
+   "Los dos incisivos centrales, donde por la anatomía de la zona es raro perder la papila.",
+   "Los dos caninos superiores.",
+   "Los dos premolares en el sector estético."
+  ],
+  "correct": "b",
+  "explanation": "La excepción son los dos incisivos centrales, donde es raro perder la papila entre ellos.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 15 de octubre · Posiciones clave y número de implantes"
+  }
+ },
+ {
+  "text": "¿Qué ventaja ofrece dividir la prótesis en tramos independientes en lugar de hacer una sola pieza?",
+  "options": [
+   "Se necesitan menos implantes.",
+   "Elimina el riesgo de fracaso de los implantes.",
+   "Permite unir dientes naturales e implantes sin problema.",
+   "Si se fractura la cerámica o fracasa un implante, solo se rehace un tramo y no toda la rehabilitación."
+  ],
+  "correct": "d",
+  "explanation": "Con tramos independientes una fractura o un fracaso afecta solo a un tramo, no a toda la rehabilitación.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 15 de octubre · Posiciones clave y número de implantes"
+  }
+ },
+ {
+  "text": "Un paciente ha perdido el 44 y el 45 y se colocan dos implantes adyacentes. Se plantea unir las dos coronas. ¿Qué es lo más adecuado?",
+  "options": [
+   "Explicarle las dos opciones y dejar constancia de su decisión; si se unen, ambos implantes comparten la carga.",
+   "Unirlas siempre sin consultar, por ser una decisión puramente técnica.",
+   "Separarlas siempre, porque unir coronas sobre implantes está contraindicado.",
+   "Colocar un tercer implante de forma obligatoria."
+  ],
+  "correct": "a",
+  "explanation": "Se ofrece al paciente unir o separar, se anota su decisión y, si se unen, los dos implantes comparten la carga.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 15 de octubre · Posiciones clave y número de implantes"
+  }
+ },
+ {
+  "text": "¿Por qué una arcada cuadrada ofrece más estabilidad que una triangular con pocos implantes?",
+  "options": [
+   "Porque en la cuadrada el hueso es siempre más denso.",
+   "Porque la arcada triangular carece de zona canina.",
+   "En la triangular el frente tiene pocos implantes y la prótesis tiende a levantarse; en la cuadrada el apoyo se reparte mejor.",
+   "Porque en la triangular los implantes no pueden angularse."
+  ],
+  "correct": "c",
+  "explanation": "En la arcada triangular hay pocos implantes por delante y la prótesis se levanta con facilidad; la cuadrada reparte mejor el apoyo.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 15 de octubre · Posiciones clave y número de implantes"
+  }
+ },
+ {
+  "text": "¿Cómo debe ajustarse la planificación en el maxilar respecto a la mandíbula?",
+  "options": [
+   "Se puede reducir el número de implantes porque el maxilar recibe menos fuerza.",
+   "Al ser el hueso más blando, hay que aumentar el número o el diámetro de los implantes y evitar los cantilevers.",
+   "Se admiten cantilevers más largos que en la mandíbula.",
+   "Se priorizan implantes cortos y estrechos para evitar la elevación de seno."
+  ],
+  "correct": "b",
+  "explanation": "En el maxilar, de hueso más blando, se aumenta el número o el diámetro de los implantes y se evita el cantilever.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 15 de octubre · Posiciones clave y número de implantes"
+  }
+ },
+ {
+  "text": "Un paciente con sobredentadura mandibular sobre dos implantes en los caninos refiere que la prótesis salta al morder con los incisivos. ¿Qué solución apunta la clase?",
+  "options": [
+   "Alargar el cantilever anterior para repartir mejor el apoyo.",
+   "Reducir el diámetro de los implantes.",
+   "Retirar los implantes y pasar a una completa convencional.",
+   "Romper el eje que forman los dos implantes con otro implante por delante (disposición en trípode)."
+  ],
+  "correct": "d",
+  "explanation": "Los implantes alineados permiten la rotación; un tercer implante fuera de la línea la anula.",
+  "difficulty": "alta",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 15 de octubre · Posiciones clave y número de implantes"
+  }
+ },
+ {
+  "text": "¿Qué se explicó sobre el diámetro y la longitud de los implantes?",
+  "options": [
+   "Influye más el diámetro que la longitud, porque los primeros milímetros de hueso son los que disipan la carga; los largos se usan sobre todo para lograr anclaje bicortical.",
+   "La longitud influye más que el diámetro porque la carga se disipa a lo largo de todo el implante.",
+   "Ambos son irrelevantes si se coloca un número elevado de implantes.",
+   "En hueso tipo 4 conviene un implante corto y estrecho para no dañar el hueso."
+  ],
+  "correct": "a",
+  "explanation": "El diámetro pesa más que la longitud; la longitud se usa sobre todo para el anclaje bicortical.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 15 de octubre · Posiciones clave y número de implantes"
+  }
+ },
+ {
+  "text": "Con implantes de 4 mm de diámetro, ¿qué espacio mínimo necesitas para colocar uno entre dos dientes naturales respetando 1,5 mm a cada lado?",
+  "options": [
+   "5 mm.",
+   "6 mm.",
+   "7 mm.",
+   "8 mm."
+  ],
+  "correct": "c",
+  "explanation": "Se suman el diámetro del implante y 1,5 mm a cada lado: 1,5 + 4 + 1,5 = 7 mm.",
+  "difficulty": "baja",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 15 de octubre · Posiciones clave y número de implantes"
+  }
+ },
+ {
+  "text": "Un tramo edéntulo mide 18 mm entre dos dientes naturales. Con implantes de 4 mm, 1,5 mm entre diente e implante y 3 mm entre implantes, ¿cuántos implantes caben como máximo?",
+  "options": [
+   "Uno.",
+   "Dos.",
+   "Tres.",
+   "Cuatro."
+  ],
+  "correct": "b",
+  "explanation": "Dos implantes de 4 mm necesitan 14 mm y tres necesitarían 21 mm, así que en 18 mm caben dos.",
+  "difficulty": "alta",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 15 de octubre · Posiciones clave y número de implantes"
+  }
+ },
+ {
+  "text": "¿Por qué se desaconseja el implante inmediato en el alvéolo de un molar inferior?",
+  "options": [
+   "Porque suele quedar en el alvéolo mesial o distal, lo que deja un cantilever al rehabilitar, y para estabilizarlo hay que profundizar hacia el nervio dentario inferior.",
+   "Porque la furca inferior es demasiado ancha y el implante queda flojo.",
+   "Porque el implante inmediato solo puede colocarse en premolares.",
+   "Porque el hueso inferior es siempre demasiado blando."
+  ],
+  "correct": "a",
+  "explanation": "En el molar inferior el implante queda en un alvéolo con cantilever y para estabilizarlo hay que acercarse al nervio dentario inferior.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 15 de octubre · Posiciones clave y número de implantes"
+  }
+ }
+]

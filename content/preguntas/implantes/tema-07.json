@@ -1,0 +1,482 @@
+[
+  {
+    "text": "¿Qué principio guía la colocación del implante según la clase?",
+    "options": [
+      "El implante se coloca siempre donde haya más hueso, y después se diseña la prótesis.",
+      "El implante se coloca guiado por la prótesis, no por el hueso disponible.",
+      "El implante se coloca según la posición que marque la fresa piloto, sin plan previo.",
+      "El implante se coloca siempre centrado en la cresta, sin tener en cuenta los dientes."
+    ],
+    "correct": "b",
+    "explanation": "Se parte de la prótesis ideal, se fusiona con el TAC y se diseña el implante desde ahí; si no cabe, se regenera.",
+    "difficulty": "baja",
+    "source": {
+      "kind": "clase",
+      "title": "Clase del 22 de octubre · Técnica quirúrgica de colocación del implante"
+    }
+  },
+  {
+    "text": "¿Por qué el colgajo para implantes se diseña con la base más ancha que el borde libre?",
+    "options": [
+      "Porque facilita suturar sin tensión en todos los casos.",
+      "Porque aumenta el tamaño de la cresta expuesta.",
+      "Porque evita que sea necesario usar bisturí.",
+      "Porque así se mantiene la vascularización que llega desde la base del colgajo."
+    ],
+    "correct": "d",
+    "explanation": "La base ancha conserva la irrigación del colgajo; una base estrecha deja el borde libre sin sangre suficiente.",
+    "difficulty": "media",
+    "source": {
+      "kind": "clase",
+      "title": "Clase del 22 de octubre · Técnica quirúrgica de colocación del implante"
+    }
+  },
+  {
+    "text": "Para una incisión de descarga vertical, ¿qué localización suele tolerar mejor el paciente en el postoperatorio?",
+    "options": [
+      "La posterior, porque el labio se mueve menos en esa zona.",
+      "La anterior, porque el labio la protege y se mueve poco.",
+      "La que cruza la papila, porque cicatriza mejor.",
+      "Cualquiera: la localización no influye en el postoperatorio."
+    ],
+    "correct": "a",
+    "explanation": "Las descargas posteriores molestan menos porque el labio apenas se mueve en esa zona, aunque son más difíciles de suturar.",
+    "difficulty": "media",
+    "source": {
+      "kind": "clase",
+      "title": "Clase del 22 de octubre · Técnica quirúrgica de colocación del implante"
+    }
+  },
+  {
+    "text": "Un paciente necesita un implante en el sector estético anterior y se quiere evitar la retracción de la papila. ¿Qué incisión se elige?",
+    "options": [
+      "Mediocrestal con descarga vertical amplia.",
+      "Incisión paracrestal hacia lingual.",
+      "Preservación de papila: la incisión no incluye la papila y no se levanta el colgajo sobre ella.",
+      "Descarga anterior muy amplia sin respetar la papila."
+    ],
+    "correct": "c",
+    "explanation": "La preservación de papila excluye la papila de la incisión, para evitar su retracción en zona estética.",
+    "difficulty": "media",
+    "source": {
+      "kind": "clase",
+      "title": "Clase del 22 de octubre · Técnica quirúrgica de colocación del implante"
+    }
+  },
+  {
+    "text": "En una mandíbula muy atrófica el nervio mentoniano puede estar en lo alto de la cresta. ¿Cómo se modifica la incisión?",
+    "options": [
+      "Mediocrestal, como siempre, porque el nervio está bien protegido.",
+      "Incisión paracrestal desplazada hacia lingual, porque el nervio nunca está en la vertiente lingual.",
+      "Paracrestal hacia vestibular, que es donde el nervio es más seguro.",
+      "Descarga vertical anterior sobre el agujero."
+    ],
+    "correct": "b",
+    "explanation": "El nervio mentoniano está en vestibular, así que en atrofia se incide hacia lingual.",
+    "difficulty": "alta",
+    "source": {
+      "kind": "clase",
+      "title": "Clase del 22 de octubre · Técnica quirúrgica de colocación del implante"
+    }
+  },
+  {
+    "text": "En una atrofia maxilar posterior severa, para colocar implantes cigomáticos o pterigoideos, ¿hacia dónde se desplaza la incisión?",
+    "options": [
+      "Hacia palatino, para obtener más encía queratinizada.",
+      "Exactamente en la línea media, sin desplazarla.",
+      "Hacia vestibular, porque el agujero palatino posterior puede quedar cerca de la cresta pero nunca en vestibular.",
+      "Hacia lingual, que es lo habitual en el maxilar."
+    ],
+    "correct": "c",
+    "explanation": "El agujero palatino posterior no llega a vestibular, así que la incisión se desplaza hacia fuera.",
+    "difficulty": "alta",
+    "source": {
+      "kind": "clase",
+      "title": "Clase del 22 de octubre · Técnica quirúrgica de colocación del implante"
+    }
+  },
+  {
+    "text": "¿Qué describe el «loop» del nervio mentoniano?",
+    "options": [
+      "El nervio avanza un poco más allá del agujero, gira y vuelve hacia atrás, de modo que sale mirando hacia atrás.",
+      "El nervio sale recto, perpendicular a la cortical.",
+      "El nervio se bifurca en dos ramas dentro del agujero.",
+      "El nervio se curva hacia la cresta alveolar."
+    ],
+    "correct": "a",
+    "explanation": "El nervio pasa del agujero, gira y retrocede, de modo que sale hacia atrás.",
+    "difficulty": "media",
+    "source": {
+      "kind": "clase",
+      "title": "Clase del 22 de octubre · Técnica quirúrgica de colocación del implante"
+    }
+  },
+  {
+    "text": "Al levantar un colgajo en una mandíbula con agujero mentoniano, ¿en qué sentido se despega y por qué?",
+    "options": [
+      "Hacia delante, para que el nervio quede apoyado en el borde afilado.",
+      "Hacia delante, porque así se ve mejor el agujero.",
+      "Hacia donde sea más cómodo, porque el borde del agujero no importa.",
+      "Hacia atrás, para que el nervio quede apoyado en el borde romo y no en el afilado."
+    ],
+    "correct": "d",
+    "explanation": "El colgajo mandibular se levanta hacia atrás para proteger el nervio apoyándolo en el borde romo.",
+    "difficulty": "media",
+    "source": {
+      "kind": "clase",
+      "title": "Clase del 22 de octubre · Técnica quirúrgica de colocación del implante"
+    }
+  },
+  {
+    "text": "¿Qué aporta fundamentalmente el contra-ángulo 20:1 del motor de implantes frente al contra-ángulo de aire de la clínica?",
+    "options": [
+      "Aumenta la velocidad veinte veces para fresar mejor.",
+      "Reduce la velocidad veinte veces y permite controlar el torque.",
+      "Elimina la necesidad de irrigar con suero.",
+      "Permite trabajar sin pedal."
+    ],
+    "correct": "b",
+    "explanation": "El 20:1 reduce la velocidad 20 veces y deja fijar el torque, a diferencia de la turbina o el contra-ángulo de aire.",
+    "difficulty": "media",
+    "source": {
+      "kind": "clase",
+      "title": "Clase del 22 de octubre · Técnica quirúrgica de colocación del implante"
+    }
+  },
+  {
+    "text": "Si en el motor se programa un torque límite y la fresa o el implante lo alcanza, ¿qué ocurre?",
+    "options": [
+      "El motor se detiene, avisando de que se ha alcanzado ese torque.",
+      "El motor aumenta el torque automáticamente.",
+      "El motor sigue girando pero más rápido.",
+      "El motor pasa a marcha atrás sin avisar."
+    ],
+    "correct": "a",
+    "explanation": "El motor se detiene al alcanzar el torque fijado, lo que informa de cómo agarra el implante.",
+    "difficulty": "media",
+    "source": {
+      "kind": "clase",
+      "title": "Clase del 22 de octubre · Técnica quirúrgica de colocación del implante"
+    }
+  },
+  {
+    "text": "¿Qué distingue a un aparato piezoeléctrico (piezotomo) del motor de implantes?",
+    "options": [
+      "Gira a más revoluciones y funciona con los mismos parámetros que el motor.",
+      "Se usa solo para colocar el implante en el hueso.",
+      "Corta tejido duro por vibración de la punta, sin cortar tejidos blandos.",
+      "Reduce la velocidad veinte veces."
+    ],
+    "correct": "c",
+    "explanation": "El piezo vibra y corta hueso sin lesionar la mucosa o la membrana del seno.",
+    "difficulty": "media",
+    "source": {
+      "kind": "clase",
+      "title": "Clase del 22 de octubre · Técnica quirúrgica de colocación del implante"
+    }
+  },
+  {
+    "text": "¿Qué ventaja tiene la fresa de inicio lanceolada frente a la redonda?",
+    "options": [
+      "Se usa solo para medir la profundidad final.",
+      "Reduce la necesidad de irrigación.",
+      "Permite fresar más rápido sin riesgo de calentar el hueso.",
+      "Se clava en la cresta o en la pared del alvéolo y no resbala."
+    ],
+    "correct": "d",
+    "explanation": "La lanceolada se clava como un dardo y permite fresar donde se quiere.",
+    "difficulty": "media",
+    "source": {
+      "kind": "clase",
+      "title": "Clase del 22 de octubre · Técnica quirúrgica de colocación del implante"
+    }
+  },
+  {
+    "text": "Se va a colocar un implante de 4 mm de diámetro junto a un diente, manteniendo 1,5 mm entre implante y diente. ¿A qué distancia del diente se coloca la fresa de inicio?",
+    "options": [
+      "A 1,5 mm del diente.",
+      "A 3,5 mm del diente: 1,5 mm más el radio de 2 mm.",
+      "A 5,5 mm del diente: 1,5 mm más el diámetro completo.",
+      "A 4 mm del diente."
+    ],
+    "correct": "b",
+    "explanation": "Distancia = 1,5 mm más el radio del implante: 1,5 + 2 = 3,5 mm.",
+    "difficulty": "alta",
+    "source": {
+      "kind": "clase",
+      "title": "Clase del 22 de octubre · Técnica quirúrgica de colocación del implante"
+    }
+  },
+  {
+    "text": "Con un implante de 6 mm de diámetro y 1,5 mm de distancia mínima al diente, ¿a qué distancia del diente se marca la fresa de inicio?",
+    "options": [
+      "A 4,5 mm del diente: 1,5 mm más el radio de 3 mm.",
+      "A 1,5 mm del diente.",
+      "A 6 mm del diente.",
+      "A 7,5 mm del diente."
+    ],
+    "correct": "a",
+    "explanation": "Radio de 3 mm más 1,5 mm de margen: 4,5 mm.",
+    "difficulty": "alta",
+    "source": {
+      "kind": "clase",
+      "title": "Clase del 22 de octubre · Técnica quirúrgica de colocación del implante"
+    }
+  },
+  {
+    "text": "¿Qué determina la fresa piloto en la osteotomía?",
+    "options": [
+      "Solo el punto de entrada en la cresta.",
+      "El diámetro final del implante.",
+      "La profundidad de trabajo y gran parte (alrededor del 80 %) de la orientación del eje.",
+      "Únicamente la velocidad de inserción."
+    ],
+    "correct": "c",
+    "explanation": "La piloto marca la longitud de trabajo y la mayor parte del eje.",
+    "difficulty": "alta",
+    "source": {
+      "kind": "clase",
+      "title": "Clase del 22 de octubre · Técnica quirúrgica de colocación del implante"
+    }
+  },
+  {
+    "text": "Una fresa está marcada a 10 mm y la estructura crítica (nervio) está a 10,5 mm. ¿Qué hay que tener en cuenta?",
+    "options": [
+      "Que la punta de la fresa no entra en la marca y suma unos 0,5 mm, por lo que realmente llega a 10,5 mm.",
+      "Que la fresa llegará exactamente a 10 mm.",
+      "Que la punta se resta de la medida, quedando en 9,5 mm.",
+      "Que no hay riesgo, porque la punta no corta."
+    ],
+    "correct": "a",
+    "explanation": "La punta no está incluida en la marca: con 10 mm marcados se llega realmente a 10,5 mm.",
+    "difficulty": "alta",
+    "source": {
+      "kind": "clase",
+      "title": "Clase del 22 de octubre · Técnica quirúrgica de colocación del implante"
+    }
+  },
+  {
+    "text": "¿Para qué sirve el agujero que tiene el paralelizador?",
+    "options": [
+      "Para introducir suero en el hueso.",
+      "Para sujetarlo con el tornillo de cierre.",
+      "Para pasar una seda dental que queda fuera de la boca, de modo que el paciente no pueda tragarlo.",
+      "Para ajustar su longitud."
+    ],
+    "correct": "c",
+    "explanation": "El orificio permite atar una seda dental y retirar el paralelizador si se cae.",
+    "difficulty": "media",
+    "source": {
+      "kind": "clase",
+      "title": "Clase del 22 de octubre · Técnica quirúrgica de colocación del implante"
+    }
+  },
+  {
+    "text": "Un paciente tiene un diente vecino que, al abrir la boca, se ve inclinado. ¿Cómo se orienta el fresado?",
+    "options": [
+      "Paralelo al eje de los dientes adyacentes, comprobando desde varios ángulos.",
+      "En vertical absoluta, para que quede recto respecto al suelo.",
+      "Siguiendo solo la imagen de la cresta, ignorando el diente.",
+      "Mirando desde un solo ángulo, para ganar rapidez."
+    ],
+    "correct": "a",
+    "explanation": "El eje de los dientes vecinos guía el fresado; fresar vertical sin más puede dañar una raíz.",
+    "difficulty": "alta",
+    "source": {
+      "kind": "clase",
+      "title": "Clase del 22 de octubre · Técnica quirúrgica de colocación del implante"
+    }
+  },
+  {
+    "text": "¿Qué se señaló como umbral de lesión térmica del hueso durante el fresado?",
+    "options": [
+      "Alrededor de 37 °C durante un segundo.",
+      "Alrededor de 60 °C durante un segundo.",
+      "Alrededor de 47 °C mantenidos durante un minuto.",
+      "Cualquier temperatura por encima de 40 °C durante unos segundos."
+    ],
+    "correct": "c",
+    "explanation": "Alcanzar unos 47 °C durante un minuto puede necrosar el hueso.",
+    "difficulty": "media",
+    "source": {
+      "kind": "clase",
+      "title": "Clase del 22 de octubre · Técnica quirúrgica de colocación del implante"
+    }
+  },
+  {
+    "text": "¿Por qué se fresa de forma intermitente («bone dancing») y no de forma continua hasta el fondo?",
+    "options": [
+      "Porque la fresa se desgasta menos con movimientos cortos.",
+      "Porque así se alinea mejor el eje del implante.",
+      "Porque el motor no admite funcionar de forma continua.",
+      "Porque la irrigación externa no llega al fondo del hueso, y al sacar la fresa se enfría y se limpia."
+    ],
+    "correct": "d",
+    "explanation": "El suero no llega a la profundidad, por eso se saca la fresa cada pocos segundos para refrigerarla.",
+    "difficulty": "media",
+    "source": {
+      "kind": "clase",
+      "title": "Clase del 22 de octubre · Técnica quirúrgica de colocación del implante"
+    }
+  },
+  {
+    "text": "A medida que aumenta el diámetro de las fresas en la secuencia, ¿qué ocurre con la velocidad?",
+    "options": [
+      "Se aumenta, para fresar más rápido y calentar menos.",
+      "Se reduce, porque la fresa más gruesa tiene más fricción y calienta más.",
+      "Se mantiene siempre igual.",
+      "Se pasa a cero para evitar el calor."
+    ],
+    "correct": "b",
+    "explanation": "A más diámetro, más fricción y calor, por lo que se baja la velocidad.",
+    "difficulty": "media",
+    "source": {
+      "kind": "clase",
+      "title": "Clase del 22 de octubre · Técnica quirúrgica de colocación del implante"
+    }
+  },
+  {
+    "text": "¿Por qué se considera problemática la fresa de irrigación interna cuando se reutiliza entre pacientes?",
+    "options": [
+      "Porque su canal es muy difícil de limpiar y esterilizar con garantías si queda sangre seca.",
+      "Porque no refrigera la punta de la fresa.",
+      "Porque corta peor que una fresa convencional.",
+      "Porque solo vale para hueso D4."
+    ],
+    "correct": "a",
+    "explanation": "El canal interno es casi imposible de limpiar y esterilizar con seguridad.",
+    "difficulty": "media",
+    "source": {
+      "kind": "clase",
+      "title": "Clase del 22 de octubre · Técnica quirúrgica de colocación del implante"
+    }
+  },
+  {
+    "text": "En hueso D1 muy denso, ¿qué secuencia se usa?",
+    "options": [
+      "Solo la fresa de inicio y la piloto, y condensar.",
+      "Se salta el avellanador para no debilitar la cortical.",
+      "Toda la secuencia, con avellanador y, si hace falta, macho de terraja.",
+      "Se fresa solo con la fresa piloto."
+    ],
+    "correct": "c",
+    "explanation": "En D1 se hace la secuencia completa, incluidos avellanador y macho de terraja.",
+    "difficulty": "alta",
+    "source": {
+      "kind": "clase",
+      "title": "Clase del 22 de octubre · Técnica quirúrgica de colocación del implante"
+    }
+  },
+  {
+    "text": "En hueso D4 muy blando, ¿qué estrategia se recomienda para ganar estabilidad primaria?",
+    "options": [
+      "Pasar todas las fresas hasta el diámetro del implante.",
+      "Pasar el macho de terraja, como en D1.",
+      "Fresar a alta velocidad sin irrigar.",
+      "Fresar poco y condensar el hueso con osteótomos en lugar de eliminarlo."
+    ],
+    "correct": "d",
+    "explanation": "En D4 se condensa con osteótomos para mejorar el hueso, en lugar de eliminarlo.",
+    "difficulty": "alta",
+    "source": {
+      "kind": "clase",
+      "title": "Clase del 22 de octubre · Técnica quirúrgica de colocación del implante"
+    }
+  },
+  {
+    "text": "¿Cuál es el rango de torque de inserción buscado, y qué riesgo hay si se supera con creces?",
+    "options": [
+      "Entre 5 y 10 N·cm; por encima no hay riesgo.",
+      "Entre 30 y 50 N·cm; por encima de 50 hay riesgo de necrosis por falta de vascularización.",
+      "Entre 80 y 100 N·cm; más torque siempre es mejor.",
+      "Cualquiera, porque el torque no afecta al hueso."
+    ],
+    "correct": "b",
+    "explanation": "El torque debe estar entre 30 y 50 N·cm; más de 50 puede necrosar el hueso.",
+    "difficulty": "alta",
+    "source": {
+      "kind": "clase",
+      "title": "Clase del 22 de octubre · Técnica quirúrgica de colocación del implante"
+    }
+  },
+  {
+    "text": "El implante de un caso en hueso denso se detiene cuando quedan unas pocas espiras por bajar. ¿Qué se recomienda?",
+    "options": [
+      "Sacarlo y pasar el avellanador o repasar la última fresa, sin forzar el implante.",
+      "Forzarlo con la carraca hasta que baje.",
+      "Dejarlo en esa posición y cerrar.",
+      "Cambiar a un implante mucho más ancho."
+    ],
+    "correct": "a",
+    "explanation": "Se saca el implante y se ensancha la cortical con avellanador o repasando la fresa.",
+    "difficulty": "alta",
+    "source": {
+      "kind": "clase",
+      "title": "Clase del 22 de octubre · Técnica quirúrgica de colocación del implante"
+    }
+  },
+  {
+    "text": "¿Por qué hay que reforzar la irrigación cuando se usa un drill extender (prolongador de fresa)?",
+    "options": [
+      "Porque el prolongador no se calienta.",
+      "Porque reduce el torque disponible.",
+      "Porque el suero se dirige a la pieza y llega peor a la punta de la fresa.",
+      "Porque no admite irrigación de ningún tipo."
+    ],
+    "correct": "c",
+    "explanation": "La irrigación llega peor a la punta, así que hay que insistir en ella o dirigirla.",
+    "difficulty": "media",
+    "source": {
+      "kind": "clase",
+      "title": "Clase del 22 de octubre · Técnica quirúrgica de colocación del implante"
+    }
+  },
+  {
+    "text": "Durante una cirugía en el maxilar se le cae el destornillador al paciente y este lo traga. ¿Qué se indica?",
+    "options": [
+      "No decir nada, porque casi siempre se elimina solo.",
+      "Hacerle vomitar en la consulta.",
+      "Esperar a que lo elimine y no hacer controles.",
+      "Informar al paciente, enviarlo al hospital y confirmar la localización con radiografía."
+    ],
+    "correct": "d",
+    "explanation": "Hay que informar y derivar para localizarlo con radiografía y controlar su avance.",
+    "difficulty": "alta",
+    "source": {
+      "kind": "clase",
+      "title": "Clase del 22 de octubre · Técnica quirúrgica de colocación del implante"
+    }
+  },
+  {
+    "text": "Si un instrumento cae a la vía aérea, ¿a dónde es más probable que vaya y cómo se resuelve?",
+    "options": [
+      "Al bronquio izquierdo, y se espera a que se expulse.",
+      "Al bronquio principal derecho, y se retira mediante broncoscopia.",
+      "Al estómago, y se retira con endoscopia.",
+      "A la tráquea alta, y se deja."
+    ],
+    "correct": "b",
+    "explanation": "El bronquio derecho es el más probable, y la solución es la broncoscopia.",
+    "difficulty": "alta",
+    "source": {
+      "kind": "clase",
+      "title": "Clase del 22 de octubre · Técnica quirúrgica de colocación del implante"
+    }
+  },
+  {
+    "text": "Tras la inserción de un implante se alcanza un torque de unos 15 N·cm y un ISQ bajo. ¿Qué decisión es más adecuada?",
+    "options": [
+      "No hacer carga inmediata y considerar un protocolo sumergido de dos fases.",
+      "Colocar la prótesis definitiva el mismo día.",
+      "Forzar el implante hasta lograr más torque.",
+      "Hacer carga inmediata para mejorar la estabilidad."
+    ],
+    "correct": "a",
+    "explanation": "Con poca estabilidad primaria se evita la carga inmediata y se opta por un protocolo de dos fases.",
+    "difficulty": "media",
+    "source": {
+      "kind": "clase",
+      "title": "Clase del 22 de octubre · Técnica quirúrgica de colocación del implante"
+    }
+  }
+]

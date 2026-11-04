@@ -1,0 +1,989 @@
+{
+ "course": "implantes",
+ "number": 8,
+ "title": "Implantes inmediatos en zona estética: indicación, biología y posición",
+ "minutes": 45,
+ "intro": {
+  "why": "Quitar un diente y colocar el implante en el mismo acto es tentador: menos cirugías, menos tiempo y mejor estética. Pero la inmediatez fracasó durante años por aplicarla a todos, sin entender cómo cicatriza el alvéolo. Este tema te enseña a decidir cuándo se puede hacer, qué hacer cuando no, y qué números y posiciones evitan perder hueso y encía.",
+  "before": [
+   "Un **alvéolo** es el hueco del hueso donde estaba la raíz del diente.",
+   "La **tabla vestibular** es la pared ósea del alvéolo por el lado del labio; en zona estética es la que más importa.",
+   "La **estabilidad primaria** es la fijación mecánica del implante en el hueso en el momento de colocarlo."
+  ],
+  "goals": [
+   "Decidir entre implante inmediato, temprano, diferido o preservación de la cresta, justificando cada elección.",
+   "Aplicar los números de seguridad (1,5, 3 y 2 mm) y calcular el diámetro de los implantes en un tramo.",
+   "Explicar qué le ocurre al alvéolo tras extraer y por qué un implante ancho daña la tabla vestibular.",
+   "Reconocer, prevenir y corregir el daño al diente vecino."
+  ]
+ },
+ "sections": [
+  {
+   "id": "mapa-de-la-clase",
+   "title": "El mapa de la clase: inmediatez con checklist",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Hasta ahora el curso ha explicado cómo se consigue la **osteointegración** (algo que ocurre en la gran mayoría de los casos si se conoce la teoría), cómo se **planifica desde la prótesis** y no desde el hueso, y cómo se **fresa**. Este tema añade un factor nuevo y más difícil: el implante se coloca **justo después de extraer un diente**, sobre todo en **sector estético** y en dientes individuales o tramos cortos (por ejemplo, de canino a canino)."
+    },
+    {
+     "type": "p",
+     "text": "Cada vez es más frecuente que el paciente cuide su boca y pierda un diente por un golpe o por el fracaso de una endodoncia. Es un tratamiento muy exigente porque el paciente **no viene a por un implante, viene a por un diente**."
+    },
+    {
+     "type": "analogy",
+     "text": "Un piloto no despega solo porque «casi todo está verde». Revisa su lista de comprobación y, si **una sola** luz está en rojo (por ejemplo, no hay combustible), no despega. Con el implante inmediato pasa igual: el alvéolo **tiene que ganárselo**. Si es predecible, se hace; si no lo es, se elige otra alternativa."
+    },
+    {
+     "type": "list",
+     "title": "Qué debes saber hacer al terminar el tema",
+     "items": [
+      "Clasificar la colocación del implante según el momento (tipos 1 a 4) y distinguir cirugía **con colgajo** de **sin colgajo**.",
+      "Leer en el escáner el hueso disponible para un inmediato: altura, espacio mesiodistal, anchura, angulación y posición tridimensional.",
+      "Explicar qué le ocurre al alvéolo tras extraer un diente.",
+      "Definir las zonas de confort y de peligro en las tres dimensiones, con sus números.",
+      "Reconocer las complicaciones de un implante mal posicionado y las medidas que las previenen."
+     ]
+    },
+    {
+     "type": "p",
+     "text": "La clase se centró en la parte **quirúrgica**. La prótesis provisional inmediata, que es la otra mitad del proceso, se trata aparte."
+    },
+    {
+     "type": "exam",
+     "text": "El profesor insistió en que no basta con memorizar: hay que **razonar** (por ejemplo, ante una lista de consecuencias de una mala posición, deducir cuáles son verdaderas). Aun así, los **números de seguridad** sí hay que saberlos. Dijo que habrá preguntas de verdadero o falso y de cálculo de espacios."
+    },
+    {
+     "type": "key",
+     "text": "Inmediato solo si el alvéolo supera el checklist. Una luz roja basta para descartarlo y pasar a otra alternativa."
+    }
+   ]
+  },
+  {
+   "id": "historia-de-la-inmediatez",
+   "title": "De dónde viene la inmediatez: auge, fracaso y reflexión",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "La idea de extraer un diente y colocar el implante en el mismo acto **no es nueva**: se intentó desde los primeros implantes, en los años 80. Algunos casos iban bien, pero el resultado **no era predecible**. La técnica es muy atractiva: reduce intervenciones, acorta el tratamiento, mejora la estética inmediata y busca preservar el hueso."
+    },
+    {
+     "type": "p",
+     "text": "Hubo después un periodo de **expectativas infladas**. Se lanzó un diseño de implante con aletas interproximales altas para seguir el contorno del diente (el implante One de Nobel). Anatómicamente tenía sentido, pero no se conocía bien la biología y el diseño acabó retirado del mercado tras muchas reclamaciones. Las series mostraban una **tasa de fracasos inaceptable** y la inmediatez se abandonó."
+    },
+    {
+     "type": "p",
+     "text": "Siguió un periodo de **reflexión y estudio**: la comunidad se preguntó qué había hecho mal, se produjo ciencia sobre cómo cicatriza el alvéolo y de ahí surgió la innovación. La técnica se retomó con criterios biológicos claros."
+    },
+    {
+     "type": "analogy",
+     "text": "Los pacientes llegan diciendo que a un familiar le pusieron el implante «en el momento». La respuesta no es «sí a todos»: se aplica la lista de comprobación y, si no es predecible, se explica por qué no."
+    },
+    {
+     "type": "list",
+     "title": "Ideas para recordar",
+     "items": [
+      "La osteointegración en sí no es el problema; lo difícil es el **tejido blando y duro del alvéolo**.",
+      "Probar en consulta el último diseño de moda sin documentación es un riesgo: conviene exigir evidencia (por ejemplo, años de uso).",
+      "Una decisión errónea de indicación, diámetro, posición o momento de carga puede provocar una **recesión vestibular** con margen gris visible."
+     ]
+    },
+    {
+     "type": "exam",
+     "text": "Pregunta tipo: por qué fracasó la primera ola de la inmediatez. Respuesta: se aplicó **sin conocer la biología de la cicatrización**, con indicaciones y posiciones que dañaban los tejidos."
+    },
+    {
+     "type": "key",
+     "text": "Idea vieja, mala ejecución, fracaso, estudio de la biología y regreso con criterios. Inmediatez no significa «a todos», sino «a quien se lo merece»."
+    }
+   ]
+  },
+  {
+   "id": "alternativas-tras-la-extraccion",
+   "title": "Qué hacer cuando se extrae un diente: cuatro caminos",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Ante un diente que hay que extraer en zona estética hay varias opciones. La clase las ordenó según cuánto tejido se conserva."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Opción",
+      "Qué es",
+      "Qué conserva"
+     ],
+     "rows": [
+      [
+       "Implante inmediato",
+       "Extraer y colocar el implante en el mismo acto (si pasa el checklist).",
+       "Es la mejor si está bien indicada y ejecutada: orientativamente, más del 90 %, casi todo."
+      ],
+      [
+       "Preservación de la cresta alveolar",
+       "Rellenar el alvéolo con un material en el momento de la extracción.",
+       "Minimiza la pérdida, orientativamente por encima del 85 %."
+      ],
+      [
+       "No hacer nada",
+       "Extraer y dejar cicatrizar.",
+       "Se pierden tejidos duros y blandos, y rápido (en unos dos meses)."
+      ],
+      [
+       "Tratamiento tardío",
+       "Colocar el implante años después.",
+       "Con la pérdida ya instalada hay que regenerar; difícilmente se llega al resultado inicial."
+      ]
+     ]
+    },
+    {
+     "type": "term",
+     "term": "Preservación de la cresta alveolar",
+     "text": "Se coloca un relleno dentro del alvéolo tras la extracción para **minimizar** (nunca evitar del todo) la pérdida de hueso. Se dice **preservación**, no conservación, porque lo que se logra es perder lo menos posible."
+    },
+    {
+     "type": "list",
+     "title": "Cómo debe ser y cuándo se hace",
+     "items": [
+      "Debe hacerse **en el momento de la extracción**. Si ya se ha perdido el hueso, lo que se hace es regeneración ósea guiada.",
+      "Se puede hacer aunque falten **varios dientes**, no solo uno.",
+      "El material debe **reabsorberse lentamente**: tiene que sostener el volumen el tiempo suficiente, como poner un pie para que no se cierre una puerta.",
+      "Si no se hace nada o se espera años, para colocar el implante en su posición ideal suele hacer falta **regeneración ósea guiada** (injertos en bloque, membranas…), más cirugías y un resultado que no iguala al del diente vecino."
+     ]
+    },
+    {
+     "type": "example",
+     "text": "Un paciente que perdió un incisivo y se puso una prótesis removible porque no tenía presupuesto vuelve a los cinco años pidiendo el implante. Habrá perdido tejidos y, si se quiere el implante en la posición protésica ideal, quedaría fuera del hueso: hará falta regenerar antes. Quien solo se hace un implante sin otros dientes perdidos casi seguro necesitará regeneración."
+    },
+    {
+     "type": "p",
+     "text": "Si ha perdido toda la corona, el alvéolo y la base, una **sobredentadura** sí resuelve el conjunto porque la prótesis sustituye todo; pero eso no es lo que ocurre en un diente individual de sector estético."
+    },
+    {
+     "type": "exam",
+     "text": "Se pregunta que la preservación **minimiza, no evita**, que se hace **en el momento de la extracción** y que el material debe mantenerse. También que, ante la duda, es mejor una preservación que un inmediato mal indicado."
+    },
+    {
+     "type": "key",
+     "text": "Inmediato bien hecho > preservación > nada o tardío con regeneración. La preservación minimiza, no evita, y se hace el día de la extracción."
+    }
+   ]
+  },
+  {
+   "id": "tipos-de-colocacion",
+   "title": "Tipos de colocación (1 a 4) y colgajo",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Las decisiones dependen de **qué estás esperando** que cicatrice. Por eso se clasifica la colocación según el tiempo transcurrido desde la extracción."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Tipo",
+      "Cuándo",
+      "Qué se busca"
+     ],
+     "rows": [
+      [
+       "1. Inmediato",
+       "En el mismo acto de la extracción.",
+       "Preservar tejidos y acortar el tratamiento, si todo es favorable."
+      ],
+      [
+       "2. Temprano",
+       "A las 4-6 semanas.",
+       "Que cicatrice el **tejido blando**: se resuelve la infección y la encía se cierra y engrosa. El hueso aún no ha curado, pero el alvéolo tampoco se ha reabsorbido."
+      ],
+      [
+       "3. Diferido",
+       "Unas 8-12 semanas (al menos 8).",
+       "Que cicatrice el **hueso**, sobre todo si sin él no habría estabilidad primaria."
+      ],
+      [
+       "4. Tardío",
+       "Años después.",
+       "Ya se ha perdido todo; entra en regeneración ósea guiada (implantología avanzada)."
+      ]
+     ]
+    },
+    {
+     "type": "analogy",
+     "text": "Si necesitas regenerar hueso, debes poder taparlo con encía. Un injerto expuesto a la saliva se infecta y se pierde. Por eso a veces se espera cuatro semanas: para que haya encía con la que cerrar. Pero al regenerar, el hueso «engorda» como una chaqueta que ya no cierra tras las Navidades: cerrar con tensión es arriesgado, porque se abre."
+    },
+    {
+     "type": "term",
+     "term": "Estabilidad primaria",
+     "text": "Fijación mecánica del implante en el hueso en el momento de colocarlo. Es un requisito de la osteointegración: si se ve en el escáner que no se va a conseguir, no se debe colocar inmediato."
+    },
+    {
+     "type": "list",
+     "title": "Con colgajo o sin colgajo",
+     "items": [
+      "Cuando se levanta un **colgajo** se daña mucho más el tejido, y la inmediatez va precisamente de **preservar tejidos**. Es un factor en contra, no una prohibición.",
+      "Si se levanta, se respetan las papilas: si se pierden por una mala maniobra, no hay de qué quejarse."
+     ]
+    },
+    {
+     "type": "example",
+     "text": "Un incisivo 21 con absceso periapical agudo y biotipo fino, y un paciente que exige el implante hoy. Hay **dos luces rojas**: infección aguda y biotipo fino. No se hace tipo 1. Se hace tipo 2: a las 4-6 semanas la infección está resuelta, el tejido blando ha cicatrizado y engrosado, y el alvéolo apenas se ha reabsorbido. Al paciente se le dice que se lo pondrás «en el mismo mes, no en el mismo día»."
+    },
+    {
+     "type": "p",
+     "text": "Y no se trata de una técnica aislada: la inmediatez es un **pack** de tres elementos, la **valoración del alvéolo**, la **colocación del implante** y la **colocación de la prótesis**. Es planificación, no un acto."
+    },
+    {
+     "type": "exam",
+     "text": "Casos del tipo «¿qué tipo de colocación y por qué?»: identifica qué luces rojas hay y qué tejido necesitas esperar (blando o duro)."
+    },
+    {
+     "type": "key",
+     "text": "Tipo 1 inmediato; tipo 2, 4-6 semanas, tejido blando; tipo 3, unas 8-12 semanas, hueso; tipo 4, años. Elegir según lo que se espera que cicatrice."
+    }
+   ]
+  },
+  {
+   "id": "ventajas-y-limites",
+   "title": "Ventajas, límites y zonas donde no suele ser posible",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Si todo va bien, el inmediato **reduce el tiempo, el coste y la necesidad de aumentar hueso**, preserva tejido blando, puede mejorar la posición del implante y aumenta la satisfacción del paciente."
+    },
+    {
+     "type": "list",
+     "title": "Situaciones que apagan la luz verde",
+     "items": [
+      "**Infección**: no tiene sentido colocar un implante limpio en un sitio con infección.",
+      "**Poco hueso** o un quiste grande: sin hueso no hay dónde fijar el implante.",
+      "**Pérdida de la tabla vestibular** (por ejemplo, al extraer): la situación pasa a ser de alta complejidad.",
+      "Cuando hay que **trabajar más allá del ápice** y se arriesgan estructuras como el nervio dentario."
+     ]
+    },
+    {
+     "type": "table",
+     "title": "Molares: por qué suelen descartarse o no",
+     "head": [
+      "Zona",
+      "Situación"
+     ],
+     "rows": [
+      [
+       "Molar inferior",
+       "No suele ser habitual. El septo interradicular es estrecho para un implante de al menos 4 mm; elegir una raíz obliga a un **cantiléver**, poco recomendable en molares; y la estabilidad se busca en el ápice, cerca del **nervio dentario**, con la zona anestesiada y sin aviso por dolor."
+      ],
+      [
+       "Primer molar superior",
+       "Con frecuencia es posible: las raíces tienden a ser divergentes y el hueso de la furca es bueno, siempre que haya altura hacia el seno."
+      ],
+      [
+       "Segundo molar superior",
+       "Las raíces suelen ser coalescentes: al extraerlas queda una gran cavidad, con aire del seno por encima y estabilidad primaria difícil."
+      ]
+     ]
+    },
+    {
+     "type": "p",
+     "text": "Con el seno hay que tener **respeto** por sus complicaciones. Lo que se necesita para el implante es **hueso donde conseguir estabilidad primaria**. Si tras quitar las raíces queda apenas un milímetro de cortical y detrás la membrana de Schneider, no hay estabilidad."
+    },
+    {
+     "type": "exam",
+     "text": "Se pide razonar casos: ¿se puede colocar aquí inmediato? Busca hueso para estabilidad, ausencia de infección, tabla vestibular íntegra y distancia a estructuras como el nervio dentario."
+    },
+    {
+     "type": "key",
+     "text": "Sin hueso, con infección o sin tabla vestibular no se hace inmediato. Molar inferior casi nunca; primer molar superior a veces; segundo molar superior rara vez."
+    }
+   ]
+  },
+  {
+   "id": "cicatrizacion-del-alveolo",
+   "title": "Qué le pasa al alvéolo cuando se quita un diente",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Tras extraer un diente el alvéolo se **reduce**. La pérdida afecta a altura, pero sobre todo a **anchura**, especialmente por **vestibular**, y es muy rápida: en unos **dos meses** ya es evidente."
+    },
+    {
+     "type": "list",
+     "title": "Factores que aumentan esa reducción",
+     "items": [
+      "El **trauma quirúrgico**: por ejemplo, un diente endodonciado que se fractura y obliga a horas de maniobras.",
+      "La **falta de estímulo** sobre el hueso, que atrofia.",
+      "La pérdida del **bundle bone**, el hueso fino que reviste el alvéolo del lado vestibular y que se daña si se rellena el alvéolo con un implante demasiado ancho.",
+      "La **información genética**: algunas personas pierden hueso con más facilidad."
+     ]
+    },
+    {
+     "type": "term",
+     "term": "Bundle bone",
+     "text": "Hueso fino de la cara interna de la tabla vestibular, junto al ligamento periodontal. La clase lo presentó como la zona clave para que la tabla vestibular se mantenga; si se daña con un implante que ocupa todo el alvéolo, se pierde mucha tabla vestibular."
+    },
+    {
+     "type": "p",
+     "text": "Un estudio clásico de cicatrización del alvéolo mostró que, si no se respeta el tejido, la tabla vestibular puede perder una proporción importante. Sin relleno, a los dos meses se ve una gran pérdida de altura y de cara vestibular; con **preservación** con material se ve mucho más tejido; con un **implante excesivamente ancho** que daña el bundle bone se pierde casi toda la tabla vestibular."
+    },
+    {
+     "type": "key",
+     "text": "El implante inmediato **no preserva la cresta por sí mismo**. Solo lo hace si se coloca respetando la biología: posición tridimensional correcta, al menos 2 mm de tabla vestibular, 2 mm de distancia a ella y estabilidad primaria."
+    },
+    {
+     "type": "p",
+     "text": "Bien hecho, el inmediato puede preservar incluso mejor que la preservación del alvéolo, porque además se puede mantener la **arquitectura gingival** con una prótesis provisional o un pilar de cicatrización personalizado (se desarrolla en la siguiente clase). Pero un implante solo, como se hacía a principios de los 2000, **no** mantiene los tejidos."
+    },
+    {
+     "type": "exam",
+     "text": "Pregunta tipo: ¿colocar un implante inmediato sirve por sí solo para mantener la cresta? **No**: solo preserva si se respetan todas las normas. Y es **mejor una preservación del alvéolo que un inmediato mal indicado**."
+    }
+   ]
+  },
+  {
+   "id": "espacios-y-numeros",
+   "title": "Espacios y números de seguridad",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Estos son los números de seguridad que la clase pidió recordar. Cada uno responde a una pregunta que debes hacerte antes de operar."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Medida",
+      "Qué protege",
+      "Pregunta que debes hacerte"
+     ],
+     "rows": [
+      [
+       "1,5 mm entre implante y diente",
+       "El pico óseo del diente vecino y su papila.",
+       "¿He conservado el hueso junto al diente?"
+      ],
+      [
+       "3 mm entre dos implantes",
+       "El pico óseo periimplantario y su papila.",
+       "¿He conservado el pico de hueso entre implantes?"
+      ],
+      [
+       "2 mm de hueso vestibular (grosor de la tabla)",
+       "La arquitectura vestibular y el bundle bone.",
+       "¿He protegido la pared vestibular?"
+      ],
+      [
+       "2 mm de encía queratinizada",
+       "La mantenibilidad: higiene y estabilidad del tejido blando.",
+       "¿Puede el paciente mantener limpio el implante?"
+      ],
+      [
+       "3-4 mm de tejido supracrestal (espacio biológico)",
+       "El espacio biológico del implante.",
+       "¿Lo he respetado?"
+      ],
+      [
+       "Estabilidad primaria de unos 35 N·cm (la clase citó 30-35)",
+       "La osteointegración inmediata.",
+       "¿Tengo fijación suficiente?"
+      ]
+     ]
+    },
+    {
+     "type": "p",
+     "text": "La distancia de 1,5 mm no se mide solo en la cresta: también hay que respetarla en el **ápice**. Si se pierde en la cresta se pierde papila; si no se respeta en el ápice, se daña el diente vecino. Hay que planificar la curvatura de las raíces (por ejemplo, la del canino hacia distal)."
+    },
+    {
+     "type": "steps",
+     "title": "Cómo calcular el diámetro de los implantes en un tramo",
+     "items": [
+      "Mide el espacio mesiodistal disponible en el escáner (en la cresta y también en el ápice).",
+      "Resta **1,5 mm por cada diente vecino** y **3 mm por cada separación entre implantes**.",
+      "Divide lo que queda entre los implantes: ese es el diámetro máximo."
+     ]
+    },
+    {
+     "type": "example",
+     "text": "Un implante de 4 mm entre dos dientes necesita 4 + 1,5 + 1,5 = **7 mm**. En un tramo de 16 mm con dos implantes: 16 − 1,5 − 1,5 − 3 = 10 mm, que repartidos entre dos da **5 mm** por implante. Lo único que puedes cambiar son los diámetros: los espacios de seguridad son fijos."
+    },
+    {
+     "type": "exam",
+     "text": "El profesor avisó de que cae una pregunta de este tipo y que es muy sencilla: solo hay que sumar y restar. También que se aprendan los números, porque «solo por esa pregunta» se suspende un examen."
+    },
+    {
+     "type": "key",
+     "text": "1,5 mm diente-implante; 3 mm implante-implante; 2 mm de tabla vestibular; 2 mm de encía queratinizada; 3-4 mm de tejido supracrestal. Los espacios son fijos; los diámetros se ajustan."
+    }
+   ]
+  },
+  {
+   "id": "posicion-tridimensional",
+   "title": "Posición tridimensional del implante inmediato",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Durante la etapa de entusiasmo se razonaba así: el diente natural tiene unos 5,5 mm en el incisivo central, 4,3 mm en el lateral y 4,6 mm en el canino; por tanto, se coloca un implante del **mismo diámetro** para rellenar el alvéolo. Parecía lógico y fue un **desastre**."
+    },
+    {
+     "type": "list",
+     "title": "Por qué fue un error",
+     "items": [
+      "Ocupa todo el alvéolo y llega hasta la pared de delante: se daña el **bundle bone**.",
+      "Se pierde la regeneración y la tabla vestibular.",
+      "Hoy se elige un implante **más estrecho** y se deja una **distancia de al menos 2 mm** a la tabla vestibular, además de al menos 1 mm por palatino."
+     ]
+    },
+    {
+     "type": "list",
+     "title": "Reglas de posición",
+     "items": [
+      "El grosor de la **tabla vestibular** debe ser de **2 mm o más** (se mide en el TAC). Con más de 2 mm hay mínima reabsorción; con menos hay máxima reabsorción, recesión gingival y deformidad de tejidos blandos.",
+      "El implante se separa de la tabla unos **2 mm**. Si ese espacio (jumping gap) es de **más de unos 2,5 mm**, hay que **rellenar** con biomaterial. Si es de 2 mm o menos, se deja que el **coágulo** lo rellene y no se añade material.",
+      "El relleno se cubre con una **esponja de fibrina** y la prótesis o pilar, para que no entre saliva ni se salga el material.",
+      "La **estabilidad primaria** se busca en el ápice y en la pared palatina."
+     ]
+    },
+    {
+     "type": "p",
+     "text": "La **angulación** importa tanto como la posición. Si la cabeza del implante queda demasiado hacia palatino, hay que compensar con cerámica y la corona sale con una «barriga» que el paciente **no puede limpiar**: se obstruye el flujo del surco periimplantario, aparece inflamación crónica y una recesión inevitable. Si queda hacia vestibular, se compromete la tabla."
+    },
+    {
+     "type": "analogy",
+     "text": "Un implante mal orientado es como un gancho para colgar el bolso: está firme, pero no se le puede poner un diente estético encima. La solución es quitarlo y volver a colocarlo, y hay que explicárselo al paciente."
+    },
+    {
+     "type": "list",
+     "title": "Consecuencias de colocar mal el implante (pregunta de examen)",
+     "items": [
+      "Aumenta la morbilidad y las complicaciones protésicas y periimplantarias.",
+      "Aumenta el gasto protésico.",
+      "Disminuye la estabilidad de la prótesis y el paciente está **más descontento**, no más contento.",
+      "La estética **no** mejora: empeora."
+     ]
+    },
+    {
+     "type": "p",
+     "text": "Un **software de planificación** permite colocar el implante sin tocar al paciente, ver el problema de emergencia y llegar a la cirugía con todo resuelto. Conviene que el cirujano sea quien rehabilita, para no repartir culpas."
+    },
+    {
+     "type": "exam",
+     "text": "No memorices la lista: razona. Una mala posición solo trae cosas malas. Recuerda que el implante mal angulado no se rehabilita bien, y que el objetivo es seguir **al diente futuro**, no al alvéolo."
+    },
+    {
+     "type": "key",
+     "text": "Implante más estrecho que el diente, a 2 mm de la tabla vestibular, hacia palatino sin pasarse, con relleno solo si el espacio supera unos 2,5 mm y con tabla de 2 mm o más."
+    }
+   ]
+  },
+  {
+   "id": "clasificacion-de-la-raiz",
+   "title": "Posición de la raíz en el alvéolo: clases 1 a 4",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "Para saber cuánto hueso hay y dónde conseguir estabilidad se mira cómo se relaciona la **raíz con el proceso alveolar** (clasificación de Kan, que la clase nombró de forma abreviada)."
+    },
+    {
+     "type": "table",
+     "head": [
+      "Clase",
+      "Dónde está la raíz",
+      "Consecuencia para el inmediato"
+     ],
+     "rows": [
+      [
+       "1",
+       "Hacia **vestibular**: hay mucho hueso en palatino.",
+       "Caso ideal y el más frecuente (la clase citó cerca del 86 %). El implante se coloca hacia palatino, lejos del bundle bone, con estabilidad apical y fricción contra la pared palatina."
+      ],
+      [
+       "2",
+       "En el centro: ni vestibular ni palatina.",
+       "La estabilidad se busca más allá del ápice, si hay espacio."
+      ],
+      [
+       "3",
+       "Hacia **palatino**: el hueso queda en vestibular.",
+       "El implante tendería a ir a vestibular, dañando el bundle bone, o su emergencia sería palatina. Situación desfavorable."
+      ],
+      [
+       "4",
+       "Raíz con poco hueso a ambos lados.",
+       "Casi sin opciones para el inmediato; se va a temprano, diferido o preservación."
+      ]
+     ]
+    },
+    {
+     "type": "p",
+     "text": "En la clase 3 se decide si, con un implante bien equilibrado, se consigue estabilidad primaria **sin dañar el bundle bone ni irse demasiado a palatino**. Si no, se opta por la **preservación**, porque como se dijo, una retirada a tiempo es mejor que una mala batalla."
+    },
+    {
+     "type": "p",
+     "text": "Con preservación se pierde algo y no se alcanzan los mejores resultados, pero es mejor que meterse en un inmediato y fallar. Si se hace, se espera a que el hueso cure y a los dos meses se coloca el implante en la posición ideal."
+    },
+    {
+     "type": "exam",
+     "text": "Se evalúa razonar con la clase: clase 1, ideal; clase 3, valorar preservación. Y que **un implante no se coloca siempre en el mismo sitio**: se adapta a la raíz."
+    },
+    {
+     "type": "key",
+     "text": "Clase 1: ideal, implante hacia palatino. Clase 3: difícil, mejor preservación si no se consigue estabilidad sin dañar el bundle bone."
+    }
+   ]
+  },
+  {
+   "id": "estetica-papilas-biotipo",
+   "title": "Estética: papila, punto de contacto, biotipo y diente vecino",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "En un diente aislado, la estética depende mucho de la **papila**. Un estudio clásico relacionó la papila con la distancia entre el **hueso interproximal** y el **punto de contacto**: debe ser de **5 mm o menos**."
+    },
+    {
+     "type": "list",
+     "title": "Qué se puede y qué no se puede modificar",
+     "items": [
+      "Se puede **modificar el punto de contacto** (con la corona), pero está limitado.",
+      "**Nunca** se puede aumentar el hueso interproximal con la restauración.",
+      "Las encías **poco festoneadas** y los dientes **cuadrados** son más favorables.",
+      "Los dientes **triangulares** son más difíciles: el punto de contacto queda más abajo y se parte de una situación comprometida."
+     ]
+    },
+    {
+     "type": "exam",
+     "text": "Se preguntan verdaderas y falsas sobre esto. Es **falsa** la que dice que se puede aumentar el hueso interproximal; son verdaderas que la distancia debe ser de 5 mm o menos, que se puede modificar el punto de contacto, que encías poco festoneadas son más fáciles y que dientes triangulares son más difíciles."
+    },
+    {
+     "type": "term",
+     "term": "Injerto de tejido conectivo",
+     "text": "Se coloca entre el hueso alveolar y la encía. No sirve para ganar hueso, sino para **ganar volumen** y **transformar un biotipo fino en grueso**, que es más predecible y con menos recesión. En zona estética se prefiere el **tejido conectivo subepitelial** al injerto gingival libre, que cambia el color y deja una encía pálida."
+    },
+    {
+     "type": "p",
+     "text": "Se pueden combinar injerto de tejido conectivo, relleno del espacio y cirugía con colgajo respetando las papilas; aun así, un solo central rara vez queda idéntico al de al lado."
+    },
+    {
+     "type": "example",
+     "text": "Cuando se rehabilita un solo central, suele ofrecerse una **carilla en el vecino**, porque igualar cerámica, transparencia y naturalidad es muy difícil. Si el paciente la rechaza, se explica que no se garantiza un resultado idéntico y se **anota en la historia**. En una arcada completa, se piden fotos de joven para respetar la forma de los dientes."
+    },
+    {
+     "type": "p",
+     "text": "Para medir la estética se usan índices como el **pink esthetic score**, que se verán aparte."
+    },
+    {
+     "type": "key",
+     "text": "Papila: hueso interproximal a 5 mm o menos del punto de contacto. El injerto de conectivo da volumen y biotipo grueso; no da hueso. En zona estética, conectivo subepitelial."
+    }
+   ]
+  },
+  {
+   "id": "complicaciones-y-trucos",
+   "title": "Complicaciones por mala posición, prevención y trucos",
+   "blocks": [
+    {
+     "type": "p",
+     "text": "La complicación típica es **dañar el diente vecino** con la fresa o el implante. Se produce, por ejemplo, cuando el alumno abre mucho la boca al paciente: al abrir, la mandíbula rota y cambia el eje del diente, y fresar vertical acaba tocando la raíz."
+    },
+    {
+     "type": "list",
+     "title": "Qué provoca y cómo se nota",
+     "items": [
+      "**Hipersensibilidad** del diente vecino: no al frío (no se ha tocado la pulpa), sino **al tocarlo y al masticar**, por daño del ligamento periodontal.",
+      "Puede acabar en **pérdida de vitalidad del diente** (patología periapical) y también en **pérdida del implante** si la infección le llega.",
+      "Una pista: ganar de repente **más estabilidad primaria de la esperable** en hueso blando, porque se está fresando un tejido muy duro (el diente), no el hueso."
+     ]
+    },
+    {
+     "type": "steps",
+     "title": "Cómo actuar y prevenir",
+     "items": [
+      "Posicionar el implante a **1,5 mm** de los dientes y planificar bien.",
+      "Hacer una **evaluación radiográfica** correcta, un **encerado diagnóstico** y usar **férulas quirúrgicas**.",
+      "Con la **fresa piloto** (que fija en torno al 80 % de la trayectoria y la profundidad), hacer una **periapical** con ella puesta. Si toca la raíz, se reorienta antes de seguir.",
+      "Si hace falta, **ortodoncia** previa para generar espacio.",
+      "Si ya se ha dañado, **no dejar el implante donde está**: se corrige, se informa y se vigila el diente."
+     ]
+    },
+    {
+     "type": "list",
+     "title": "Otros trucos de seguridad",
+     "items": [
+      "En hueso tipo 4, buscar la **cortical lingual** de la mandíbula para ganar estabilidad.",
+      "En casos al límite (hueso blando, cerca del seno) usar un **transportador que se atornille al implante**: si el implante se cae, se cae con el transportador y se recupera. Con transportadores de «clic» el implante puede perderse en el seno o la mandíbula.",
+      "Operar con **luz frontal** cuando se trabaja dentro del seno, y pedir un **TAC de verificación** si no se sabe dónde ha ido el implante."
+     ]
+    },
+    {
+     "type": "exam",
+     "text": "Hay que memorizar: la hipersensibilidad es a la presión y masticación, no al frío; puede acabar en pérdida del diente o del implante; y la prevención es posicionar a 1,5 mm, planificar, encerado, férula y radiografía con la fresa piloto. Si se daña, se corrige: negarlo es lo peor ante un juez."
+    },
+    {
+     "type": "key",
+     "text": "Diente vecino dañado: dolor al tocar o masticar, no al frío. Prevención: 1,5 mm, planificación, férula y periapical con fresa piloto. Si pasa, corregir."
+    }
+   ]
+  }
+ ],
+ "summary": [
+  "La inmediatez no se aplica a todos: se usa un checklist y una sola luz roja basta para descartarla y elegir otra alternativa.",
+  "Su primera ola fracasó porque se aplicó sin conocer la biología del alvéolo; se retomó tras un periodo de estudio.",
+  "Tras extraer, las opciones son inmediato (si pasa el checklist), preservación de la cresta, no hacer nada o tratamiento tardío con regeneración. La preservación minimiza, no evita, y se hace el día de la extracción.",
+  "Tipos: 1 inmediato; 2 temprano (4-6 semanas, tejido blando); 3 diferido (unas 8-12 semanas, hueso); 4 tardío. El colgajo daña tejidos y es un factor en contra.",
+  "La inmediatez es un pack: valoración del alvéolo, implante y prótesis.",
+  "Infección, falta de hueso, tabla vestibular perdida o molares inferiores suelen descartar el inmediato.",
+  "El alvéolo se reduce rápido, sobre todo en anchura y por vestibular; el implante solo no preserva si no se respeta la biología.",
+  "Números: 1,5 mm diente-implante, 3 mm entre implantes, 2 mm de tabla vestibular, 2 mm de encía queratinizada, 3-4 mm de tejido supracrestal.",
+  "El implante se coloca más estrecho que el diente, a 2 mm de la tabla; si el espacio supera unos 2,5 mm se rellena, si no, el coágulo basta.",
+  "La clasificación de la raíz orienta: clase 1 ideal; clase 3 valorar preservación.",
+  "Papila: hueso a 5 mm o menos del punto de contacto; el injerto conectivo da volumen y biotipo grueso, no hueso.",
+  "Dañar el diente vecino provoca dolor a la presión y puede costar el diente o el implante; se previene con planificación y periapical con la fresa piloto."
+ ],
+ "glossary": [
+  {
+   "term": "Implante inmediato (tipo 1)",
+   "text": "Implante colocado en el mismo acto de la extracción del diente."
+  },
+  {
+   "term": "Implante temprano (tipo 2)",
+   "text": "Implante a las 4-6 semanas de la extracción, tras la cicatrización del tejido blando."
+  },
+  {
+   "term": "Implante diferido (tipo 3)",
+   "text": "Implante colocado tras unas 8 semanas o más, cuando ha cicatrizado el hueso."
+  },
+  {
+   "term": "Implante tardío (tipo 4)",
+   "text": "Implante colocado años después, cuando ya se ha perdido el tejido."
+  },
+  {
+   "term": "Preservación de la cresta alveolar",
+   "text": "Relleno del alvéolo en el momento de la extracción para minimizar la pérdida de hueso."
+  },
+  {
+   "term": "Bundle bone",
+   "text": "Hueso fino de la cara interna de la tabla vestibular, que se daña si el implante ocupa todo el alvéolo."
+  },
+  {
+   "term": "Tabla vestibular",
+   "text": "Pared ósea del alvéolo por el lado del labio; clave para la estética."
+  },
+  {
+   "term": "Estabilidad primaria",
+   "text": "Fijación mecánica del implante en el hueso en el momento de colocarlo."
+  },
+  {
+   "term": "Biotipo gingival",
+   "text": "Grosor de la encía, fino o grueso; el grueso es más predecible."
+  },
+  {
+   "term": "Injerto de tejido conectivo subepitelial",
+   "text": "Injerto de encía que da volumen y engrosa el biotipo, preferido en zona estética."
+  },
+  {
+   "term": "Cantiléver",
+   "text": "Parte de una prótesis que queda en voladizo sin apoyo; poco recomendable en molares."
+  },
+  {
+   "term": "Pink esthetic score",
+   "text": "Índice para medir el resultado estético del tejido blando alrededor del implante."
+  }
+ ],
+ "questions": {
+  "implantes-t08-01": {
+   "section": "mapa-de-la-clase",
+   "reasoning": "La clase comparó el checklist con el de un piloto: no se despega con un solo parámetro en rojo. El alvéolo tiene que ganarse el implante inmediato; si no es predecible, no se hace.",
+   "options": {
+    "a": "Incorrecta. Un único parámetro en rojo es suficiente para no hacerlo, igual que un piloto no despega sin combustible.",
+    "b": "Correcta. Si algo no es predecible, no se hace el inmediato y se pasa a otra alternativa.",
+    "c": "Incorrecta. No hacer nada tiene un precio: la pérdida de tejidos en pocos meses.",
+    "d": "Incorrecta. Se trata con otra alternativa; derivar no es la respuesta de la clase."
+   }
+  },
+  "implantes-t08-02": {
+   "section": "mapa-de-la-clase",
+   "reasoning": "El profesor insistió en que no es un acto ni una técnica, sino un conjunto: valoración del alvéolo, implante y prótesis (provisionalización).",
+   "options": {
+    "a": "Incorrecta. Es justo lo contrario: exige planificación.",
+    "b": "Incorrecta. No se refiere a un producto, sino a un proceso.",
+    "c": "Incorrecta. No se trata de un producto de un fabricante.",
+    "d": "Correcta. Son los tres elementos que se citaron como un conjunto."
+   }
+  },
+  "implantes-t08-03": {
+   "section": "historia-de-la-inmediatez",
+   "reasoning": "La clase explicó que la técnica surgió en los años 80 con resultados impredecibles, que un diseño con aletas se retiró y que la inmediatez se abandonó hasta entender mejor la biología.",
+   "options": {
+    "a": "Correcta. Ese fue el motivo señalado: no se conocía la biología y los resultados no eran predecibles.",
+    "b": "Incorrecta. La osteointegración sí ocurre; algunos casos iban bien, pero no era predecible.",
+    "c": "Incorrecta. Algunos casos iban bien; el problema era la falta de predecibilidad.",
+    "d": "Incorrecta. No se señaló el material como causa."
+   }
+  },
+  "implantes-t08-04": {
+   "section": "alternativas-tras-la-extraccion",
+   "reasoning": "La clase explicó que no hacer nada tiene un precio: la pérdida de tejidos, que ya es evidente a los dos meses. Si luego se planifica desde la prótesis, el implante quedaría fuera del hueso.",
+   "options": {
+    "a": "Incorrecta. No hacer nada supone perder tejidos de forma rápida.",
+    "b": "Incorrecta. Ha pasado la ventana del inmediato; es un caso tardío.",
+    "c": "Correcta. El hueso se ha contraído y el implante ideal quedaría fuera del hueso.",
+    "d": "Incorrecta. Se pierden tejidos duros y blandos."
+   }
+  },
+  "implantes-t08-05": {
+   "section": "alternativas-tras-la-extraccion",
+   "reasoning": "Ante la pregunta de si solo se podía hacer con un diente, la respuesta fue que se puede hacer incluso cuando faltan todos, pero siempre en el momento de la extracción.",
+   "options": {
+    "a": "Incorrecta. Si no se hace en el momento de la extracción, ya se pierde y se pasa a regenerar.",
+    "b": "Incorrecta. Se puede hacer también con varios dientes o todos.",
+    "c": "Correcta. Es la única oportunidad de preservar; después es regeneración.",
+    "d": "Incorrecta. Se plantea con especial interés en sector estético, y no se limita al posterior."
+   }
+  },
+  "implantes-t08-06": {
+   "section": "alternativas-tras-la-extraccion",
+   "reasoning": "La clase comparó el relleno con mantener el pie en una puerta: si se reabsorbe antes de que se forme hueso, no sirve. Y se insistió en decir «minimiza», no «evita».",
+   "options": {
+    "a": "Correcta. Debe mantenerse el tiempo suficiente y, aun así, solo reduce la pérdida.",
+    "b": "Incorrecta. Si se reabsorbe antes que el hueso, el volumen se pierde.",
+    "c": "Incorrecta. Solo la minimiza.",
+    "d": "Incorrecta. Se cubre para que no entre saliva ni salga el material."
+   }
+  },
+  "implantes-t08-07": {
+   "section": "alternativas-tras-la-extraccion",
+   "reasoning": "La clase dio cifras orientativas: casi todo con inmediato bien hecho, por encima del 85 % con preservación y muy por debajo si hay que regenerar tras perderlo todo.",
+   "options": {
+    "a": "Incorrecta. Es el orden inverso.",
+    "b": "Incorrecta. Un inmediato bien hecho puede conservar más, además de mantener la arquitectura gingival con la prótesis.",
+    "c": "Incorrecta. Parten de situaciones distintas y conservan distinto.",
+    "d": "Correcta. Es el orden descrito en la clase."
+   }
+  },
+  "implantes-t08-08": {
+   "section": "tipos-de-colocacion",
+   "reasoning": "En 4 semanas no da tiempo a que cure el hueso, pero sí la encía. Eso sirve para cubrir un defecto regenerado con encía sin que entre saliva.",
+   "options": {
+    "a": "Incorrecta. Esa es la finalidad del tipo 3.",
+    "b": "Correcta. Es lo que se busca con el implante temprano.",
+    "c": "Incorrecta. Se espera a propósito por la cicatrización de la encía.",
+    "d": "Incorrecta. No es lo que se persigue."
+   }
+  },
+  "implantes-t08-09": {
+   "section": "tipos-de-colocacion",
+   "reasoning": "En el tipo 3 se espera por tejido duro, no por blando. Sin estabilidad primaria no se puede colocar el implante.",
+   "options": {
+    "a": "Incorrecta. A las 4 semanas el blando ya ha cicatrizado; en el tipo 3 se espera por el hueso.",
+    "b": "Incorrecta. La reabsorción es lo que se quiere evitar.",
+    "c": "Incorrecta. No es el motivo.",
+    "d": "Correcta. Es lo que se busca al esperar."
+   }
+  },
+  "implantes-t08-10": {
+   "section": "tipos-de-colocacion",
+   "reasoning": "La clase presentó este caso: no tipo 1. Se espera 4-6 semanas para que la infección se resuelva y el tejido blando cicatrice y engrose, antes de que el alvéolo se reabsorba.",
+   "options": {
+    "a": "Incorrecta. La decisión es clínica: hay dos luces rojas.",
+    "b": "Correcta. Se pone «en el mismo mes, no en el mismo día».",
+    "c": "Incorrecta. Esperar años supone perder todo el tejido.",
+    "d": "Incorrecta. La prótesis no corrige una infección activa."
+   }
+  },
+  "implantes-t08-11": {
+   "section": "tipos-de-colocacion",
+   "reasoning": "La clase explicó que con colgajo el caso es más delicado y que no se puede hacer a la ligera, aunque sí es posible.",
+   "options": {
+    "a": "Correcta. Es un factor a valorar, no una prohibición.",
+    "b": "Incorrecta. No es el motivo.",
+    "c": "Incorrecta. No es una consecuencia.",
+    "d": "Incorrecta. No es el motivo señalado."
+   }
+  },
+  "implantes-t08-12": {
+   "section": "ventajas-y-limites",
+   "reasoning": "La clase dio varios motivos: poco espacio en el septo, el cantiléver poco recomendable en molares y la estabilidad en el ápice, junto al dentario y con la zona anestesiada.",
+   "options": {
+    "a": "Incorrecta. No se señaló como motivo.",
+    "b": "Incorrecta. Eso describe el segundo molar superior.",
+    "c": "Correcta. Son los motivos que se expusieron.",
+    "d": "Incorrecta. La osteointegración no es el problema."
+   }
+  },
+  "implantes-t08-13": {
+   "section": "ventajas-y-limites",
+   "reasoning": "La clase explicó que en el primer molar superior hay hueso en la furca, y en el segundo las raíces suelen ser coalescentes y dejan un gran agujero con el seno encima.",
+   "options": {
+    "a": "Incorrecta. Es al contrario: en el segundo son más habituales raíces coalescentes.",
+    "b": "Correcta. Así se explicó.",
+    "c": "Incorrecta. El seno exige respeto y hueso para estabilidad.",
+    "d": "Incorrecta. El primer molar con frecuencia sí."
+   }
+  },
+  "implantes-t08-14": {
+   "section": "cicatrizacion-del-alveolo",
+   "reasoning": "Entre los factores se citaron el trauma quirúrgico, la falta de estímulo, la ausencia de bundle bone y la genética.",
+   "options": {
+    "a": "Incorrecta. Es una forma de minimizar la pérdida.",
+    "b": "Incorrecta. No se citó como factor.",
+    "c": "Incorrecta. Se usa para proteger el relleno.",
+    "d": "Correcta. Una extracción difícil daña el hueso y favorece su pérdida."
+   }
+  },
+  "implantes-t08-15": {
+   "section": "cicatrizacion-del-alveolo",
+   "reasoning": "La clase explicó que se pierde altura, pero sobre todo anchura, y que ocurre muy rápido, en unos dos meses.",
+   "options": {
+    "a": "Correcta. Así se describió.",
+    "b": "Incorrecta. Es rápida y afecta sobre todo a la anchura.",
+    "c": "Incorrecta. La reabsorción palatina es poco frecuente y poco relevante estéticamente.",
+    "d": "Incorrecta. Se produce en cualquier caso sin preservación."
+   }
+  },
+  "implantes-t08-16": {
+   "section": "cicatrizacion-del-alveolo",
+   "reasoning": "En los años 2000 se pensaba que colocarlo bastaba para mantener los tejidos y por eso se fracasaba. Hoy se sabe que depende de respetar la biología.",
+   "options": {
+    "a": "Incorrecta. Esa idea llevó a muchos fracasos.",
+    "b": "Incorrecta. Daña el bundle bone y la tabla vestibular.",
+    "c": "Correcta. Entonces puede incluso preservar mejor que la preservación de la cresta.",
+    "d": "Incorrecta. La provisional ayuda a mantener la arquitectura gingival."
+   }
+  },
+  "implantes-t08-17": {
+   "section": "espacios-y-numeros",
+   "reasoning": "Son dos números que la clase repitió como esenciales para el examen.",
+   "options": {
+    "a": "Correcta. Son las distancias que se pidió memorizar.",
+    "b": "Incorrecta. Están invertidas.",
+    "c": "Incorrecta. No son los valores explicados.",
+    "d": "Incorrecta. No son los valores explicados."
+   }
+  },
+  "implantes-t08-18": {
+   "section": "espacios-y-numeros",
+   "reasoning": "Se suman el diámetro del implante y los 1,5 mm de cada diente vecino: 4 + 1,5 + 1,5.",
+   "options": {
+    "a": "Incorrecta. Solo es el diámetro del implante, sin las distancias de seguridad.",
+    "b": "Incorrecta. Solo suma un lado de seguridad.",
+    "c": "Incorrecta. No suma las dos distancias de 1,5 mm.",
+    "d": "Correcta. 4 + 1,5 + 1,5 = 7."
+   }
+  },
+  "implantes-t08-19": {
+   "section": "espacios-y-numeros",
+   "reasoning": "Los espacios de seguridad son fijos y solo se pueden cambiar los diámetros: 16 − 1,5 − 1,5 − 3 = 10, entre dos implantes.",
+   "options": {
+    "a": "Incorrecta. Dejaría espacio sin aprovechar.",
+    "b": "Correcta. 16 − 6 = 10 mm, entre dos implantes.",
+    "c": "Incorrecta. Se pasaría del espacio disponible.",
+    "d": "Incorrecta. Se pasaría del espacio disponible."
+   }
+  },
+  "implantes-t08-20": {
+   "section": "espacios-y-numeros",
+   "reasoning": "Cada número responde a una pregunta: los 3 mm entre implantes, si se ha conservado el pico de hueso y la papila.",
+   "options": {
+    "a": "Incorrecta. La tabla se protege con 2 mm de grosor y de distancia.",
+    "b": "Incorrecta. Se trata de la mantenibilidad con unos 2 mm de encía queratinizada.",
+    "c": "Correcta. Es lo que protege esa distancia.",
+    "d": "Incorrecta. Son los 3-4 mm de tejido supracrestal."
+   }
+  },
+  "implantes-t08-21": {
+   "section": "posicion-tridimensional",
+   "reasoning": "Se pensó que imitar el diámetro del diente era lo lógico, pero fue un desastre porque se perdía la tabla vestibular.",
+   "options": {
+    "a": "Incorrecta. No es el motivo.",
+    "b": "Incorrecta. Es al revés: el diente es más ancho.",
+    "c": "Incorrecta. El problema es el daño tisular.",
+    "d": "Correcta. Se debe dejar al menos 2 mm hasta la tabla."
+   }
+  },
+  "implantes-t08-22": {
+   "section": "posicion-tridimensional",
+   "reasoning": "Con 2 mm o menos el coágulo basta; con más de unos 2,5 mm hay que rellenar.",
+   "options": {
+    "a": "Correcta. Es lo indicado cuando el espacio es superior a unos 2,5 mm.",
+    "b": "Incorrecta. Eso es para 2 mm o menos.",
+    "c": "Incorrecta. Hay que dejar al menos 2 mm.",
+    "d": "Incorrecta. Es el hueso que hay que proteger."
+   }
+  },
+  "implantes-t08-23": {
+   "section": "posicion-tridimensional",
+   "reasoning": "La clase presentó 2 mm como el grosor ideal: con menos, máxima reabsorción y recesión.",
+   "options": {
+    "a": "Incorrecta. El ideal es 2 mm o más.",
+    "b": "Correcta. Es una luz roja a valorar.",
+    "c": "Incorrecta. Hay más riesgo.",
+    "d": "Incorrecta. Se refiere a la cara vestibular."
+   }
+  },
+  "implantes-t08-24": {
+   "section": "posicion-tridimensional",
+   "reasoning": "La clase describió una «barriga» de cerámica que el paciente no puede limpiar y que provoca inflamación crónica del tejido periimplantario.",
+   "options": {
+    "a": "Incorrecta. Una mala posición solo trae problemas.",
+    "b": "Incorrecta. No es la consecuencia descrita.",
+    "c": "Correcta. Es la secuencia descrita.",
+    "d": "Incorrecta. Las consecuencias son protésicas y periimplantarias."
+   }
+  },
+  "implantes-t08-25": {
+   "section": "clasificacion-de-la-raiz",
+   "reasoning": "En la clase 1 la raíz está hacia vestibular, de modo que el hueso está en palatino. Es el caso ideal y el más frecuente.",
+   "options": {
+    "a": "Correcta. Es el caso ideal.",
+    "b": "Incorrecta. Eso describe una clase 3, y ahí el implante dañaría el bundle bone.",
+    "c": "Incorrecta. Se necesita hueso para estabilidad.",
+    "d": "Incorrecta. Eso es una clase 2."
+   }
+  },
+  "implantes-t08-26": {
+   "section": "clasificacion-de-la-raiz",
+   "reasoning": "En la clase 3 el hueso está en vestibular, por lo que el implante tendería a ir allí o emergería por palatino.",
+   "options": {
+    "a": "Incorrecta. No siempre se consigue y puede dañarse el bundle bone.",
+    "b": "Incorrecta. Un implante ancho daña la tabla vestibular.",
+    "c": "Incorrecta. La alternativa descrita fue la preservación.",
+    "d": "Correcta. Es mejor retirarse a tiempo que hacer un inmediato mal indicado."
+   }
+  },
+  "implantes-t08-27": {
+   "section": "estetica-papilas-biotipo",
+   "reasoning": "La clase explicó que se puede jugar un poco con el punto de contacto, pero nunca con el hueso interproximal.",
+   "options": {
+    "a": "Incorrecta. Es verdadera, por lo que no es la respuesta.",
+    "b": "Correcta. Es falsa: el hueso interproximal no se modifica con la restauración.",
+    "c": "Incorrecta. Es verdadera.",
+    "d": "Incorrecta. Es verdadera."
+   }
+  },
+  "implantes-t08-28": {
+   "section": "estetica-papilas-biotipo",
+   "reasoning": "La clase aclaró que el injerto no sirve para ganar hueso, sino volumen y biotipo grueso.",
+   "options": {
+    "a": "Incorrecta. No es su finalidad.",
+    "b": "Incorrecta. No tienen la misma función.",
+    "c": "Correcta. El grueso es más predecible y con menos recesión.",
+    "d": "Incorrecta. No tiene relación."
+   }
+  },
+  "implantes-t08-29": {
+   "section": "complicaciones-y-trucos",
+   "reasoning": "La sensibilidad típica es al tocar y masticar, no al frío, porque no se ha tocado la pulpa; puede evolucionar a patología periapical.",
+   "options": {
+    "a": "Correcta. Es la complicación descrita.",
+    "b": "Incorrecta. El síntoma no es al frío.",
+    "c": "Incorrecta. No encaja con el síntoma.",
+    "d": "Incorrecta. Debe vigilarse y corregirse."
+   }
+  },
+  "implantes-t08-30": {
+   "section": "complicaciones-y-trucos",
+   "reasoning": "La fresa piloto fija en torno al 80 % de la trayectoria. Ganar estabilidad de repente puede indicar contacto con un tejido muy duro, la raíz.",
+   "options": {
+    "a": "Incorrecta. Puede ser la raíz del diente vecino.",
+    "b": "Correcta. Es la conducta descrita.",
+    "c": "Incorrecta. No resuelve el problema.",
+    "d": "Incorrecta. Se debe comprobar la trayectoria."
+   }
+  }
+ }
+}

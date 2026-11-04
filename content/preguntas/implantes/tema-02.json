@@ -1,0 +1,482 @@
+[
+ {
+  "text": "Según la definición de osteointegración que dio la clase, ¿qué describe este proceso?",
+  "options": [
+   "Una unión flexible y algo móvil entre el hueso y el implante, que se estabiliza con la masticación.",
+   "Una cicatrización ósea dependiente del tiempo que establece una unión rígida y asintomática con un material sintético diseñado para ello, mantenida bajo carga funcional.",
+   "La formación de una cápsula de tejido fibroso denso que rodea al implante y lo mantiene estable.",
+   "El contacto entre implante y hueso que se aprecia en una radiografía periapical a los pocos meses."
+  ],
+  "correct": "b",
+  "explanation": "La definición exige una unión rígida y asintomática con un material sintético, mantenida durante la carga funcional y dependiente del tiempo.",
+  "difficulty": "baja",
+  "source": {
+   "kind": "clase",
+   "title": "Clases del 17 y 24 de septiembre · Osteointegración"
+  }
+ },
+ {
+  "text": "Por consenso, ¿durante cuánto tiempo debe un implante haber estado en carga funcional, sin dolor ni movilidad, para considerarlo osteointegrado?",
+  "options": [
+   "Tres meses desde la colocación.",
+   "Seis meses, sin ninguna carga.",
+   "Un año.",
+   "Cinco años."
+  ],
+  "correct": "c",
+  "explanation": "El criterio aceptado es un año de carga funcional; no es un hallazgo biológico sino una convención consensuada.",
+  "difficulty": "baja",
+  "source": {
+   "kind": "clase",
+   "title": "Clases del 17 y 24 de septiembre · Osteointegración"
+  }
+ },
+ {
+  "text": "Un implante está rodeado de tejido fibroso denso y se mantiene estable al tacto. ¿Puede considerarse osteointegrado?",
+  "options": [
+   "Sí, porque la fibrosis es una forma de integración estable.",
+   "Sí, siempre que no duela y la radiografía sea normal.",
+   "Solo si lleva más de seis meses en boca.",
+   "No: al no haber contacto óseo directo, está fibrointegrado."
+  ],
+  "correct": "d",
+  "explanation": "Sin unión ósea directa no hay osteointegración, aunque el implante sea estable: se denomina fibrointegración.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clases del 17 y 24 de septiembre · Osteointegración"
+  }
+ },
+ {
+  "text": "¿Qué ofrece el análisis de frecuencia de resonancia (por ejemplo, el aparato Ostell) para valorar un implante?",
+  "options": [
+   "Un valor objetivo de la rigidez de la unión (ISQ), que no daña el implante y puede repetirse en cada control.",
+   "Un valor de la fuerza de inserción que solo puede medirse en el momento de colocar el implante.",
+   "Una imagen microscópica del contacto entre el hueso y el implante, sin necesidad de cirugía.",
+   "Una medida de la densidad ósea en unidades Hounsfield alrededor del implante."
+  ],
+  "correct": "a",
+  "explanation": "El ISQ mide la rigidez de la unión de forma objetiva y repetible, a diferencia del torque, que solo se mide al insertar.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clases del 17 y 24 de septiembre · Osteointegración"
+  }
+ },
+ {
+  "text": "¿Qué papel tiene la red de fibrina que se forma en los primeros minutos tras colocar el implante?",
+  "options": [
+   "Aporta la estabilidad primaria que mantiene el implante firme durante los primeros meses.",
+   "Sirve para eliminar bacterias y restos de hueso necrosado en la fase inflamatoria.",
+   "Es el andamiaje por el que migran las células que formarán el hueso; sin sangre ni fibrina no hay osteointegración.",
+   "Es hueso inmaduro que después se mineraliza y se convierte en hueso laminar."
+  ],
+  "correct": "c",
+  "explanation": "La fibrina es el andamiaje por el que llegan las células osteogénicas; sin sangre no hay fibrina y sin ella no hay osteointegración.",
+  "difficulty": "baja",
+  "source": {
+   "kind": "clase",
+   "title": "Clases del 17 y 24 de septiembre · Osteointegración"
+  }
+ },
+ {
+  "text": "¿Qué ocurre cuando la fase inflamatoria se descontrola, por ejemplo por sobrecalentar el hueso al fresar o por una contaminación excesiva?",
+  "options": [
+   "Se acelera la formación de hueso, porque cuanta más limpieza, antes llegan las células formadoras.",
+   "No tiene consecuencias, porque la fase proliferativa empieza de forma independiente.",
+   "Solo afecta a los tejidos blandos; el hueso nativo no se modifica.",
+   "Las enzimas liberadas dañan también el hueso nativo y comprometen las fases siguientes."
+  ],
+  "correct": "d",
+  "explanation": "Un exceso de enzimas inflamatorias daña el hueso sano y las células de las fases siguientes no encuentran un lecho adecuado.",
+  "difficulty": "alta",
+  "source": {
+   "kind": "clase",
+   "title": "Clases del 17 y 24 de septiembre · Osteointegración"
+  }
+ },
+ {
+  "text": "¿Cuál es la secuencia correcta de la cascada biológica de la osteointegración?",
+  "options": [
+   "Hemostasia con red de fibrina, fase inflamatoria, fase proliferativa (vasos y hueso reticular), mineralización a hueso laminar y remodelación con carga.",
+   "Fase inflamatoria, hemostasia, hueso laminar, hueso reticular y remodelación.",
+   "Hemostasia, hueso laminar, inflamación, hueso reticular y remodelación.",
+   "Remodelación, hemostasia, inflamación, proliferación y mineralización."
+  ],
+  "correct": "a",
+  "explanation": "El orden es fibrina, limpieza, vasos y hueso reticular, hueso laminar y remodelación; el hueso reticular precede al laminar.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clases del 17 y 24 de septiembre · Osteointegración"
+  }
+ },
+ {
+  "text": "Un paciente refiere una osteoporosis diagnosticada en cadera y vértebra. ¿Qué conclusión es correcta para planificar el implante?",
+  "options": [
+   "Tendrá hueso tipo 4 en el maxilar, porque la osteoporosis afecta a todo el esqueleto.",
+   "No hay una relación lineal demostrada con el hueso de los maxilares, de otro origen y osificación; lo importante es la medicación antirresortiva y el riesgo de osteonecrosis.",
+   "La densitometría de cadera basta para conocer la densidad de su mandíbula.",
+   "La osteoporosis es una contraindicación absoluta de los implantes."
+  ],
+  "correct": "b",
+  "explanation": "El hueso maxilar tiene otro origen y osificación, por lo que la osteoporosis esquelética no predice su calidad; importa la medicación.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clases del 17 y 24 de septiembre · Osteointegración"
+  }
+ },
+ {
+  "text": "A los 5 días de colocar un implante, un paciente llega con el pilar de cicatrización suelto. ¿Qué actitud defendió la clase y por qué?",
+  "options": [
+   "Volver a atornillarlo enseguida, para que no crezca tejido dentro del implante.",
+   "Atornillarlo con más torque que el primer día, para compensar la pérdida de estabilidad.",
+   "No volver a atornillarlo: la estabilidad primaria ya está cayendo y el giro puede mover el implante y romper la red de fibrina.",
+   "Cargar el implante con una prótesis provisional, porque ya ha pasado la primera semana."
+  ],
+  "correct": "c",
+  "explanation": "A los 5 días ya hay inflamación y pérdida de estabilidad primaria: atornillar aplica cizalla y puede girar el implante y romper la fibrina.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clases del 17 y 24 de septiembre · Osteointegración"
+  }
+ },
+ {
+  "text": "¿Cuál es la consecuencia clínica principal de que un implante osteointegrado no tenga ligamento periodontal?",
+  "options": [
+   "No amortigua las fuerzas ni da propiocepción: el paciente no nota la sobrecarga, y el control de la oclusión forma parte del tratamiento.",
+   "Permite pequeños movimientos de adaptación a la carga, como un diente natural.",
+   "Permite mover el implante con ortodoncia.",
+   "Hace que el implante transmita menos fuerza al hueso que un diente."
+  ],
+  "correct": "a",
+  "explanation": "Sin ligamento no hay amortiguación ni aviso: la fuerza pasa directa al hueso y la oclusión debe controlarse como parte del tratamiento.",
+  "difficulty": "baja",
+  "source": {
+   "kind": "clase",
+   "title": "Clases del 17 y 24 de septiembre · Osteointegración"
+  }
+ },
+ {
+  "text": "Se entrega la prótesis a un paciente que lleva dos meses con comida blanda y pregunta si ya puede comer de todo. ¿Qué respuesta es coherente con la biología explicada?",
+  "options": [
+   "Sí, de todo, porque la osteointegración ya ha terminado.",
+   "No, solo alimentos blandos durante todo el primer año.",
+   "Sí, pero masticando por el lado contrario a la prótesis durante un año.",
+   "Puede comer normal, evitando lo muy duro (frutos secos duros, caramelos, huesos), porque el hueso es recién formado y debe cargarse de forma progresiva."
+  ],
+  "correct": "d",
+  "explanation": "El hueso es recién formado: se puede comer normal, evitando lo muy duro, y la masticación progresiva favorece su remodelación.",
+  "difficulty": "baja",
+  "source": {
+   "kind": "clase",
+   "title": "Clases del 17 y 24 de septiembre · Osteointegración"
+  }
+ },
+ {
+  "text": "¿Qué afirmación sobre la estabilidad primaria y la secundaria es correcta?",
+  "options": [
+   "Ambas son mecánicas y la secundaria se suma a la primaria desde el primer día.",
+   "La primaria es mecánica (fricción y torque) y la secundaria es biológica (hueso nuevo); la segunda releva a la primera, no se suman.",
+   "La primaria es biológica y aparece a las semanas, y la secundaria es la fricción del día de la cirugía.",
+   "La primaria aumenta con el tiempo, mientras que la secundaria disminuye en las primeras semanas."
+  ],
+  "correct": "b",
+  "explanation": "La primaria es mecánica y la secundaria biológica; se relevan, por lo que entre ambas aparece un valle.",
+  "difficulty": "baja",
+  "source": {
+   "kind": "clase",
+   "title": "Clases del 17 y 24 de septiembre · Osteointegración"
+  }
+ },
+ {
+  "text": "¿Por qué se produce el «valle» de la curva de estabilidad y cuándo es mayor el riesgo?",
+  "options": [
+   "Porque el hueso laminar se reabsorbe por la carga, hacia el tercer mes.",
+   "Porque la superficie del implante pierde rugosidad, durante la primera semana.",
+   "Porque la primaria cae al reabsorberse el hueso comprimido en la fase inflamatoria antes de que la secundaria compense; hacia la segunda o tercera semana.",
+   "Porque se deshace la red de fibrina, en las primeras 24 horas."
+  ],
+  "correct": "c",
+  "explanation": "El valle aparece cuando la primaria ya ha caído y la secundaria aún no compensa; el cruce se sitúa en torno a las semanas 2-3.",
+  "difficulty": "alta",
+  "source": {
+   "kind": "clase",
+   "title": "Clases del 17 y 24 de septiembre · Osteointegración"
+  }
+ },
+ {
+  "text": "Un implante estaba firme el día de la cirugía y a los 21 días se mueve; mismo paciente, técnica e implante. ¿Cuál es la mejor explicación?",
+  "options": [
+   "Está en el valle: el hueso comprimido se ha reabsorbido, el hueso nuevo aún no resiste, y el sobrecalentamiento o la carga precoz agravan el fenómeno.",
+   "La secundaria ya se había sumado a la primaria, así que el movimiento solo puede deberse a un defecto del implante.",
+   "Es un fallo impredecible, sin explicación biológica, porque la estabilidad no cambia con el tiempo.",
+   "El hueso ya es trabecular y su rigidez excesiva ha aflojado el implante."
+  ],
+  "correct": "a",
+  "explanation": "A las tres semanas todos los implantes están en el valle: la primaria cayó y la secundaria no ha compensado.",
+  "difficulty": "alta",
+  "source": {
+   "kind": "clase",
+   "title": "Clases del 17 y 24 de septiembre · Osteointegración"
+  }
+ },
+ {
+  "text": "¿Qué dos estrategias reducen el valle y qué elemento actúa en cada una?",
+  "options": [
+   "Aumentar el torque por encima de 80 Ncm y condensar siempre el hueso.",
+   "Retrasar la caída de la estabilidad primaria con el macrodiseño del implante y adelantar la secundaria con la superficie.",
+   "Esperar siempre seis meses y evitar la carga inmediata.",
+   "Retrasar la secundaria con el macrodiseño y acelerar la caída de la primaria con la superficie."
+  ],
+  "correct": "b",
+  "explanation": "El macrodiseño actúa sobre la curva primaria y la superficie sobre la secundaria.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clases del 17 y 24 de septiembre · Osteointegración"
+  }
+ },
+ {
+  "text": "¿Qué factor determina la estabilidad primaria de un implante?",
+  "options": [
+   "La rugosidad nanométrica de la superficie.",
+   "La velocidad de aposición de hueso nuevo sobre el implante.",
+   "La vascularización del lecho y la capacidad de cicatrización del paciente.",
+   "La densidad del hueso receptor, la técnica de fresado y el diseño del implante."
+  ],
+  "correct": "d",
+  "explanation": "La primaria es mecánica y depende del hueso, del fresado y del diseño; los demás factores influyen en la secundaria.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clases del 17 y 24 de septiembre · Osteointegración"
+  }
+ },
+ {
+  "text": "¿Por qué no conviene superar un torque de inserción de unos 50 Ncm, aunque dé más estabilidad inicial?",
+  "options": [
+   "Porque por encima de ese valor el implante se osteointegra más despacio por exceso de rigidez.",
+   "Porque el implante se calienta por la fricción y quema el hueso.",
+   "Porque la compresión excesiva provoca isquemia por presión y necrosis avascular, y desencadena una inflamación destructiva.",
+   "Porque el torque solo es fiable hasta ese valor."
+  ],
+  "correct": "c",
+  "explanation": "El exceso de compresión colapsa los vasos (isquemia por presión), causa necrosis avascular y daña el hueso antes de integrarse.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clases del 17 y 24 de septiembre · Osteointegración"
+  }
+ },
+ {
+  "text": "Pese a ofrecer gran estabilidad primaria, el hueso tipo 1 se considera el más difícil. ¿Por qué?",
+  "options": [
+   "Está muy mineralizado y poco vascularizado: puede no sangrar, se sobrecalienta al fresarlo y es fácil pasarse de torque.",
+   "Porque tiene una densidad cercana a la del agua y no sostiene el implante.",
+   "Porque no se puede fresar con irrigación.",
+   "Porque su estabilidad primaria es la más baja y cae en pocas horas."
+  ],
+  "correct": "a",
+  "explanation": "El tipo 1 sangra poco, es duro de fresar (sobrecalentamiento) y facilita el sobretorque: tres problemas difíciles de resolver.",
+  "difficulty": "alta",
+  "source": {
+   "kind": "clase",
+   "title": "Clases del 17 y 24 de septiembre · Osteointegración"
+  }
+ },
+ {
+  "text": "Se va a colocar un implante en un maxilar posterior con hueso tipo 4 y una cortical fina en el suelo del seno. ¿Qué estrategia ayuda a lograr estabilidad primaria?",
+  "options": [
+   "Fresar al diámetro completo para evitar la sobrecompresión.",
+   "Usar un implante de paredes paralelas y roscas poco profundas.",
+   "Aplicar un torque superior a 80 Ncm para comprimir el hueso al máximo.",
+   "Condensar el hueso con osteotomos en lugar de fresar de más, y buscar anclaje bicortical."
+  ],
+  "correct": "d",
+  "explanation": "En hueso blando se condensa en lugar de fresar y se busca apoyo en las dos corticales (anclaje bicortical).",
+  "difficulty": "alta",
+  "source": {
+   "kind": "clase",
+   "title": "Clases del 17 y 24 de septiembre · Osteointegración"
+  }
+ },
+ {
+  "text": "Una zona del TAC mide unas 200 unidades Hounsfield. ¿Cómo se clasifica ese hueso?",
+  "options": [
+   "Tipo 3 (351 a 850 HU).",
+   "Tipo 4 (150 a 350 HU).",
+   "Tipo 2 (851 a 1250 HU).",
+   "Tipo 1 (más de 1250 HU)."
+  ],
+  "correct": "b",
+  "explanation": "Entre 150 y 350 HU corresponde al hueso tipo 4, el más blando; los valores más altos corresponden a tipos más densos.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clases del 17 y 24 de septiembre · Osteointegración"
+  }
+ },
+ {
+  "text": "¿Cuál de estas características pertenece al módulo crestal del implante?",
+  "options": [
+   "El diseño del ápice con forma de domo.",
+   "El depósito para recoger el hueso al atornillar.",
+   "El tipo de conexión con el pilar, el contacto con los tejidos blandos y la zona donde se concentra la mayor parte del estrés.",
+   "La combinación de roscas de distinta forma que mantiene la estabilidad primaria."
+  ],
+  "correct": "c",
+  "explanation": "El módulo crestal son los primeros milímetros: conexión, tejidos blandos y concentración del estrés.",
+  "difficulty": "baja",
+  "source": {
+   "kind": "clase",
+   "title": "Clases del 17 y 24 de septiembre · Osteointegración"
+  }
+ },
+ {
+  "text": "¿Por qué se diseñó la conexión externa en los primeros implantes y qué inconveniente tiene?",
+  "options": [
+   "El titanio de entonces podía romperse con paredes internas finas, y era preferible que se aflojara la corona; pero deja un gap con micromovimiento, filtración bacteriana, inflamación y pérdida ósea crestal.",
+   "Para permitir el platform switching; su inconveniente es que el gap queda lejos del hueso.",
+   "Porque sellaba por completo la unión; su inconveniente es que no se puede retirar el pilar.",
+   "Para aumentar la superficie del módulo crestal; su inconveniente es que no tiene antirrotacional."
+  ],
+  "correct": "a",
+  "explanation": "Se diseñó para que el titanio no se rompiera, a costa de un gap que se mueve y filtra bacterias.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clases del 17 y 24 de septiembre · Osteointegración"
+  }
+ },
+ {
+  "text": "En un implante de dos piezas (implante y pilar), ¿qué se puede afirmar sobre el gap entre ambas?",
+  "options": [
+   "Desaparece por completo con una conexión cónica bien ajustada.",
+   "Es nulo con cualquier conexión interna.",
+   "Solo existe en la conexión externa.",
+   "Siempre existe: solo se minimiza, y su micromovimiento actúa como bombeo que introduce bacterias; solo el monobloque carece de gap."
+  ],
+  "correct": "d",
+  "explanation": "Con dos piezas siempre hay gap; la ingeniería solo lo reduce. El monobloque no tiene gap, pero sí otros problemas.",
+  "difficulty": "alta",
+  "source": {
+   "kind": "clase",
+   "title": "Clases del 17 y 24 de septiembre · Osteointegración"
+  }
+ },
+ {
+  "text": "¿Qué es el platform switching y qué ventajas aporta?",
+  "options": [
+   "Un pilar más ancho que la plataforma del implante, que refuerza la conexión.",
+   "Un pilar de diámetro menor que la plataforma del implante: aleja el gap del hueso, da apoyo a los tejidos blandos y reduce la pérdida ósea marginal.",
+   "Un pilar del mismo diámetro que el implante, que elimina el gap.",
+   "El cambio de plataforma del implante por otra de otro fabricante tras la cirugía."
+  ],
+  "correct": "b",
+  "explanation": "Pilar más estrecho que el implante: gap lejos del hueso y apoyo para el tejido blando.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clases del 17 y 24 de septiembre · Osteointegración"
+  }
+ },
+ {
+  "text": "¿Qué aportan las microespiras del módulo crestal?",
+  "options": [
+   "Un gran aumento de la estabilidad primaria, porque se suman a las macroespiras.",
+   "Una aceleración de la formación de hueso gracias a su rugosidad nanométrica.",
+   "Más superficie, que reparte el estrés, reduce las microfracturas y ayuda a preservar la cresta; la estabilidad primaria la dan las macroespiras.",
+   "Un mejor sellado de la conexión, que evita la filtración bacteriana."
+  ],
+  "correct": "c",
+  "explanation": "Las microespiras aumentan la superficie y reparten el estrés, pero no aumentan la estabilidad primaria.",
+  "difficulty": "alta",
+  "source": {
+   "kind": "clase",
+   "title": "Clases del 17 y 24 de septiembre · Osteointegración"
+  }
+ },
+ {
+  "text": "Se va a colocar un implante inmediato en un alvéolo fresco tras una extracción. ¿Qué diseño del cuerpo facilita la estabilidad primaria?",
+  "options": [
+   "Cónico, con roscas más profundas hacia el ápice.",
+   "Paredes paralelas y roscas poco profundas.",
+   "Liso, sin roscas.",
+   "Cilíndrico, con el módulo crestal más ancho que el cuerpo."
+  ],
+  "correct": "a",
+  "explanation": "Un cuerpo cónico con roscas marcadas hacia el ápice se ancla en el fondo del alvéolo, como un sacacorchos.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clases del 17 y 24 de septiembre · Osteointegración"
+  }
+ },
+ {
+  "text": "¿Qué ocurre cuando se reduce el paso de rosca (pitch) de un implante?",
+  "options": [
+   "Hay menos roscas y el implante avanza más con cada vuelta.",
+   "Aumenta la profundidad de la rosca.",
+   "Cambia la forma de la rosca, de cuadrada a en V.",
+   "Hay más roscas en la misma longitud y hacen falta más vueltas para avanzar."
+  ],
+  "correct": "d",
+  "explanation": "El paso es la distancia entre dos roscas consecutivas: cuanto menor, más roscas y más vueltas por avance.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clases del 17 y 24 de septiembre · Osteointegración"
+  }
+ },
+ {
+  "text": "Sector posterior del maxilar con hueso tipo 3-4 y 10 mm de altura. Si el espacio lo permite, ¿qué implante es más razonable, uno de 3,5 mm o uno de 5 mm de diámetro?",
+  "options": [
+   "El de 3,5 mm, porque cuanto menos hueso se fresa, mejor.",
+   "El de 5 mm, porque aumenta la superficie y reparte la carga, lo que protege un hueso débil.",
+   "Da igual: el diámetro no influye en el reparto de carga.",
+   "El de 3,5 mm, porque en hueso blando solo importa la longitud."
+  ],
+  "correct": "b",
+  "explanation": "Más diámetro, más superficie y mejor reparto de carga; cuanto peor es el hueso, más conviene repartir.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clases del 17 y 24 de septiembre · Osteointegración"
+  }
+ },
+ {
+  "text": "Un representante presenta un diseño de implante muy novedoso. ¿Qué actitud defendió la clase?",
+  "options": [
+   "Aceptarlo si el precio es bajo y colocarlo en los primeros pacientes sin avisarles.",
+   "Aprobarlo porque la teoría de diseño es sólida y las buenas ideas siempre funcionan.",
+   "Preguntar cuántos años y casos lleva en boca y, si se va a usar como prueba, informar con claridad al paciente.",
+   "Rechazar cualquier implante posterior al diseño original."
+  ],
+  "correct": "c",
+  "explanation": "Ante una novedad, se pide experiencia clínica real y se informa al paciente si se va a probar.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clases del 17 y 24 de septiembre · Osteointegración"
+  }
+ },
+ {
+  "text": "Una paciente tiene una boda la semana próxima y exige dientes fijos ya. ¿En qué debe basarse la decisión de cargar el implante?",
+  "options": [
+   "En la fecha del acontecimiento, si el paciente acepta el riesgo.",
+   "En el protocolo estándar de dos meses, que vale para todos.",
+   "En la radiografía periapical, que confirma la osteointegración.",
+   "En el punto de la curva de estabilidad en que está ese implante (torque, tipo de hueso y evolución del paciente), no en el calendario."
+  ],
+  "correct": "d",
+  "explanation": "La carga se decide por la curva de ese paciente, no por el calendario ni por las circunstancias personales.",
+  "difficulty": "alta",
+  "source": {
+   "kind": "clase",
+   "title": "Clases del 17 y 24 de septiembre · Osteointegración"
+  }
+ }
+]

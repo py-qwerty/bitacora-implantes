@@ -1,0 +1,482 @@
+[
+ {
+  "text": "¿Qué se entiende por cambio de plataforma (platform switching)?",
+  "options": [
+   "Que el pilar tiene el mismo diámetro que el implante y queda a ras.",
+   "Que el pilar tiene un diámetro menor que la plataforma del implante.",
+   "Que se sustituye el implante de titanio por otro de cerámica.",
+   "Que el pilar es más ancho que el implante para sellar mejor."
+  ],
+  "correct": "b",
+  "explanation": "El pilar es más estrecho que la plataforma del implante; así se aleja la unión del hueso y se deja un escalón para el tejido blando.",
+  "difficulty": "baja",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 1 de octubre · Materiales de los implantes"
+  }
+ },
+ {
+  "text": "Un implante con cambio de plataforma se asocia en clínica a menor pérdida de hueso marginal. ¿Cuál es la explicación que se dio?",
+  "options": [
+   "El titanio de los pilares estrechos es más resistente que el del implante.",
+   "Al ser más estrecho, el pilar elimina por completo las bacterias de la boca.",
+   "La unión pilar-implante y los micromovimientos quedan más lejos de la cresta ósea y los tejidos blandos tienen un escalón donde apoyarse.",
+   "El estrechamiento aumenta el módulo elástico del pilar."
+  ],
+  "correct": "c",
+  "explanation": "La unión y los micromovimientos se alejan de la cresta ósea y el tejido blando se apoya en el escalón, con menor pérdida ósea marginal.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 1 de octubre · Materiales de los implantes"
+  }
+ },
+ {
+  "text": "¿Por qué se consideran la boca un medio especialmente exigente para un biomaterial?",
+  "options": [
+   "Porque combina cargas mecánicas, cambios térmicos, humedad y bacterias de forma continua.",
+   "Porque el pH de la saliva es siempre ácido y disuelve cualquier material.",
+   "Porque es un entorno estéril y cualquier material lo contamina.",
+   "Porque la temperatura se mantiene constante y el material se fatiga."
+  ],
+  "correct": "a",
+  "explanation": "La boca combina cargas mecánicas, cambios térmicos, humedad y bacterias, por lo que es el medio más exigente del cuerpo.",
+  "difficulty": "baja",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 1 de octubre · Materiales de los implantes"
+  }
+ },
+ {
+  "text": "Respecto a la biocompatibilidad de los materiales de los implantes, ¿qué idea se transmitió en clase?",
+  "options": [
+   "Existen materiales completamente inertes, como el titanio.",
+   "Basta con que el material no sea tóxico para considerarlo biocompatible.",
+   "Solo importa el material y no el medio donde se coloca.",
+   "Ningún material es inerte; se busca que su relación con el tejido sea previsible."
+  ],
+  "correct": "d",
+  "explanation": "Ningún material es inerte: el objetivo es una relación previsible con el tejido, valorando el conjunto material-medio.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 1 de octubre · Materiales de los implantes"
+  }
+ },
+ {
+  "text": "Un paciente lleva implantes, coronas metálicas de otra aleación y una amalgama. ¿Qué riesgo concreto se destacó al exigir que un material no genere corriente galvánica?",
+  "options": [
+   "Que el paciente desarrolle caries en los dientes vecinos.",
+   "Que metales distintos en contacto con la saliva formen una pila y generen corriente.",
+   "Que la corriente aumente la densidad ósea alrededor del implante.",
+   "Que el paciente rechace los metales por motivos estéticos."
+  ],
+  "correct": "b",
+  "explanation": "Con metales distintos y saliva se forma una pila, de ahí que se exija que el material no genere corriente galvánica.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 1 de octubre · Materiales de los implantes"
+  }
+ },
+ {
+  "text": "¿Qué mide el módulo elástico de un material?",
+  "options": [
+   "La fuerza máxima que soporta antes de romperse.",
+   "La capacidad de frenar el crecimiento de una grieta.",
+   "Cuánto se deforma el material ante una carga determinada.",
+   "La resistencia a cargas repetidas durante años."
+  ],
+  "correct": "c",
+  "explanation": "El módulo elástico describe cuánto se deforma un material con una carga; no es la fuerza de rotura ni la tenacidad.",
+  "difficulty": "baja",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 1 de octubre · Materiales de los implantes"
+  }
+ },
+ {
+  "text": "Un implante de titanio (módulo elástico alto) está osteointegrado en un hueso de módulo elástico mucho más bajo. Al masticar, ¿qué ocurre en la interfaz?",
+  "options": [
+   "Implante y hueso se deforman de forma distinta y se concentra tensión en la unión.",
+   "Nada, porque la osteointegración iguala las propiedades de ambos.",
+   "El hueso se vuelve más rígido para igualarse al metal.",
+   "El implante se deforma más que el hueso y se relaja la tensión."
+  ],
+  "correct": "a",
+  "explanation": "Al ser sus módulos muy distintos, se deforman de manera diferente y se concentra tensión en la interfaz implante-hueso.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 1 de octubre · Materiales de los implantes"
+  }
+ },
+ {
+  "text": "¿Por qué se explicó que la resistencia a la fatiga importa más que la fuerza máxima puntual?",
+  "options": [
+   "Porque la fuerza máxima no se puede medir en un material dental.",
+   "Porque un material con mucha fuerza máxima es siempre más frágil.",
+   "Porque la fatiga solo afecta a las cerámicas.",
+   "Porque el implante debe soportar cargas repetidas de masticación durante décadas, no un esfuerzo enorme de un instante."
+  ],
+  "correct": "d",
+  "explanation": "El implante soporta cargas repetidas durante décadas, por lo que importa la fatiga más que un pico de fuerza.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 1 de octubre · Materiales de los implantes"
+  }
+ },
+ {
+  "text": "¿Qué propiedad describe la capacidad de un material de impedir que una grieta se haga más grande?",
+  "options": [
+   "El módulo elástico.",
+   "La tenacidad (resistencia a la fractura).",
+   "La biocorrosión.",
+   "El límite elástico."
+  ],
+  "correct": "b",
+  "explanation": "La tenacidad es la resistencia del material a que una grieta crezca.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 1 de octubre · Materiales de los implantes"
+  }
+ },
+ {
+  "text": "¿Cómo se define la tribocorrosión?",
+  "options": [
+   "Degradación química por humedad y oxígeno sin movimiento.",
+   "Capa de óxido que protege al metal.",
+   "Desgaste por fricción y roce, que se suma a la degradación química.",
+   "Pérdida de hueso alrededor del implante por infección."
+  ],
+  "correct": "c",
+  "explanation": "La tribocorrosión es el desgaste por fricción que se suma a la corrosión química.",
+  "difficulty": "baja",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 1 de octubre · Materiales de los implantes"
+  }
+ },
+ {
+  "text": "¿Qué es lo que realmente se osteointegra en un implante de titanio?",
+  "options": [
+   "El titanio metálico puro de la masa del implante.",
+   "Una capa de hidroxiapatita que siempre se coloca sobre el implante.",
+   "Los iones de titanio liberados por la corrosión.",
+   "La capa nanométrica de dióxido de titanio (titania) que recubre el metal."
+  ],
+  "correct": "d",
+  "explanation": "Lo que se integra es la capa nanométrica de titania, una cerámica, y no el titanio metálico.",
+  "difficulty": "baja",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 1 de octubre · Materiales de los implantes"
+  }
+ },
+ {
+  "text": "Tras un arañazo en la superficie de un implante de titanio con oxígeno disponible, ¿qué ocurre?",
+  "options": [
+   "La zona queda desprotegida de forma permanente.",
+   "Se vuelve a formar una nueva capa de titania en milisegundos.",
+   "El implante pierde la osteointegración en esa zona.",
+   "Se forma una capa de hidroxiapatita."
+  ],
+  "correct": "b",
+  "explanation": "Con oxígeno disponible, la superficie arañada se reoxida y forma titania nueva en milisegundos.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 1 de octubre · Materiales de los implantes"
+  }
+ },
+ {
+  "text": "¿Qué grado de titanio comercialmente puro se utiliza en implantología?",
+  "options": [
+   "El grado 4, el más resistente de los puros por su mayor contenido de impurezas.",
+   "El grado 1, por ser el más blando.",
+   "El grado 5, por ser titanio puro.",
+   "El grado 2, por ser el más translúcido."
+  ],
+  "correct": "a",
+  "explanation": "Entre los puros se usa el grado 4, el más resistente; el grado 5 agrupa las aleaciones.",
+  "difficulty": "baja",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 1 de octubre · Materiales de los implantes"
+  }
+ },
+ {
+  "text": "¿Qué función cumplen el aluminio y el vanadio en la aleación Ti-6Al-4V?",
+  "options": [
+   "Colorean la superficie del implante.",
+   "Reducen el módulo elástico por debajo del hueso.",
+   "Eliminan las impurezas de oxígeno del grado 4.",
+   "Son estabilizadores de la fase beta, que se mantiene así a temperatura ambiente."
+  ],
+  "correct": "d",
+  "explanation": "El aluminio y el vanadio estabilizan la fase beta a temperatura ambiente en la aleación Ti-6Al-4V.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 1 de octubre · Materiales de los implantes"
+  }
+ },
+ {
+  "text": "¿Qué ventaja permitió el titanio alfa-beta (Ti-6Al-4V) frente al titanio puro de grado 4 en los diseños modernos?",
+  "options": [
+   "Es más barato y se mecaniza sin esfuerzo.",
+   "Su mayor resistencia permite paredes finas y conexiones exigentes como el cono Morse.",
+   "Elimina la capa de titania.",
+   "Es completamente inerte y no libera ningún ion."
+  ],
+  "correct": "b",
+  "explanation": "La mayor resistencia del titanio alfa-beta permite paredes finas y conexiones como el cono Morse.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 1 de octubre · Materiales de los implantes"
+  }
+ },
+ {
+  "text": "¿Qué indican las siglas ELI en un titanio?",
+  "options": [
+   "Elemento de liberación iónica: libera iones controlados.",
+   "Estabilizador de la fase beta: mantiene la fase beta.",
+   "Extra low interstitial: muy pocas impurezas y defectos en la red atómica.",
+   "Extra long implant: implante extralargo."
+  ],
+  "correct": "c",
+  "explanation": "ELI significa extra low interstitial: titanio con impurezas y defectos reducidos al mínimo.",
+  "difficulty": "baja",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 1 de octubre · Materiales de los implantes"
+  }
+ },
+ {
+  "text": "Una paciente refiere alergia a los metales. ¿Qué característica del Roxolid lo hace interesante?",
+  "options": [
+   "Es una aleación de titanio con circonio que no contiene vanadio.",
+   "Es una cerámica totalmente libre de metales.",
+   "Contiene más vanadio que el Ti-6Al-4V.",
+   "Carece de capa de óxido en la superficie."
+  ],
+  "correct": "a",
+  "explanation": "El Roxolid es titanio con circonio sin vanadio, lo que puede interesar en pacientes alérgicos a metales.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 1 de octubre · Materiales de los implantes"
+  }
+ },
+ {
+  "text": "Con el mismo titanio grado 4 de partida, ¿cómo se consigue aproximar su resistencia a unos 800 MPa?",
+  "options": [
+   "Añadiendo un 6% de aluminio.",
+   "Recubriéndolo de hidroxiapatita.",
+   "Dejándolo a 1000 grados durante años.",
+   "Con un tratamiento de trabajo en frío, que aumenta su resistencia."
+  ],
+  "correct": "d",
+  "explanation": "El trabajo en frío endurece el titanio grado 4 y lo lleva a unos 800 MPa.",
+  "difficulty": "alta",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 1 de octubre · Materiales de los implantes"
+  }
+ },
+ {
+  "text": "Una paciente con biotipo gingival fino y sonrisa gingival recibe un implante metálico en el sector anterior y se queja de una sombra gris. ¿Cuál es la causa principal?",
+  "options": [
+   "Una alergia al titanio.",
+   "Una pérdida de la capa de titania.",
+   "El metal se transparenta a través de una encía muy fina.",
+   "Un exceso de placa bacteriana."
+  ],
+  "correct": "c",
+  "explanation": "En un biotipo fino el implante metálico se transparenta y produce sombra gris.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 1 de octubre · Materiales de los implantes"
+  }
+ },
+ {
+  "text": "Una corona sobre un implante lleva tres semanas floja y el paciente ha seguido masticando; se fractura la conexión interna. ¿Qué indicación debe recoger el consentimiento para prevenirlo?",
+  "options": [
+   "Que siga masticando con normalidad hasta la próxima revisión.",
+   "Que, si la corona se afloja, no mastique y acuda para que se la aprieten.",
+   "Que pegue la corona con adhesivo doméstico.",
+   "Que retire el implante por su cuenta."
+  ],
+  "correct": "b",
+  "explanation": "El paciente debe dejar de masticar y acudir para que le aprieten la corona, para no romper la conexión.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 1 de octubre · Materiales de los implantes"
+  }
+ },
+ {
+  "text": "¿Por qué se rompe una cerámica de forma aparentemente repentina?",
+  "options": [
+   "Porque una grieta que crece de forma silenciosa llega a un tamaño crítico y se produce una fractura catastrófica.",
+   "Porque la cerámica es siempre débil.",
+   "Porque se deforma plásticamente hasta romperse.",
+   "Porque la corrosión la disuelve."
+  ],
+  "correct": "a",
+  "explanation": "La grieta crece en silencio (propagación subcrítica) hasta un tamaño crítico y entonces se produce la fractura catastrófica.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 1 de octubre · Materiales de los implantes"
+  }
+ },
+ {
+  "text": "¿Qué información aporta el módulo de Weibull de una cerámica?",
+  "options": [
+   "Cuánto se deforma el material con la carga.",
+   "Cuánto tarda en envejecer por contacto con agua.",
+   "Cómo se distribuyen los defectos: un módulo alto indica un comportamiento más predecible.",
+   "El color final de la cerámica."
+  ],
+  "correct": "c",
+  "explanation": "El módulo de Weibull describe la distribución de los defectos; cuanto más alto, más predecible es la rotura.",
+  "difficulty": "alta",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 1 de octubre · Materiales de los implantes"
+  }
+ },
+ {
+  "text": "¿Qué estabilizador mantiene la fase tetragonal de la circonia a temperatura ambiente?",
+  "options": [
+   "El aluminio, en torno a un 6%.",
+   "El vanadio, en torno a un 4%.",
+   "El níquel, en pequeñas trazas.",
+   "La itria, en torno a un 3%."
+  ],
+  "correct": "d",
+  "explanation": "La itria (óxido de itrio), en torno al 3%, estabiliza la fase tetragonal a temperatura ambiente.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 1 de octubre · Materiales de los implantes"
+  }
+ },
+ {
+  "text": "¿Cómo se explica la autorreparación de las grietas en la circonia estabilizada?",
+  "options": [
+   "El agua rellena la grieta y la sella.",
+   "La tensión en la punta de la grieta transforma la fase tetragonal en monoclínica, que ocupa un 4% más de volumen y aprieta la grieta.",
+   "La monoclínica es más dura y rechaza la grieta.",
+   "La itria se desprende y rellena la grieta."
+  ],
+  "correct": "b",
+  "explanation": "La transformación tetragonal-monoclínica aumenta un 4% el volumen y cierra la punta de la grieta.",
+  "difficulty": "alta",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 1 de octubre · Materiales de los implantes"
+  }
+ },
+ {
+  "text": "¿Qué es el envejecimiento (degradación a baja temperatura) de la circonia y por qué es su principal talón de Aquiles?",
+  "options": [
+   "Es el cambio de color de la circonia con los años.",
+   "Es la pérdida de osteointegración con la edad.",
+   "El agua extrae la itria de la superficie, se transforma la fase y la superficie se agrieta y pierde resistencia.",
+   "Es la corrosión por oxidación del metal."
+  ],
+  "correct": "c",
+  "explanation": "El agua roba la itria de la superficie y provoca una transformación de fase que debilita y agrieta la circonia.",
+  "difficulty": "alta",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 1 de octubre · Materiales de los implantes"
+  }
+ },
+ {
+  "text": "¿Qué fase de la circonia se utiliza en las coronas translúcidas y cuál en los implantes?",
+  "options": [
+   "Cúbica en las coronas y tetragonal en los implantes.",
+   "Tetragonal en las coronas y cúbica en los implantes.",
+   "Monoclínica en ambas, por su estabilidad.",
+   "Cúbica en ambas, por ser la más dura."
+  ],
+  "correct": "a",
+  "explanation": "Las coronas usan fase cúbica, translúcida; los implantes, fase tetragonal, más resistente y opaca.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 1 de octubre · Materiales de los implantes"
+  }
+ },
+ {
+  "text": "¿Qué aporta la circonia con ceria frente a la circonia con itria?",
+  "options": [
+   "Es más translúcida y se usa para coronas.",
+   "Tiene mayor módulo elástico que el titanio.",
+   "Elimina la necesidad de osteointegración.",
+   "No sufre envejecimiento por agua y tiene capacidad de deformación, lo que permite diseños modernos."
+  ],
+  "correct": "d",
+  "explanation": "La circonia con ceria no envejece con el agua y puede deformarse, lo que permite diseños modernos.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 1 de octubre · Materiales de los implantes"
+  }
+ },
+ {
+  "text": "¿Qué dos problemas tiene recubrir un implante metálico con hidroxiapatita?",
+  "options": [
+   "Corrosión galvánica y alergia al vanadio.",
+   "Contaminación bacteriana por su porosidad y delaminación de la capa.",
+   "Pérdida de color y fractura del hueso.",
+   "Falta de osteointegración y exceso de rigidez."
+  ],
+  "correct": "b",
+  "explanation": "La hidroxiapatita puede contaminarse por su porosidad y delaminarse del implante.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 1 de octubre · Materiales de los implantes"
+  }
+ },
+ {
+  "text": "Un implante se cementa y, meses después, el paciente presenta periimplantitis. ¿Qué riesgo del cementado se explicó en clase?",
+  "options": [
+   "Los restos de cemento bajo la encía pueden causar periimplantitis.",
+   "El cemento aumenta la osteointegración.",
+   "El cemento libera iones de titanio.",
+   "El cemento impide cualquier infección."
+  ],
+  "correct": "a",
+  "explanation": "El cemento subgingival puede generar periimplantitis; además es difícil retirar una corona cementada.",
+  "difficulty": "media",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 1 de octubre · Materiales de los implantes"
+  }
+ },
+ {
+  "text": "¿Qué se señaló como lo más determinante para el éxito del implante, por encima de la elección del material?",
+  "options": [
+   "La marca comercial del implante.",
+   "Que el material sea cerámico.",
+   "La posición tridimensional del implante, junto con un tejido blando favorable.",
+   "La higiene del paciente por encima de cualquier otro factor."
+  ],
+  "correct": "c",
+  "explanation": "La posición tridimensional del implante y el tejido blando pesan más que el material elegido.",
+  "difficulty": "alta",
+  "source": {
+   "kind": "clase",
+   "title": "Clase del 1 de octubre · Materiales de los implantes"
+  }
+ }
+]
