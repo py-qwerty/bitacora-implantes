@@ -1,0 +1,15 @@
+node_modules/
+.DS_Store
+*.log
+.tmp/
+
+# Temporary extraction scripts contain host-specific paths.
+content/work/
+premium-audit.json
+
+# Grabaciones de clase y sus transcripciones: material privado, nunca se publican.
+*.m4a
+*.mp3
+*.wav
+transcripciones/
+.openrouter_key

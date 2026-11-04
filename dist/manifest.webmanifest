@@ -1,0 +1,19 @@
+{
+  "name": "Bitácora Implantes",
+  "short_name": "Implantes",
+  "description": "Estudio de implantología con temas explicados y preguntas por tema",
+  "lang": "es-ES",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f7f7",
+  "theme_color": "#103f4f",
+  "icons": [
+    {
+      "src": "assets/notebook.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

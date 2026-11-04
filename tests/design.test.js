@@ -1,0 +1,10 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {readFileSync} from 'node:fs';
+const css=readFileSync(new URL('../dist/styles.css',import.meta.url),'utf8');
+const design=readFileSync(new URL('../DESIGN.md',import.meta.url),'utf8');
+const app=readFileSync(new URL('../dist/app.js',import.meta.url),'utf8');
+const html=readFileSync(new URL('../dist/index.html',import.meta.url),'utf8');
+test('accepted PER palette and narrow geometry remain traceable to DESIGN',()=>{for(const [name,value] of Object.entries({primary:'#103f4f',secondary:'#126e70',background:'#f3f7f7',surface:'#ffffff',success:'#176447',danger:'#a33331'})){assert.ok(css.includes(`--color-${name}:${value}`));assert.ok(design.includes(`${name}: "${value}"`));}assert.ok(css.includes('--page-max:480px'));assert.match(design,/page-max: "480px"/);});
+test('scrollbars, native semantics and reduced motion are retained',()=>{assert.match(css,/scrollbar-color:/);assert.match(css,/prefers-reduced-motion/);assert.match(css,/forced-colors/);assert.match(html,/<dialog[^>]+aria-labelledby/);assert.match(html,/<html lang="es"/);assert.match(app,/novalidate/);assert.doesNotMatch(app,/\b(?:alert|confirm|prompt)\s*\(/);});
+test('UI contains no stale PER quotas, grade thresholds or public deployment metadata',()=>{assert.doesNotMatch(app,/QUOTAS|LIMITS|RULES_URL|SIMULACRO PER|1464|32 aciertos|90 minutos/);assert.doesNotMatch(html,/bitacora-per|Patrón de Embarcaciones|45 preguntas/);assert.match(app,/bitacora-implantes:v1:/);});

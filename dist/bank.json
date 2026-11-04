@@ -1,0 +1,63 @@
+{
+ "version": "2026-11-04.1",
+ "title": "Bitácora Implantes",
+ "context": "Práctica personal a partir de apuntes de clase. Las preguntas y explicaciones son material de estudio elaborado desde las sesiones, no exámenes oficiales. Pueden contener errores de transcripción o de interpretación.",
+ "courses": [
+  {
+   "id": "implantes",
+   "shortTitle": "Implantología",
+   "title": "Implantología oral"
+  }
+ ],
+ "topics": [
+  {
+   "id": 1,
+   "course": "implantes",
+   "number": 1,
+   "title": "Historia clínica en implantología"
+  },
+  {
+   "id": 2,
+   "course": "implantes",
+   "number": 2,
+   "title": "Osteointegración"
+  },
+  {
+   "id": 3,
+   "course": "implantes",
+   "number": 3,
+   "title": "Materiales de los implantes"
+  },
+  {
+   "id": 4,
+   "course": "implantes",
+   "number": 4,
+   "title": "Planificación del tratamiento"
+  },
+  {
+   "id": 5,
+   "course": "implantes",
+   "number": 5,
+   "title": "Anatomía aplicada a la implantología"
+  },
+  {
+   "id": 6,
+   "course": "implantes",
+   "number": 6,
+   "title": "Posiciones clave y número de implantes"
+  },
+  {
+   "id": 7,
+   "course": "implantes",
+   "number": 7,
+   "title": "Clase del jueves 22 de octubre (título por confirmar)"
+  },
+  {
+   "id": 8,
+   "course": "implantes",
+   "number": 8,
+   "title": "Implantes inmediatos en zona estética"
+  }
+ ],
+ "questions": []
+}
